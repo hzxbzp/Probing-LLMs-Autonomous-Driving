@@ -56,25 +56,6 @@ The study evaluates LLM driving decisions across four representative traffic sce
 
 > **Note:** Code and data will be made publicly available upon paper acceptance.
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{bao2025probing,
-  title={Probing Large Language Models for Autonomous Driving Behavior},
-  author={Bao, Zhipeng and Zhao, Wenjie and Li, Qianwen},
-  journal={Communications in Transportation Research},
-  year={2025}
-}
-```
-
-## Contact
-
-For questions or collaboration inquiries, please contact:
-- Qianwen (Cami) Li — Cami.Li@uga.edu
-- Zhipeng Bao — bzphzx8751@gmail.com
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
