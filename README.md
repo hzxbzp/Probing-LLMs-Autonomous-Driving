@@ -10,6 +10,11 @@ This repository provides the supplementary materials, code, and data for the pap
 
 As large language models (LLMs) are increasingly integrated into autonomous vehicles (AV), understanding their reasoning and behavioral tendencies becomes essential. Trained on vast datasets, LLMs carry behavioral priors and social biases that may shape their driving decisions. To address this, we probe LLM behavior in representative driving scenarios, each with 1,500 contextual variants. Three widely used LLMs (GPT-4o, DeepSeek-V3, Llama 3.1-405B) are evaluated with multilingual prompts (English, Chinese, French) to select from predefined behavioral options ordered by aggressiveness. An Ordered Logit Model quantifies how contextual factors influence decisions, complemented by thematic analysis to reveal underlying reasoning tendencies.
 
+<p align="center">
+  <img src="assets/pipeline.png" alt="Pipeline for probing LLM driving styles and decision logic" width="100%">
+</p>
+<p align="center"><i>Fig. 1. Pipeline for probing LLM driving styles and decision logic.</i></p>
+
 **Key findings:**
 - GPT-4o is more conservative, while DeepSeek and LLaMA act more assertively, especially in vehicle interactions.
 - Chinese and French prompts yield more assertive behavior than English, with French strongest.
