@@ -26,6 +26,12 @@ As large language models (LLMs) are increasingly integrated into autonomous vehi
 .
 ├── README.md
 ├── LICENSE
+├── prompts/                   # Complete prompt set (4 scenarios × 3 languages)
+│   ├── README.md
+│   ├── merging_{en,cn,fr}.txt
+│   ├── mainstream_{en,cn,fr}.txt
+│   ├── bicycle_{en,cn,fr}.txt
+│   └── pedestrian_{en,cn,fr}.txt
 ├── paper/
 │   └── Appendix.pdf          # Supplementary appendices (A1–A4)
 ├── code/                      # Source code (to be released)
@@ -49,9 +55,18 @@ The study evaluates LLM driving decisions across four representative traffic sce
 - **Thematic Analysis:** Extracts reasoning patterns from LLM-generated justifications using zero-shot Natural Language Inference.
 - **Multilingual Evaluation:** Prompts in English, Chinese, and French to assess cross-language behavioral consistency.
 
+## Prompts
+
+The complete set of experimental prompts is available in [`prompts/`](prompts/): the
+system prompt, the ordered behavioral options and a representative context block for
+each of the four scenarios in English, Chinese and French. See
+[`prompts/README.md`](prompts/README.md) for the structure of each file and for the one
+deliberate difference in prompt across models (output format).
+
 ## TODO
 
-- [ ] Release scenario generation scripts and prompt templates
+- [x] Release prompt set for all scenarios and languages
+- [ ] Release scenario generation scripts
 - [ ] Release LLM API calling and response collection code
 - [ ] Release data encoding and preprocessing scripts
 - [ ] Release Ordered Logit Model estimation code
@@ -59,7 +74,8 @@ The study evaluates LLM driving decisions across four representative traffic sce
 - [ ] Release raw and processed experimental datasets
 - [ ] Release back-translation validation code
 
-> **Note:** Code and data will be made publicly available upon paper acceptance.
+> **Note:** The prompt set is available now. The remaining code and data will be made
+> publicly available upon paper acceptance.
 
 ## License
 
