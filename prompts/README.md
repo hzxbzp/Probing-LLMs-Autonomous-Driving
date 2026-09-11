@@ -2,9 +2,8 @@
 
 Complete prompt set used in the experiments: **4 scenarios × 3 languages = 12 prompt sets**.
 
-These files are extracted from the batch-task records that were actually submitted to
-the model APIs, rather than regenerated from the scenario-generation scripts, so they
-are the exact strings the models received.
+Each file lists the system prompt, the behavioural options and one example context block
+of the corresponding scenario and language.
 
 ## Files
 
@@ -31,27 +30,11 @@ Every file contains three blocks:
 At run time the model receives the system prompt as the `system` message, and the
 context block followed by the behavioral options as the `user` message.
 
-## Differences across models
+## Note on the cyclist scenario
 
-The same prompts were used for GPT-4o, DeepSeek-V3 and Llama 3.1-405B, with one
-deliberate exception:
-
-- **Output format.** GPT-4o was instructed to return the chosen option and its
-  justification as two labelled lines of plain text. DeepSeek-V3 and Llama 3.1-405B
-  were instructed to return the same two fields as a JSON object, which was required
-  for reliable automated parsing of their API responses. The files here show the
-  plain-text variant.
-
-Only the output-format block differs. The role description, decision criteria,
-scenario description, task instructions, context block and behavioral option
-descriptions are identical across the three models; the option texts, which define the
-ordered action space, are byte-identical within each scenario–language cell.
-
-## Prompt length
-
-Token counts for every prompt, computed under the native tokenizer of each evaluated
-model (`o200k_base` for GPT-4o, and the DeepSeek-V3 and Llama 3.1 tokenizers), are
-reported in the supplementary appendix. Mean total prompt length per case ranges from
-roughly 410 to 1,030 tokens depending on scenario, language and tokenizer. Because only
-the context values vary across cases, the within-cell standard deviation is below 5
-tokens.
+In the original experiment, the scenario-description sentence of the system prompt in the cyclist scenario
+(`bicycle_*.txt`) was carried over from the "yielding to a merging vehicle" scenario: *"You are driving on the main
+road (mainstream), and a vehicle is attempting to merge from a ramp."* (Chinese and French: its translation). The
+context block and the behavioural options describe the cyclist scenario. The files here and the prompt modules in
+`code/2_llm_queries/*/S3_following_a_cyclist/` keep this sentence exactly as it was sent to the three models, so
+that re-running the code reproduces the experiment.

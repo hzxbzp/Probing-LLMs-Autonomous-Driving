@@ -1,0 +1,1501 @@
+﻿id,Météo,Moment de la journée,État de la route,Espace devant le cycliste,Type de cycliste,Position du cycliste,Distance au cycliste,Vitesse du véhicule ego,Rôle du véhicule ego,Besoin du passager,Véhicule suiveur
+32,ensoleillé,jour,sec,libre,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+35,ensoleillé,jour,sec,libre,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+116,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+120,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+128,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+134,ensoleillé,jour,sec,libre,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+140,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+181,ensoleillé,jour,sec,libre,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+209,ensoleillé,jour,sec,libre,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+219,ensoleillé,jour,sec,libre,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+248,ensoleillé,jour,sec,libre,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+252,ensoleillé,jour,sec,libre,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+266,ensoleillé,jour,sec,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+291,ensoleillé,jour,sec,libre,enfant,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+314,ensoleillé,jour,sec,libre,adulte,droite de la voie,100m,25km/h,camion,aucune,aucun
+323,ensoleillé,jour,sec,libre,enfant,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+324,ensoleillé,jour,sec,libre,enfant,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+327,ensoleillé,jour,sec,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+342,ensoleillé,jour,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+352,ensoleillé,jour,sec,libre,enfant,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+384,ensoleillé,jour,sec,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+386,ensoleillé,jour,sec,libre,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+409,ensoleillé,jour,sec,libre,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+410,ensoleillé,jour,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+439,ensoleillé,jour,sec,libre,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+448,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+452,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+475,ensoleillé,jour,sec,libre,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+483,ensoleillé,jour,sec,libre,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+485,ensoleillé,jour,sec,libre,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+504,ensoleillé,jour,sec,libre,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+521,ensoleillé,jour,sec,libre,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+539,ensoleillé,jour,sec,libre,enfant,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+564,ensoleillé,jour,sec,libre,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+607,ensoleillé,jour,sec,libre,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+656,ensoleillé,jour,sec,100m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+689,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+696,ensoleillé,jour,sec,100m,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+697,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+719,ensoleillé,jour,sec,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+721,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,aucun
+739,ensoleillé,jour,sec,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+745,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,camion,aucune,aucun
+777,ensoleillé,jour,sec,100m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+804,ensoleillé,jour,sec,100m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+813,ensoleillé,jour,sec,100m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+829,ensoleillé,jour,sec,100m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+844,ensoleillé,jour,sec,100m,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+857,ensoleillé,jour,sec,100m,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+867,ensoleillé,jour,sec,100m,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+912,ensoleillé,jour,sec,100m,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+929,ensoleillé,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+937,ensoleillé,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+961,ensoleillé,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,aucune,aucun
+972,ensoleillé,jour,sec,100m,enfant,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+981,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+994,ensoleillé,jour,sec,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+1007,ensoleillé,jour,sec,100m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+1028,ensoleillé,jour,sec,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+1035,ensoleillé,jour,sec,100m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+1053,ensoleillé,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+1078,ensoleillé,jour,sec,100m,adulte,droite de la voie,10m,50km/h,camion,aucune,véhicule d'urgence
+1088,ensoleillé,jour,sec,100m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+1098,ensoleillé,jour,sec,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+1148,ensoleillé,jour,sec,100m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+1164,ensoleillé,jour,sec,100m,enfant,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+1167,ensoleillé,jour,sec,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+1183,ensoleillé,jour,sec,100m,enfant,milieu de la voie,50m,50km/h,camion,aucune,voiture normale
+1202,ensoleillé,jour,sec,100m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+1228,ensoleillé,jour,sec,100m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+1262,ensoleillé,jour,sec,100m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+1273,ensoleillé,jour,sec,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+1289,ensoleillé,jour,sec,100m,adulte,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+1291,ensoleillé,jour,sec,100m,enfant,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+1298,ensoleillé,jour,sec,50m,adulte,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+1329,ensoleillé,jour,sec,50m,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+1338,ensoleillé,jour,sec,50m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+1347,ensoleillé,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+1351,ensoleillé,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+1356,ensoleillé,jour,sec,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+1394,ensoleillé,jour,sec,50m,adulte,droite de la voie,10m,25km/h,camion,aucune,aucun
+1399,ensoleillé,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,camion,aucune,voiture normale
+1428,ensoleillé,jour,sec,50m,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+1434,ensoleillé,jour,sec,50m,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+1457,ensoleillé,jour,sec,50m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+1458,ensoleillé,jour,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+1476,ensoleillé,jour,sec,50m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+1494,ensoleillé,jour,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+1504,ensoleillé,jour,sec,50m,enfant,droite de la voie,50m,25km/h,camion,aucune,aucun
+1505,ensoleillé,jour,sec,50m,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+1511,ensoleillé,jour,sec,50m,enfant,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+1513,ensoleillé,jour,sec,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+1523,ensoleillé,jour,sec,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+1528,ensoleillé,jour,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+1531,ensoleillé,jour,sec,50m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+1536,ensoleillé,jour,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+1555,ensoleillé,jour,sec,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+1573,ensoleillé,jour,sec,50m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+1581,ensoleillé,jour,sec,50m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+1600,ensoleillé,jour,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+1607,ensoleillé,jour,sec,50m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+1612,ensoleillé,jour,sec,50m,enfant,droite de la voie,100m,25km/h,camion,aucune,aucun
+1636,ensoleillé,jour,sec,50m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+1643,ensoleillé,jour,sec,50m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+1693,ensoleillé,jour,sec,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+1713,ensoleillé,jour,sec,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+1714,ensoleillé,jour,sec,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+1720,ensoleillé,jour,sec,50m,enfant,droite de la voie,10m,50km/h,camion,aucune,aucun
+1730,ensoleillé,jour,sec,50m,adulte,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+1731,ensoleillé,jour,sec,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+1769,ensoleillé,jour,sec,50m,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+1789,ensoleillé,jour,sec,50m,adulte,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+1806,ensoleillé,jour,sec,50m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+1808,ensoleillé,jour,sec,50m,enfant,droite de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+1816,ensoleillé,jour,sec,50m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+1863,ensoleillé,jour,sec,50m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+1902,ensoleillé,jour,sec,50m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+1912,ensoleillé,jour,sec,50m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+1969,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+1979,ensoleillé,jour,sec,20m,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+1982,ensoleillé,jour,sec,20m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+2004,ensoleillé,jour,sec,20m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+2009,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+2021,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+2042,ensoleillé,jour,sec,20m,adulte,droite de la voie,10m,25km/h,camion,aucune,aucun
+2054,ensoleillé,jour,sec,20m,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+2085,ensoleillé,jour,sec,20m,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+2120,ensoleillé,jour,sec,20m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+2128,ensoleillé,jour,sec,20m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,aucun
+2141,ensoleillé,jour,sec,20m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+2142,ensoleillé,jour,sec,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+2146,ensoleillé,jour,sec,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+2151,ensoleillé,jour,sec,20m,enfant,milieu de la voie,50m,25km/h,camion,aucune,aucun
+2169,ensoleillé,jour,sec,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+2172,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+2175,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+2196,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+2200,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+2203,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+2215,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+2248,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+2251,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+2268,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+2278,ensoleillé,jour,sec,20m,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+2301,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+2306,ensoleillé,jour,sec,20m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+2309,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+2313,ensoleillé,jour,sec,20m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+2316,ensoleillé,jour,sec,20m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+2320,ensoleillé,jour,sec,20m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+2324,ensoleillé,jour,sec,20m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+2326,ensoleillé,jour,sec,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+2327,ensoleillé,jour,sec,20m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+2335,ensoleillé,jour,sec,20m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+2352,ensoleillé,jour,sec,20m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+2389,ensoleillé,jour,sec,20m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+2394,ensoleillé,jour,sec,20m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+2421,ensoleillé,jour,sec,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+2451,ensoleillé,jour,sec,20m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+2468,ensoleillé,jour,sec,20m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+2484,ensoleillé,jour,sec,20m,enfant,droite de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+2504,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+2506,ensoleillé,jour,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+2519,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+2520,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+2534,ensoleillé,jour,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+2547,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+2555,ensoleillé,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+2560,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+2572,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+2580,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+2584,ensoleillé,jour,sec,20m,enfant,droite de la voie,100m,50km/h,camion,aucune,aucun
+2603,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+2606,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+2609,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+2617,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+2618,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+2622,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+2642,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+2648,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+2677,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+2704,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+2711,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+2715,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+2726,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+2752,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+2782,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+2790,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+2795,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+2798,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,camion,aucune,aucun
+2827,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+2849,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+2865,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+2880,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+2886,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+2894,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+2916,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+2936,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+2989,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+3012,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+3016,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,camion,aucune,aucun
+3019,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+3024,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,camion,aucune,véhicule d'urgence
+3025,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+3036,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+3063,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+3069,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+3101,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+3114,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+3143,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+3166,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+3170,ensoleillé,jour,mouillé,libre,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+3185,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+3201,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+3208,ensoleillé,jour,mouillé,libre,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+3209,ensoleillé,jour,mouillé,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+3223,ensoleillé,jour,mouillé,libre,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+3257,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+3266,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+3278,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+3287,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+3311,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+3351,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+3352,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+3354,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+3355,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+3377,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+3394,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+3406,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+3464,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+3474,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+3483,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+3489,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+3499,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+3506,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+3508,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+3509,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+3510,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+3520,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+3523,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+3526,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+3530,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,aucun
+3534,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+3572,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+3579,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+3589,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+3610,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+3617,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+3634,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+3670,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,10m,50km/h,camion,aucune,véhicule d'urgence
+3683,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+3687,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+3690,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+3704,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+3712,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+3753,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+3770,ensoleillé,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,camion,aucune,aucun
+3827,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+3837,ensoleillé,jour,mouillé,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+3883,ensoleillé,jour,mouillé,100m,enfant,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+3888,ensoleillé,jour,mouillé,100m,enfant,droite de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+3965,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+3972,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+3980,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+3994,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+4008,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+4014,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4032,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+4033,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+4035,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+4047,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+4049,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+4060,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+4069,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+4070,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,aucun
+4073,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+4075,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+4098,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,camion,aucune,voiture normale
+4102,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+4107,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+4116,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+4141,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+4149,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+4150,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+4167,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+4169,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+4190,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+4192,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+4194,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+4195,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+4198,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+4203,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,100m,25km/h,camion,aucune,aucun
+4220,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+4270,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+4280,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+4292,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+4323,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+4339,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4376,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+4388,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+4394,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,aucun
+4402,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+4411,ensoleillé,jour,mouillé,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+4412,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+4442,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4446,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4449,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+4462,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+4476,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+4490,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+4497,ensoleillé,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+4520,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+4526,ensoleillé,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,camion,aucune,aucun
+4528,ensoleillé,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,camion,aucune,aucun
+4547,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+4548,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+4549,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4578,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+4597,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+4610,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,voiture normale,aucune,aucun
+4673,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+4679,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+4681,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+4689,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+4697,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+4721,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+4725,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+4731,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+4739,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+4743,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,aucune,aucun
+4745,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+4752,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+4771,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4772,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4773,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+4784,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+4825,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+4833,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,aucune,véhicule d'urgence
+4848,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+4849,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,camion,aucune,aucun
+4875,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4878,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+4895,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+4910,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+4950,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+4975,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+4982,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4983,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4984,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+4986,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+5020,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+5027,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+5043,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+5049,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+5072,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+5091,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5100,ensoleillé,jour,mouillé,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+5117,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+5129,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+5145,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+5166,ensoleillé,jour,mouillé,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+5169,ensoleillé,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+5171,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+5183,ensoleillé,jour,mouillé,20m,enfant,milieu de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+5196,ensoleillé,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+5199,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5216,ensoleillé,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+5228,ensoleillé,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+5231,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+5245,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+5260,ensoleillé,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,aucun
+5294,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+5306,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5333,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+5358,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+5360,ensoleillé,nuit,sec,libre,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+5364,ensoleillé,nuit,sec,libre,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+5395,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+5413,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5439,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+5450,ensoleillé,nuit,sec,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+5467,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+5503,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+5513,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+5526,ensoleillé,nuit,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+5528,ensoleillé,nuit,sec,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+5555,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+5573,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+5577,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+5599,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+5602,ensoleillé,nuit,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+5611,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+5622,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+5666,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+5690,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,aucun
+5702,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+5703,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+5710,ensoleillé,nuit,sec,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+5717,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,50m,50km/h,camion,aucune,voiture normale
+5728,ensoleillé,nuit,sec,libre,enfant,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+5733,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+5744,ensoleillé,nuit,sec,libre,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+5765,ensoleillé,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+5815,ensoleillé,nuit,sec,libre,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+5850,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+5858,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+5889,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+5894,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+5916,ensoleillé,nuit,sec,100m,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+5953,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5955,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+5971,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+5976,ensoleillé,nuit,sec,100m,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+5981,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+5991,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+5997,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+5999,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+6003,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+6004,ensoleillé,nuit,sec,100m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+6024,ensoleillé,nuit,sec,100m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+6025,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+6050,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+6073,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+6075,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+6076,ensoleillé,nuit,sec,100m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+6078,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+6098,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+6101,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+6109,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+6120,ensoleillé,nuit,sec,100m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+6133,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+6134,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+6138,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+6139,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+6150,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,camion,aucune,voiture normale
+6154,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+6174,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+6179,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+6199,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+6210,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+6225,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+6235,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+6238,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+6240,ensoleillé,nuit,sec,100m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+6243,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+6244,ensoleillé,nuit,sec,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+6254,ensoleillé,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,camion,aucune,aucun
+6260,ensoleillé,nuit,sec,100m,enfant,droite de la voie,10m,50km/h,camion,aucune,voiture normale
+6271,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+6286,ensoleillé,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+6290,ensoleillé,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+6293,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+6321,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+6326,ensoleillé,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+6333,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+6347,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+6353,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+6358,ensoleillé,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+6367,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,camion,aucune,voiture normale
+6385,ensoleillé,nuit,sec,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+6416,ensoleillé,nuit,sec,100m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+6423,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+6426,ensoleillé,nuit,sec,100m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+6439,ensoleillé,nuit,sec,100m,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+6484,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+6492,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+6493,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+6495,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+6507,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+6527,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+6530,ensoleillé,nuit,sec,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+6533,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+6536,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+6557,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+6614,ensoleillé,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+6632,ensoleillé,nuit,sec,50m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+6651,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+6661,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+6665,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+6673,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+6688,ensoleillé,nuit,sec,50m,enfant,droite de la voie,50m,25km/h,camion,aucune,aucun
+6693,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+6716,ensoleillé,nuit,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+6724,ensoleillé,nuit,sec,50m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+6741,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+6754,ensoleillé,nuit,sec,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+6809,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+6818,ensoleillé,nuit,sec,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+6843,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+6845,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+6847,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+6880,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,aucun
+6888,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+6904,ensoleillé,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,camion,aucune,aucun
+6915,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+6921,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+6952,ensoleillé,nuit,sec,50m,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+7027,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+7039,ensoleillé,nuit,sec,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+7041,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+7069,ensoleillé,nuit,sec,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+7086,ensoleillé,nuit,sec,50m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+7158,ensoleillé,nuit,sec,20m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+7164,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+7168,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+7176,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+7182,ensoleillé,nuit,sec,20m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+7192,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+7199,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+7201,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,aucun
+7202,ensoleillé,nuit,sec,20m,adulte,droite de la voie,10m,25km/h,voiture normale,aucune,aucun
+7204,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,aucun
+7251,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+7294,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7301,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+7306,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+7307,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+7308,ensoleillé,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+7318,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+7334,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,camion,aucune,aucun
+7336,ensoleillé,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,camion,aucune,aucun
+7337,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+7338,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,camion,aucune,voiture normale
+7364,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+7366,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+7370,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+7376,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+7410,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+7412,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+7429,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+7432,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+7439,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+7463,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+7469,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+7477,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+7511,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7512,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7514,ensoleillé,nuit,sec,20m,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+7516,ensoleillé,nuit,sec,20m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+7525,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+7531,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+7537,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+7538,ensoleillé,nuit,sec,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+7590,ensoleillé,nuit,sec,20m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+7627,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+7628,ensoleillé,nuit,sec,20m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+7649,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+7668,ensoleillé,nuit,sec,20m,enfant,droite de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+7669,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+7672,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+7683,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+7684,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+7699,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+7713,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+7718,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+7724,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+7726,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7727,ensoleillé,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7732,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+7733,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+7745,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+7746,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+7753,ensoleillé,nuit,sec,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+7758,ensoleillé,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+7772,ensoleillé,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,camion,aucune,voiture normale
+7783,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+7785,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+7790,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+7794,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+7801,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+7809,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+7822,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+7835,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+7884,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+7886,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+7890,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+7900,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+7914,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+7937,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+7956,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+7959,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+7976,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+8031,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+8038,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+8046,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+8064,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8110,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+8122,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+8138,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+8144,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+8150,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+8159,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+8162,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+8165,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+8166,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+8171,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8172,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8192,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+8215,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+8226,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+8230,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+8249,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+8256,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+8289,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+8310,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+8342,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+8356,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+8366,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+8374,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+8381,ensoleillé,nuit,mouillé,libre,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+8391,ensoleillé,nuit,mouillé,libre,enfant,milieu de la voie,100m,50km/h,voiture normale,aucune,aucun
+8422,ensoleillé,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+8424,ensoleillé,nuit,mouillé,libre,enfant,droite de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+8454,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+8471,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+8488,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+8493,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8538,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+8539,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+8569,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+8587,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+8611,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+8615,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+8616,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+8640,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+8655,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+8671,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+8689,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+8699,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+8726,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+8740,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,100m,25km/h,camion,aucune,aucun
+8764,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+8802,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+8815,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+8817,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8820,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+8825,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+8830,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+8879,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+8883,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+8884,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+8888,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+8915,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+8938,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+8942,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+8958,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+8974,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+8982,ensoleillé,nuit,mouillé,100m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+9015,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+9016,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+9021,ensoleillé,nuit,mouillé,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9048,ensoleillé,nuit,mouillé,100m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+9051,ensoleillé,nuit,mouillé,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+9093,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+9099,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+9110,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+9115,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+9130,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9144,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+9151,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+9162,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+9164,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+9186,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+9195,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+9199,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+9238,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9252,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+9264,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+9274,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+9279,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,50m,25km/h,camion,aucune,aucun
+9296,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+9301,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+9316,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+9327,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+9332,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+9333,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+9368,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+9388,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,camion,aucune,aucun
+9393,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+9403,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+9407,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+9420,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+9427,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+9441,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+9444,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+9452,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+9470,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,aucun
+9499,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+9503,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,camion,aucune,véhicule d'urgence
+9543,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+9561,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9562,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9564,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9568,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+9593,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+9611,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+9631,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+9647,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+9676,ensoleillé,nuit,mouillé,50m,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+9682,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+9683,ensoleillé,nuit,mouillé,50m,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+9686,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+9702,ensoleillé,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+9709,ensoleillé,nuit,mouillé,50m,adulte,milieu de la voie,100m,50km/h,camion,aucune,aucun
+9752,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+9761,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+9774,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+9779,ensoleillé,nuit,mouillé,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+9786,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+9812,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+9846,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+9865,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+9889,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+9936,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+9977,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+9984,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+10008,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+10014,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+10034,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,100m,25km/h,camion,aucune,aucun
+10039,ensoleillé,nuit,mouillé,20m,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+10040,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,100m,25km/h,camion,aucune,voiture normale
+10050,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+10084,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+10090,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+10105,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+10106,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+10126,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+10129,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+10150,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,camion,aucune,véhicule d'urgence
+10169,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+10176,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10194,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+10229,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+10257,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+10269,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+10295,ensoleillé,nuit,mouillé,20m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+10300,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+10301,ensoleillé,nuit,mouillé,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+10328,ensoleillé,nuit,mouillé,20m,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+10334,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+10350,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+10354,ensoleillé,nuit,mouillé,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+10376,pluvieux,jour,sec,libre,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+10382,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+10390,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10394,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+10420,pluvieux,jour,sec,libre,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+10490,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+10496,pluvieux,jour,sec,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+10498,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10499,pluvieux,jour,sec,libre,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10501,pluvieux,jour,sec,libre,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+10508,pluvieux,jour,sec,libre,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+10509,pluvieux,jour,sec,libre,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+10511,pluvieux,jour,sec,libre,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+10514,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+10526,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+10530,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+10575,pluvieux,jour,sec,libre,enfant,milieu de la voie,50m,25km/h,camion,aucune,aucun
+10605,pluvieux,jour,sec,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10612,pluvieux,jour,sec,libre,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+10632,pluvieux,jour,sec,libre,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+10645,pluvieux,jour,sec,libre,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+10654,pluvieux,jour,sec,libre,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+10657,pluvieux,jour,sec,libre,adulte,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+10677,pluvieux,jour,sec,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+10690,pluvieux,jour,sec,libre,adulte,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+10691,pluvieux,jour,sec,libre,enfant,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+10698,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+10710,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+10715,pluvieux,jour,sec,libre,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+10731,pluvieux,jour,sec,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+10734,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+10748,pluvieux,jour,sec,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+10761,pluvieux,jour,sec,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+10782,pluvieux,jour,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+10783,pluvieux,jour,sec,libre,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+10812,pluvieux,jour,sec,libre,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+10841,pluvieux,jour,sec,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+10857,pluvieux,jour,sec,libre,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+10902,pluvieux,jour,sec,libre,adulte,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+10904,pluvieux,jour,sec,libre,enfant,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+10905,pluvieux,jour,sec,libre,adulte,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+10953,pluvieux,jour,sec,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+10954,pluvieux,jour,sec,libre,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+10958,pluvieux,jour,sec,libre,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+10991,pluvieux,jour,sec,libre,enfant,milieu de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+11007,pluvieux,jour,sec,libre,enfant,milieu de la voie,100m,50km/h,camion,aucune,aucun
+11010,pluvieux,jour,sec,libre,adulte,droite de la voie,100m,50km/h,camion,aucune,voiture normale
+11011,pluvieux,jour,sec,libre,enfant,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+11033,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+11039,pluvieux,jour,sec,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+11042,pluvieux,jour,sec,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+11049,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11061,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+11082,pluvieux,jour,sec,100m,adulte,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+11097,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+11099,pluvieux,jour,sec,100m,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+11115,pluvieux,jour,sec,100m,enfant,milieu de la voie,10m,25km/h,camion,aucune,aucun
+11136,pluvieux,jour,sec,100m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+11147,pluvieux,jour,sec,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+11159,pluvieux,jour,sec,100m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11160,pluvieux,jour,sec,100m,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11168,pluvieux,jour,sec,100m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+11207,pluvieux,jour,sec,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+11236,pluvieux,jour,sec,100m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+11244,pluvieux,jour,sec,100m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+11245,pluvieux,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+11254,pluvieux,jour,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+11265,pluvieux,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11290,pluvieux,jour,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+11293,pluvieux,jour,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+11341,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+11366,pluvieux,jour,sec,100m,adulte,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+11377,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+11387,pluvieux,jour,sec,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+11389,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+11397,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+11400,pluvieux,jour,sec,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+11401,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+11409,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+11413,pluvieux,jour,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+11496,pluvieux,jour,sec,100m,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+11500,pluvieux,jour,sec,100m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+11501,pluvieux,jour,sec,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+11505,pluvieux,jour,sec,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+11510,pluvieux,jour,sec,100m,adulte,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+11522,pluvieux,jour,sec,100m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,aucun
+11541,pluvieux,jour,sec,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+11563,pluvieux,jour,sec,100m,enfant,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+11606,pluvieux,jour,sec,100m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+11611,pluvieux,jour,sec,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+11615,pluvieux,jour,sec,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+11630,pluvieux,jour,sec,100m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+11637,pluvieux,jour,sec,100m,adulte,milieu de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+11657,pluvieux,jour,sec,100m,adulte,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+11660,pluvieux,jour,sec,100m,enfant,droite de la voie,100m,50km/h,camion,aucune,voiture normale
+11664,pluvieux,jour,sec,100m,enfant,droite de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+11667,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+11675,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+11680,pluvieux,jour,sec,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+11682,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+11698,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11702,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+11711,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+11728,pluvieux,jour,sec,50m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+11733,pluvieux,jour,sec,50m,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+11759,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+11767,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,25km/h,camion,aucune,voiture normale
+11787,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+11803,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+11805,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+11833,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+11847,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+11851,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+11853,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+11878,pluvieux,jour,sec,50m,adulte,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+11922,pluvieux,jour,sec,50m,adulte,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+11936,pluvieux,jour,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+11968,pluvieux,jour,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+11974,pluvieux,jour,sec,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+11998,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+12011,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+12026,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+12033,pluvieux,jour,sec,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+12036,pluvieux,jour,sec,50m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+12039,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+12059,pluvieux,jour,sec,50m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+12074,pluvieux,jour,sec,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+12108,pluvieux,jour,sec,50m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+12115,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+12126,pluvieux,jour,sec,50m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+12165,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+12171,pluvieux,jour,sec,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+12177,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+12201,pluvieux,jour,sec,50m,adulte,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+12215,pluvieux,jour,sec,50m,enfant,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+12218,pluvieux,jour,sec,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+12236,pluvieux,jour,sec,50m,enfant,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+12269,pluvieux,jour,sec,50m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+12284,pluvieux,jour,sec,50m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+12291,pluvieux,jour,sec,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+12292,pluvieux,jour,sec,50m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+12310,pluvieux,jour,sec,50m,adulte,droite de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+12316,pluvieux,jour,sec,20m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+12327,pluvieux,jour,sec,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+12341,pluvieux,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+12344,pluvieux,jour,sec,20m,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+12345,pluvieux,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+12358,pluvieux,jour,sec,20m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+12372,pluvieux,jour,sec,20m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+12390,pluvieux,jour,sec,20m,adulte,droite de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+12397,pluvieux,jour,sec,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+12399,pluvieux,jour,sec,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+12420,pluvieux,jour,sec,20m,enfant,droite de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+12440,pluvieux,jour,sec,20m,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+12441,pluvieux,jour,sec,20m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+12458,pluvieux,jour,sec,20m,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+12483,pluvieux,jour,sec,20m,enfant,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+12500,pluvieux,jour,sec,20m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+12506,pluvieux,jour,sec,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+12521,pluvieux,jour,sec,20m,adulte,milieu de la voie,50m,25km/h,camion,aucune,voiture normale
+12527,pluvieux,jour,sec,20m,enfant,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+12555,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+12559,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+12578,pluvieux,jour,sec,20m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+12594,pluvieux,jour,sec,20m,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+12595,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+12627,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,camion,aucune,aucun
+12631,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+12632,pluvieux,jour,sec,20m,enfant,droite de la voie,100m,25km/h,camion,aucune,voiture normale
+12637,pluvieux,jour,sec,20m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+12670,pluvieux,jour,sec,20m,adulte,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+12702,pluvieux,jour,sec,20m,adulte,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+12724,pluvieux,jour,sec,20m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+12727,pluvieux,jour,sec,20m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+12746,pluvieux,jour,sec,20m,adulte,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+12754,pluvieux,jour,sec,20m,adulte,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+12763,pluvieux,jour,sec,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+12839,pluvieux,jour,sec,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+12845,pluvieux,jour,sec,20m,adulte,milieu de la voie,50m,50km/h,camion,aucune,voiture normale
+12893,pluvieux,jour,sec,20m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+12898,pluvieux,jour,sec,20m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+12899,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+12909,pluvieux,jour,sec,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+12923,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+12934,pluvieux,jour,sec,20m,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+12935,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+12940,pluvieux,jour,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+12945,pluvieux,jour,sec,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+12959,pluvieux,jour,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,aucune,véhicule d'urgence
+12962,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+12971,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+12975,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+13036,pluvieux,jour,mouillé,libre,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,aucun
+13038,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+13043,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+13050,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+13054,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+13070,pluvieux,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+13072,pluvieux,jour,mouillé,libre,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+13078,pluvieux,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+13087,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+13099,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+13101,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+13120,pluvieux,jour,mouillé,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+13125,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+13142,pluvieux,jour,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,aucun
+13165,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,25km/h,camion,aucune,aucun
+13189,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+13197,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+13213,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+13216,pluvieux,jour,mouillé,libre,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+13220,pluvieux,jour,mouillé,libre,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+13279,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+13290,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+13294,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+13295,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+13296,pluvieux,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+13315,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+13321,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+13333,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+13337,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+13353,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+13359,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+13366,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+13368,pluvieux,jour,mouillé,libre,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+13374,pluvieux,jour,mouillé,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+13397,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+13422,pluvieux,jour,mouillé,libre,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+13432,pluvieux,jour,mouillé,libre,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+13433,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+13437,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+13445,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+13488,pluvieux,jour,mouillé,libre,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+13515,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+13549,pluvieux,jour,mouillé,libre,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+13564,pluvieux,jour,mouillé,libre,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+13574,pluvieux,jour,mouillé,libre,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+13602,pluvieux,jour,mouillé,libre,adulte,droite de la voie,100m,50km/h,camion,aucune,voiture normale
+13603,pluvieux,jour,mouillé,libre,enfant,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+13631,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+13658,pluvieux,jour,mouillé,100m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+13663,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+13671,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+13675,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+13691,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+13716,pluvieux,jour,mouillé,100m,enfant,droite de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+13731,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+13742,pluvieux,jour,mouillé,100m,adulte,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+13755,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+13756,pluvieux,jour,mouillé,100m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+13789,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,aucun
+13821,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+13826,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+13839,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+13853,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+13874,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+13889,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+13890,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),voiture normale
+13933,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+13964,pluvieux,jour,mouillé,100m,enfant,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+13967,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+13979,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14007,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+14009,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+14016,pluvieux,jour,mouillé,100m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+14035,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+14048,pluvieux,jour,mouillé,100m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+14055,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+14074,pluvieux,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+14091,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14102,pluvieux,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+14104,pluvieux,jour,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+14105,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+14112,pluvieux,jour,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+14113,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+14122,pluvieux,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+14134,pluvieux,jour,mouillé,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+14150,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+14153,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+14158,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+14165,pluvieux,jour,mouillé,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+14172,pluvieux,jour,mouillé,100m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+14175,pluvieux,jour,mouillé,100m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+14194,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14198,pluvieux,jour,mouillé,100m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14268,pluvieux,jour,mouillé,50m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+14269,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+14273,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+14286,pluvieux,jour,mouillé,50m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+14300,pluvieux,jour,mouillé,50m,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+14304,pluvieux,jour,mouillé,50m,enfant,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14369,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+14401,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+14404,pluvieux,jour,mouillé,50m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+14430,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+14455,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+14470,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+14478,pluvieux,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+14492,pluvieux,jour,mouillé,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+14493,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+14497,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+14500,pluvieux,jour,mouillé,50m,enfant,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+14501,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+14519,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14561,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+14574,pluvieux,jour,mouillé,50m,adulte,droite de la voie,100m,25km/h,camion,aucune,voiture normale
+14594,pluvieux,jour,mouillé,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+14615,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+14620,pluvieux,jour,mouillé,50m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+14622,pluvieux,jour,mouillé,50m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+14625,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14629,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14635,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+14661,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+14673,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+14674,pluvieux,jour,mouillé,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+14682,pluvieux,jour,mouillé,50m,adulte,droite de la voie,10m,50km/h,camion,aucune,voiture normale
+14715,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+14718,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+14721,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+14727,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+14730,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+14734,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14774,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+14790,pluvieux,jour,mouillé,50m,adulte,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+14834,pluvieux,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+14836,pluvieux,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+14841,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+14845,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14851,pluvieux,jour,mouillé,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+14861,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+14877,pluvieux,jour,mouillé,50m,adulte,milieu de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+14880,pluvieux,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+14882,pluvieux,jour,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+14888,pluvieux,jour,mouillé,50m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+14908,pluvieux,jour,mouillé,20m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+14919,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+14922,pluvieux,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+14930,pluvieux,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+14945,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+14953,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14954,pluvieux,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+14979,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,aucun
+15006,pluvieux,jour,mouillé,20m,adulte,droite de la voie,10m,25km/h,camion,aucune,voiture normale
+15015,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+15017,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+15019,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+15044,pluvieux,jour,mouillé,20m,enfant,droite de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+15050,pluvieux,jour,mouillé,20m,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+15068,pluvieux,jour,mouillé,20m,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+15091,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+15105,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+15106,pluvieux,jour,mouillé,20m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+15110,pluvieux,jour,mouillé,20m,adulte,droite de la voie,50m,25km/h,camion,aucune,aucun
+15121,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+15135,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+15143,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+15147,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+15177,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+15202,pluvieux,jour,mouillé,20m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,véhicule d'urgence
+15205,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+15245,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+15259,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+15281,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+15286,pluvieux,jour,mouillé,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+15300,pluvieux,jour,mouillé,20m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+15364,pluvieux,jour,mouillé,20m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+15417,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+15420,pluvieux,jour,mouillé,20m,enfant,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+15422,pluvieux,jour,mouillé,20m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+15427,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+15443,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+15465,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+15480,pluvieux,jour,mouillé,20m,enfant,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+15491,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+15532,pluvieux,jour,mouillé,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,aucun
+15533,pluvieux,jour,mouillé,20m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+15547,pluvieux,jour,mouillé,20m,enfant,milieu de la voie,100m,50km/h,camion,aucune,voiture normale
+15571,pluvieux,nuit,sec,libre,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+15579,pluvieux,nuit,sec,libre,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),aucun
+15594,pluvieux,nuit,sec,libre,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+15603,pluvieux,nuit,sec,libre,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+15608,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+15632,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+15705,pluvieux,nuit,sec,libre,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+15707,pluvieux,nuit,sec,libre,enfant,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+15775,pluvieux,nuit,sec,libre,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+15777,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+15790,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+15792,pluvieux,nuit,sec,libre,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+15795,pluvieux,nuit,sec,libre,enfant,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+15818,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+15842,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,aucun
+15860,pluvieux,nuit,sec,libre,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+15872,pluvieux,nuit,sec,libre,enfant,droite de la voie,100m,25km/h,camion,aucune,voiture normale
+15873,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+15885,pluvieux,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+15896,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+15904,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+15919,pluvieux,nuit,sec,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+15930,pluvieux,nuit,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+15944,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+15949,pluvieux,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+15956,pluvieux,nuit,sec,libre,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+15957,pluvieux,nuit,sec,libre,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+15962,pluvieux,nuit,sec,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+15979,pluvieux,nuit,sec,libre,enfant,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+16039,pluvieux,nuit,sec,libre,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+16047,pluvieux,nuit,sec,libre,enfant,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+16072,pluvieux,nuit,sec,libre,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+16089,pluvieux,nuit,sec,libre,adulte,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+16092,pluvieux,nuit,sec,libre,enfant,droite de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+16093,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+16106,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+16117,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+16123,pluvieux,nuit,sec,libre,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+16129,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+16131,pluvieux,nuit,sec,libre,enfant,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+16132,pluvieux,nuit,sec,libre,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+16170,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+16182,pluvieux,nuit,sec,libre,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+16189,pluvieux,nuit,sec,libre,adulte,milieu de la voie,100m,50km/h,camion,aucune,aucun
+16196,pluvieux,nuit,sec,libre,enfant,droite de la voie,100m,50km/h,camion,aucune,voiture normale
+16243,pluvieux,nuit,sec,100m,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+16268,pluvieux,nuit,sec,100m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+16271,pluvieux,nuit,sec,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+16307,pluvieux,nuit,sec,100m,enfant,milieu de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+16376,pluvieux,nuit,sec,100m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+16388,pluvieux,nuit,sec,100m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+16422,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+16425,pluvieux,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+16466,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+16467,pluvieux,nuit,sec,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+16472,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+16476,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+16478,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+16485,pluvieux,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+16505,pluvieux,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+16506,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+16508,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,voiture normale
+16519,pluvieux,nuit,sec,100m,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+16521,pluvieux,nuit,sec,100m,adulte,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+16533,pluvieux,nuit,sec,100m,adulte,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+16537,pluvieux,nuit,sec,100m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+16562,pluvieux,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+16587,pluvieux,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+16592,pluvieux,nuit,sec,100m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+16602,pluvieux,nuit,sec,100m,adulte,droite de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+16603,pluvieux,nuit,sec,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+16642,pluvieux,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+16644,pluvieux,nuit,sec,100m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+16646,pluvieux,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+16661,pluvieux,nuit,sec,100m,adulte,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+16699,pluvieux,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+16707,pluvieux,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+16715,pluvieux,nuit,sec,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+16722,pluvieux,nuit,sec,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+16736,pluvieux,nuit,sec,100m,enfant,droite de la voie,50m,50km/h,camion,aucune,voiture normale
+16745,pluvieux,nuit,sec,100m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+16771,pluvieux,nuit,sec,100m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+16774,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+16778,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+16788,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+16796,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+16800,pluvieux,nuit,sec,100m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+16802,pluvieux,nuit,sec,100m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),aucun
+16831,pluvieux,nuit,sec,100m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+16883,pluvieux,nuit,sec,50m,enfant,milieu de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+16919,pluvieux,nuit,sec,50m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+16934,pluvieux,nuit,sec,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+16936,pluvieux,nuit,sec,50m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+16974,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+16994,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+17006,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+17017,pluvieux,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+17033,pluvieux,nuit,sec,50m,adulte,milieu de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+17039,pluvieux,nuit,sec,50m,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+17040,pluvieux,nuit,sec,50m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+17046,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+17050,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+17066,pluvieux,nuit,sec,50m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+17107,pluvieux,nuit,sec,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+17108,pluvieux,nuit,sec,50m,enfant,droite de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+17109,pluvieux,nuit,sec,50m,adulte,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+17111,pluvieux,nuit,sec,50m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+17116,pluvieux,nuit,sec,50m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+17119,pluvieux,nuit,sec,50m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+17149,pluvieux,nuit,sec,50m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,aucune,aucun
+17167,pluvieux,nuit,sec,50m,enfant,milieu de la voie,100m,25km/h,camion,aucune,voiture normale
+17190,pluvieux,nuit,sec,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+17194,pluvieux,nuit,sec,50m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+17218,pluvieux,nuit,sec,50m,adulte,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+17236,pluvieux,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),aucun
+17240,pluvieux,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+17243,pluvieux,nuit,sec,50m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+17249,pluvieux,nuit,sec,50m,adulte,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+17257,pluvieux,nuit,sec,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+17260,pluvieux,nuit,sec,50m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+17284,pluvieux,nuit,sec,50m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+17306,pluvieux,nuit,sec,50m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+17319,pluvieux,nuit,sec,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+17343,pluvieux,nuit,sec,50m,enfant,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+17375,pluvieux,nuit,sec,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+17409,pluvieux,nuit,sec,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+17429,pluvieux,nuit,sec,50m,adulte,milieu de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+17434,pluvieux,nuit,sec,50m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+17438,pluvieux,nuit,sec,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+17456,pluvieux,nuit,sec,50m,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+17501,pluvieux,nuit,sec,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+17510,pluvieux,nuit,sec,20m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+17528,pluvieux,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+17545,pluvieux,nuit,sec,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+17555,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+17559,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),aucun
+17567,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+17568,pluvieux,nuit,sec,20m,enfant,droite de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+17578,pluvieux,nuit,sec,20m,adulte,droite de la voie,10m,25km/h,voiture normale,aucune,véhicule d'urgence
+17581,pluvieux,nuit,sec,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+17591,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+17607,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+17608,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+17616,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+17647,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+17663,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+17678,pluvieux,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,aucun
+17695,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+17696,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+17702,pluvieux,nuit,sec,20m,adulte,droite de la voie,50m,25km/h,camion,aucune,aucun
+17708,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,25km/h,camion,aucune,voiture normale
+17723,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+17729,pluvieux,nuit,sec,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+17734,pluvieux,nuit,sec,20m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+17736,pluvieux,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+17768,pluvieux,nuit,sec,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+17787,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+17831,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+17838,pluvieux,nuit,sec,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+17874,pluvieux,nuit,sec,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+17888,pluvieux,nuit,sec,20m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+17892,pluvieux,nuit,sec,20m,enfant,droite de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+17899,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,voiture normale
+17914,pluvieux,nuit,sec,20m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+17915,pluvieux,nuit,sec,20m,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+17929,pluvieux,nuit,sec,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+17963,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+17965,pluvieux,nuit,sec,20m,adulte,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+17968,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+17971,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+17987,pluvieux,nuit,sec,20m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+18010,pluvieux,nuit,sec,20m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+18036,pluvieux,nuit,sec,20m,enfant,droite de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+18047,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+18062,pluvieux,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+18063,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+18064,pluvieux,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),aucun
+18090,pluvieux,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+18096,pluvieux,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+18102,pluvieux,nuit,sec,20m,adulte,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),voiture normale
+18108,pluvieux,nuit,sec,20m,enfant,droite de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18111,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,aucune,aucun
+18115,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+18127,pluvieux,nuit,sec,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+18146,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+18148,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+18165,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+18178,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+18183,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+18211,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+18213,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18221,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,voiture normale
+18257,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+18258,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+18259,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+18266,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+18276,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+18290,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+18296,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+18330,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+18335,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,25km/h,voiture normale,aucune,véhicule d'urgence
+18342,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,aucune,voiture normale
+18349,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,50m,25km/h,camion,aucune,aucun
+18351,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,25km/h,camion,aucune,aucun
+18357,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+18377,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+18383,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+18394,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,100m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+18424,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+18431,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,100m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18454,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+18456,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,aucune,véhicule d'urgence
+18466,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+18489,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+18537,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18551,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,véhicule d'urgence
+18555,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+18558,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+18570,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,10m,50km/h,camion,aucune,voiture normale
+18603,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+18606,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+18620,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+18623,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+18636,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+18649,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+18657,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+18666,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+18671,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+18688,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+18697,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+18699,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+18701,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+18724,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+18760,pluvieux,nuit,mouillé,libre,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,aucun
+18761,pluvieux,nuit,mouillé,libre,adulte,milieu de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+18762,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+18766,pluvieux,nuit,mouillé,libre,adulte,droite de la voie,100m,50km/h,voiture normale,aucune,véhicule d'urgence
+18779,pluvieux,nuit,mouillé,libre,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+18793,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+18796,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+18808,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+18822,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+18826,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+18834,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+18837,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+18841,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+18861,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18863,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+18879,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,aucun
+18883,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+18958,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+18980,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,50m,25km/h,voiture normale,aucune,voiture normale
+19019,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19026,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+19055,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+19059,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+19072,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+19085,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+19090,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,véhicule d'urgence
+19127,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19134,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+19136,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+19144,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+19151,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+19169,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+19170,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+19181,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+19183,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),voiture normale
+19192,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,voiture normale,aucune,aucun
+19206,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+19208,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+19243,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+19260,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+19267,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+19268,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+19271,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+19282,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),véhicule d'urgence
+19299,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,aucun
+19301,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+19313,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+19315,pluvieux,nuit,mouillé,100m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,voiture normale
+19320,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+19332,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+19333,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+19337,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+19353,pluvieux,nuit,mouillé,100m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+19368,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,100m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+19374,pluvieux,nuit,mouillé,100m,adulte,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),voiture normale
+19432,pluvieux,nuit,mouillé,100m,enfant,droite de la voie,100m,50km/h,camion,aucune,aucun
+19442,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+19450,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19461,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+19482,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+19530,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,10m,25km/h,véhicule d'urgence,aucune,voiture normale
+19547,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,10m,25km/h,camion,aucune,véhicule d'urgence
+19560,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,50m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19571,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+19573,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),aucun
+19612,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+19635,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,25km/h,véhicule d'urgence,aucune,aucun
+19646,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,50m,25km/h,camion,aucune,aucun
+19653,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+19658,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+19710,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+19720,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,100m,25km/h,camion,pressé (trajet ou vol),aucun
+19777,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+19790,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),aucun
+19812,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,10m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+19835,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+19839,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,10m,50km/h,voiture normale,aucune,aucun
+19849,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,aucun
+19860,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+19865,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,10m,50km/h,camion,aucune,voiture normale
+19880,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,50m,50km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+19897,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,camion,urgence (vers l'hôpital),aucun
+19906,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+19908,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+19925,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+19927,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+19949,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+19950,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,50m,50km/h,voiture normale,aucune,voiture normale
+19955,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,voiture normale,aucune,véhicule d'urgence
+19957,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,aucun
+19965,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+19967,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+19979,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,50m,50km/h,camion,aucune,véhicule d'urgence
+19990,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19992,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,100m,50km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+19993,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+19995,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,urgence (vers l'hôpital),aucun
+20030,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+20034,pluvieux,nuit,mouillé,50m,adulte,droite de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+20049,pluvieux,nuit,mouillé,50m,adulte,milieu de la voie,100m,50km/h,camion,pressé (trajet ou vol),véhicule d'urgence
+20071,pluvieux,nuit,mouillé,50m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+20072,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,100m,50km/h,véhicule d'urgence,aucune,voiture normale
+20080,pluvieux,nuit,mouillé,50m,enfant,droite de la voie,100m,50km/h,camion,aucune,aucun
+20091,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),aucun
+20095,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,10m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+20112,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,10m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+20141,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,10m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+20155,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,10m,25km/h,camion,pressé (trajet ou vol),voiture normale
+20161,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,10m,25km/h,voiture normale,aucune,aucun
+20163,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,10m,25km/h,voiture normale,aucune,aucun
+20227,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),voiture normale
+20231,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+20234,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+20236,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),aucun
+20237,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,50m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+20245,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,50m,25km/h,véhicule d'urgence,pressé (trajet ou vol),aucun
+20257,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),aucun
+20263,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,pressé (trajet ou vol),voiture normale
+20303,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,50m,25km/h,camion,aucune,véhicule d'urgence
+20312,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),voiture normale
+20313,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,voiture normale,urgence (vers l'hôpital),véhicule d'urgence
+20324,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),voiture normale
+20325,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,véhicule d'urgence,urgence (vers l'hôpital),véhicule d'urgence
+20329,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,camion,urgence (vers l'hôpital),aucun
+20347,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,100m,25km/h,voiture normale,pressé (trajet ou vol),voiture normale
+20359,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,100m,25km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+20379,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,100m,25km/h,voiture normale,aucune,aucun
+20382,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,voiture normale
+20386,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,100m,25km/h,voiture normale,aucune,véhicule d'urgence
+20401,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,camion,aucune,aucun
+20409,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,100m,25km/h,camion,aucune,véhicule d'urgence
+20414,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,voiture normale,urgence (vers l'hôpital),aucun
+20442,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+20443,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+20445,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,10m,50km/h,camion,urgence (vers l'hôpital),véhicule d'urgence
+20501,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,voiture normale
+20505,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,10m,50km/h,véhicule d'urgence,aucune,véhicule d'urgence
+20550,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,50m,50km/h,camion,urgence (vers l'hôpital),voiture normale
+20558,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,50m,50km/h,voiture normale,pressé (trajet ou vol),aucun
+20576,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,50m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+20581,pluvieux,nuit,mouillé,20m,adulte,milieu de la voie,50m,50km/h,camion,pressé (trajet ou vol),aucun
+20588,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,50m,50km/h,camion,pressé (trajet ou vol),voiture normale
+20676,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,100m,50km/h,voiture normale,pressé (trajet ou vol),véhicule d'urgence
+20683,pluvieux,nuit,mouillé,20m,enfant,milieu de la voie,100m,50km/h,véhicule d'urgence,pressé (trajet ou vol),voiture normale
+20708,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,100m,50km/h,voiture normale,aucune,voiture normale
+20728,pluvieux,nuit,mouillé,20m,enfant,droite de la voie,100m,50km/h,camion,aucune,aucun
+20730,pluvieux,nuit,mouillé,20m,adulte,droite de la voie,100m,50km/h,camion,aucune,voiture normale

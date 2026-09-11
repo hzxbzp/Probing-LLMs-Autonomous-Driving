@@ -1,0 +1,2 @@
+# Data files are stored byte-for-byte as in the journal replication package (no line-ending conversion)
+*.csv -text

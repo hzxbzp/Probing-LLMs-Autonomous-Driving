@@ -1,0 +1,1501 @@
+id,weather,time,road_condition,pedestrian_type,pedestrian_behavior,pedestiran_action,ego_role,occupant_requirement,distance to pedestrian,ego_vehicle_speed
+4,sunny,day,dry,children,watching phone,stop,normal car,urgent (to hospital),10m,50km/h
+7,sunny,day,dry,children,watching phone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+36,sunny,day,dry,children,watching phone,stop,truck,hurry (commute or flight),100m,50km/h
+43,sunny,day,dry,children,watching phone,stop,emergency vehicle,none,10m,25km/h
+58,sunny,day,dry,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+60,sunny,day,dry,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+104,sunny,day,dry,children,watching phone,moving orientation towards crosswalk,truck,none,50m,25km/h
+116,sunny,day,dry,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+128,sunny,day,dry,children,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+138,sunny,day,dry,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+170,sunny,day,dry,children,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+201,sunny,day,dry,children,talking to someone,stop,normal car,none,100m,25km/h
+211,sunny,day,dry,children,talking to someone,stop,truck,none,10m,25km/h
+218,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+219,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+248,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+252,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+258,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+266,sunny,day,dry,children,talking to someone,moving orientation towards crosswalk,truck,none,50m,25km/h
+274,sunny,day,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+291,sunny,day,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+314,sunny,day,dry,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+323,sunny,day,dry,children,talking to someone,moving orientation not towards crosswalk,truck,none,50m,50km/h
+324,sunny,day,dry,children,talking to someone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+327,sunny,day,dry,children,looking around,stop,normal car,urgent (to hospital),100m,25km/h
+328,sunny,day,dry,children,looking around,stop,normal car,urgent (to hospital),10m,50km/h
+342,sunny,day,dry,children,looking around,stop,truck,urgent (to hospital),100m,50km/h
+345,sunny,day,dry,children,looking around,stop,normal car,hurry (commute or flight),100m,25km/h
+347,sunny,day,dry,children,looking around,stop,normal car,hurry (commute or flight),50m,50km/h
+352,sunny,day,dry,children,looking around,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+362,sunny,day,dry,children,looking around,stop,normal car,none,50m,25km/h
+380,sunny,day,dry,children,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+386,sunny,day,dry,children,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+388,sunny,day,dry,children,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+410,sunny,day,dry,children,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+424,sunny,day,dry,children,looking around,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+425,sunny,day,dry,children,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+439,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+451,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+461,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+467,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+468,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+485,sunny,day,dry,children,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+500,sunny,day,dry,elderly,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+559,sunny,day,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+622,sunny,day,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+652,sunny,day,dry,elderly,talking to someone,stop,normal car,urgent (to hospital),10m,50km/h
+706,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+716,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+719,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+734,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+737,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+739,sunny,day,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+796,sunny,day,dry,elderly,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+829,sunny,day,dry,elderly,looking around,stop,normal car,hurry (commute or flight),10m,25km/h
+853,sunny,day,dry,elderly,looking around,stop,emergency vehicle,none,10m,25km/h
+879,sunny,day,dry,elderly,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+912,sunny,day,dry,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+929,sunny,day,dry,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+937,sunny,day,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+961,sunny,day,dry,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+971,sunny,day,dry,elderly,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+972,sunny,day,dry,elderly,looking around,moving orientation not towards crosswalk,truck,none,100m,50km/h
+978,sunny,day,dry,police,watching phone,stop,normal car,urgent (to hospital),100m,50km/h
+981,sunny,day,dry,police,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+1007,sunny,day,dry,police,watching phone,stop,truck,hurry (commute or flight),50m,50km/h
+1024,sunny,day,dry,police,watching phone,stop,truck,none,10m,50km/h
+1028,sunny,day,dry,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+1035,sunny,day,dry,police,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+1036,sunny,day,dry,police,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+1053,sunny,day,dry,police,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+1085,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+1087,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+1088,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+1093,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+1115,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+1124,sunny,day,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+1145,sunny,day,dry,police,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+1148,sunny,day,dry,police,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+1154,sunny,day,dry,police,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+1158,sunny,day,dry,police,talking to someone,stop,normal car,hurry (commute or flight),100m,50km/h
+1163,sunny,day,dry,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+1164,sunny,day,dry,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+1183,sunny,day,dry,police,talking to someone,stop,truck,none,10m,25km/h
+1200,sunny,day,dry,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+1228,sunny,day,dry,police,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+1262,sunny,day,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+1273,sunny,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+1289,sunny,day,dry,police,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+1291,sunny,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+1298,sunny,day,dry,police,looking around,stop,normal car,urgent (to hospital),50m,25km/h
+1329,sunny,day,dry,police,looking around,stop,truck,hurry (commute or flight),100m,25km/h
+1347,sunny,day,dry,police,looking around,stop,truck,none,100m,25km/h
+1348,sunny,day,dry,police,looking around,stop,truck,none,10m,50km/h
+1351,sunny,day,dry,police,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+1356,sunny,day,dry,police,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+1384,sunny,day,dry,police,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+1397,sunny,day,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+1398,sunny,day,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+1420,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+1428,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+1430,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+1444,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+1445,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+1454,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,truck,none,50m,25km/h
+1457,sunny,day,dry,police,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+1494,sunny,day,dry,pregnant,watching phone,stop,truck,hurry (commute or flight),100m,50km/h
+1513,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+1523,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+1528,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+1531,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+1535,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+1536,sunny,day,dry,pregnant,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+1612,sunny,day,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,50km/h
+1625,sunny,day,dry,pregnant,talking to someone,stop,normal car,urgent (to hospital),50m,50km/h
+1633,sunny,day,dry,pregnant,talking to someone,stop,truck,urgent (to hospital),10m,25km/h
+1705,sunny,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+1711,sunny,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+1713,sunny,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+1730,sunny,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+1731,sunny,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+1740,sunny,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+1748,sunny,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+1769,sunny,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+1808,sunny,day,dry,pregnant,looking around,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+1816,sunny,day,dry,pregnant,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+1839,sunny,day,dry,pregnant,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+1863,sunny,day,dry,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+1870,sunny,day,dry,pregnant,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+1906,sunny,day,dry,pregnant,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+1912,sunny,day,dry,pregnant,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+1958,sunny,day,dry,college student,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+1960,sunny,day,dry,college student,watching phone,stop,truck,urgent (to hospital),10m,50km/h
+1963,sunny,day,dry,college student,watching phone,stop,normal car,hurry (commute or flight),10m,25km/h
+1982,sunny,day,dry,college student,watching phone,stop,normal car,none,50m,25km/h
+2009,sunny,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+2027,sunny,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+2035,sunny,day,dry,college student,watching phone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+2044,sunny,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+2066,sunny,day,dry,college student,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+2086,sunny,day,dry,college student,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+2112,sunny,day,dry,college student,talking to someone,stop,normal car,urgent (to hospital),100m,50km/h
+2113,sunny,day,dry,college student,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+2128,sunny,day,dry,college student,talking to someone,stop,normal car,hurry (commute or flight),10m,50km/h
+2137,sunny,day,dry,college student,talking to someone,stop,truck,hurry (commute or flight),10m,25km/h
+2142,sunny,day,dry,college student,talking to someone,stop,truck,hurry (commute or flight),100m,50km/h
+2153,sunny,day,dry,college student,talking to someone,stop,emergency vehicle,none,50m,50km/h
+2168,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+2175,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+2178,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+2185,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+2190,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+2200,sunny,day,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+2222,sunny,day,dry,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+2226,sunny,day,dry,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+2236,sunny,day,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+2248,sunny,day,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+2266,sunny,day,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,none,10m,50km/h
+2271,sunny,day,dry,college student,looking around,stop,normal car,urgent (to hospital),100m,25km/h
+2278,sunny,day,dry,college student,looking around,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+2280,sunny,day,dry,college student,looking around,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+2301,sunny,day,dry,college student,looking around,stop,truck,hurry (commute or flight),100m,25km/h
+2302,sunny,day,dry,college student,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+2309,sunny,day,dry,college student,looking around,stop,normal car,none,50m,50km/h
+2316,sunny,day,dry,college student,looking around,stop,emergency vehicle,none,100m,50km/h
+2320,sunny,day,dry,college student,looking around,stop,truck,none,10m,50km/h
+2326,sunny,day,dry,college student,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+2361,sunny,day,dry,college student,looking around,moving orientation towards crosswalk,normal car,none,100m,25km/h
+2387,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+2389,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+2393,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+2394,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+2406,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+2409,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+2415,sunny,day,dry,college student,looking around,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+2440,sunny,day,wet,children,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+2445,sunny,day,wet,children,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+2481,sunny,day,wet,children,watching phone,stop,truck,none,100m,25km/h
+2484,sunny,day,wet,children,watching phone,stop,truck,none,100m,50km/h
+2504,sunny,day,wet,children,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+2513,sunny,day,wet,children,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+2535,sunny,day,wet,children,watching phone,moving orientation towards crosswalk,truck,none,100m,25km/h
+2550,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+2555,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+2560,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+2572,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+2580,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+2586,sunny,day,wet,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+2603,sunny,day,wet,children,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+2606,sunny,day,wet,children,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+2610,sunny,day,wet,children,talking to someone,stop,truck,urgent (to hospital),100m,50km/h
+2622,sunny,day,wet,children,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+2625,sunny,day,wet,children,talking to someone,stop,truck,hurry (commute or flight),100m,25km/h
+2627,sunny,day,wet,children,talking to someone,stop,truck,hurry (commute or flight),50m,50km/h
+2648,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+2677,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+2678,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+2679,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+2699,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,none,50m,50km/h
+2700,sunny,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,none,100m,50km/h
+2702,sunny,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+2704,sunny,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+2713,sunny,day,wet,children,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+2741,sunny,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+2744,sunny,day,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+2784,sunny,day,wet,children,looking around,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+2798,sunny,day,wet,children,looking around,stop,emergency vehicle,none,50m,25km/h
+2815,sunny,day,wet,children,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+2827,sunny,day,wet,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+2857,sunny,day,wet,children,looking around,moving orientation towards crosswalk,truck,none,10m,25km/h
+2860,sunny,day,wet,children,looking around,moving orientation towards crosswalk,truck,none,10m,50km/h
+2865,sunny,day,wet,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+2879,sunny,day,wet,children,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+2886,sunny,day,wet,children,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+2911,sunny,day,wet,children,looking around,moving orientation not towards crosswalk,truck,none,10m,25km/h
+2954,sunny,day,wet,elderly,watching phone,stop,normal car,none,50m,25km/h
+2969,sunny,day,wet,elderly,watching phone,stop,truck,none,50m,50km/h
+2975,sunny,day,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+3001,sunny,day,wet,elderly,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+3012,sunny,day,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+3015,sunny,day,wet,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+3016,sunny,day,wet,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+3051,sunny,day,wet,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+3060,sunny,day,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+3063,sunny,day,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+3069,sunny,day,wet,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+3078,sunny,day,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+3106,sunny,day,wet,elderly,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+3112,sunny,day,wet,elderly,talking to someone,stop,truck,hurry (commute or flight),10m,50km/h
+3129,sunny,day,wet,elderly,talking to someone,stop,truck,none,100m,25km/h
+3170,sunny,day,wet,elderly,talking to someone,moving orientation towards crosswalk,normal car,none,50m,25km/h
+3185,sunny,day,wet,elderly,talking to someone,moving orientation towards crosswalk,truck,none,50m,50km/h
+3201,sunny,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+3205,sunny,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+3208,sunny,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+3231,sunny,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+3264,sunny,day,wet,elderly,looking around,stop,normal car,hurry (commute or flight),100m,50km/h
+3270,sunny,day,wet,elderly,looking around,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+3283,sunny,day,wet,elderly,looking around,stop,emergency vehicle,none,10m,25km/h
+3296,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+3299,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+3303,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+3311,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+3315,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+3335,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,normal car,none,50m,50km/h
+3342,sunny,day,wet,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+3353,sunny,day,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+3354,sunny,day,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+3367,sunny,day,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+3395,sunny,day,wet,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+3411,sunny,day,wet,police,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+3416,sunny,day,wet,police,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+3422,sunny,day,wet,police,watching phone,stop,normal car,hurry (commute or flight),50m,25km/h
+3426,sunny,day,wet,police,watching phone,stop,normal car,hurry (commute or flight),100m,50km/h
+3430,sunny,day,wet,police,watching phone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+3434,sunny,day,wet,police,watching phone,stop,truck,hurry (commute or flight),50m,25km/h
+3462,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+3473,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+3475,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+3480,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+3482,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+3486,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+3489,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+3499,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+3508,sunny,day,wet,police,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+3523,sunny,day,wet,police,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+3538,sunny,day,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+3546,sunny,day,wet,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+3563,sunny,day,wet,police,watching phone,moving orientation not towards crosswalk,truck,none,50m,50km/h
+3572,sunny,day,wet,police,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+3580,sunny,day,wet,police,talking to someone,stop,truck,urgent (to hospital),10m,50km/h
+3589,sunny,day,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+3610,sunny,day,wet,police,talking to someone,stop,emergency vehicle,none,10m,50km/h
+3624,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+3634,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+3636,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+3644,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+3653,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+3657,sunny,day,wet,police,talking to someone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+3687,sunny,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+3703,sunny,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+3704,sunny,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+3722,sunny,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+3726,sunny,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+3734,sunny,day,wet,police,looking around,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+3754,sunny,day,wet,police,looking around,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+3770,sunny,day,wet,police,looking around,stop,emergency vehicle,none,50m,25km/h
+3777,sunny,day,wet,police,looking around,stop,truck,none,100m,25km/h
+3779,sunny,day,wet,police,looking around,stop,truck,none,50m,50km/h
+3789,sunny,day,wet,police,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+3795,sunny,day,wet,police,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+3822,sunny,day,wet,police,looking around,moving orientation towards crosswalk,normal car,none,100m,50km/h
+3844,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+3845,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+3847,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+3858,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+3887,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+3888,sunny,day,wet,police,looking around,moving orientation not towards crosswalk,truck,none,100m,50km/h
+3911,sunny,day,wet,pregnant,watching phone,stop,normal car,hurry (commute or flight),50m,50km/h
+3913,sunny,day,wet,pregnant,watching phone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+3920,sunny,day,wet,pregnant,watching phone,stop,truck,hurry (commute or flight),50m,25km/h
+3966,sunny,day,wet,pregnant,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+3985,sunny,day,wet,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+3994,sunny,day,wet,pregnant,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+4000,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+4008,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+4014,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+4029,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+4035,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+4038,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+4047,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+4050,sunny,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+4059,sunny,day,wet,pregnant,talking to someone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+4070,sunny,day,wet,pregnant,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+4073,sunny,day,wet,pregnant,talking to someone,stop,normal car,hurry (commute or flight),50m,50km/h
+4075,sunny,day,wet,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+4098,sunny,day,wet,pregnant,talking to someone,stop,emergency vehicle,none,100m,50km/h
+4102,sunny,day,wet,pregnant,talking to someone,stop,truck,none,10m,50km/h
+4111,sunny,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+4129,sunny,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+4141,sunny,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+4150,sunny,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+4157,sunny,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,none,50m,50km/h
+4166,sunny,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+4179,sunny,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+4187,sunny,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+4190,sunny,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+4198,sunny,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+4220,sunny,day,wet,pregnant,looking around,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+4231,sunny,day,wet,pregnant,looking around,stop,normal car,hurry (commute or flight),10m,25km/h
+4246,sunny,day,wet,pregnant,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+4253,sunny,day,wet,pregnant,looking around,stop,normal car,none,50m,50km/h
+4266,sunny,day,wet,pregnant,looking around,stop,truck,none,100m,50km/h
+4280,sunny,day,wet,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+4287,sunny,day,wet,pregnant,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+4294,sunny,day,wet,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+4304,sunny,day,wet,pregnant,looking around,moving orientation towards crosswalk,normal car,none,50m,25km/h
+4319,sunny,day,wet,pregnant,looking around,moving orientation towards crosswalk,truck,none,50m,50km/h
+4343,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+4346,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+4348,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+4353,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+4372,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,none,10m,50km/h
+4374,sunny,day,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,none,100m,50km/h
+4376,sunny,day,wet,college student,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+4386,sunny,day,wet,college student,watching phone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+4388,sunny,day,wet,college student,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+4389,sunny,day,wet,college student,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+4392,sunny,day,wet,college student,watching phone,stop,truck,urgent (to hospital),100m,50km/h
+4401,sunny,day,wet,college student,watching phone,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+4411,sunny,day,wet,college student,watching phone,stop,normal car,none,10m,25km/h
+4412,sunny,day,wet,college student,watching phone,stop,normal car,none,50m,25km/h
+4414,sunny,day,wet,college student,watching phone,stop,normal car,none,10m,50km/h
+4437,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+4439,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+4443,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+4450,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+4451,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+4463,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+4473,sunny,day,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+4506,sunny,day,wet,college student,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+4510,sunny,day,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+4511,sunny,day,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+4520,sunny,day,wet,college student,watching phone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+4526,sunny,day,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+4541,sunny,day,wet,college student,talking to someone,stop,normal car,urgent (to hospital),50m,50km/h
+4548,sunny,day,wet,college student,talking to someone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+4565,sunny,day,wet,college student,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+4581,sunny,day,wet,college student,talking to someone,stop,emergency vehicle,none,100m,25km/h
+4603,sunny,day,wet,college student,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+4619,sunny,day,wet,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+4623,sunny,day,wet,college student,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+4668,sunny,day,wet,college student,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+4703,sunny,day,wet,college student,looking around,stop,normal car,urgent (to hospital),50m,50km/h
+4721,sunny,day,wet,college student,looking around,stop,normal car,hurry (commute or flight),50m,50km/h
+4725,sunny,day,wet,college student,looking around,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+4741,sunny,day,wet,college student,looking around,stop,emergency vehicle,none,10m,25km/h
+4746,sunny,day,wet,college student,looking around,stop,emergency vehicle,none,100m,50km/h
+4751,sunny,day,wet,college student,looking around,stop,truck,none,50m,50km/h
+4756,sunny,day,wet,college student,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+4768,sunny,day,wet,college student,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+4771,sunny,day,wet,college student,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+4789,sunny,day,wet,college student,looking around,moving orientation towards crosswalk,normal car,none,10m,25km/h
+4817,sunny,day,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+4843,sunny,day,wet,college student,looking around,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+4848,sunny,day,wet,college student,looking around,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+4875,sunny,night,dry,children,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+4878,sunny,night,dry,children,watching phone,stop,truck,urgent (to hospital),100m,50km/h
+4881,sunny,night,dry,children,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+4895,sunny,night,dry,children,watching phone,stop,truck,hurry (commute or flight),50m,50km/h
+4904,sunny,night,dry,children,watching phone,stop,emergency vehicle,none,50m,25km/h
+4908,sunny,night,dry,children,watching phone,stop,emergency vehicle,none,100m,50km/h
+4910,sunny,night,dry,children,watching phone,stop,truck,none,50m,25km/h
+4922,sunny,night,dry,children,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+4936,sunny,night,dry,children,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+4955,sunny,night,dry,children,watching phone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+4983,sunny,night,dry,children,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+4984,sunny,night,dry,children,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+4986,sunny,night,dry,children,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+4990,sunny,night,dry,children,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+5023,sunny,night,dry,children,talking to someone,stop,normal car,urgent (to hospital),10m,25km/h
+5029,sunny,night,dry,children,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+5036,sunny,night,dry,children,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+5072,sunny,night,dry,children,talking to someone,stop,truck,none,50m,25km/h
+5095,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+5103,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+5116,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+5117,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+5118,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+5129,sunny,night,dry,children,talking to someone,moving orientation towards crosswalk,truck,none,50m,50km/h
+5150,sunny,night,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+5156,sunny,night,dry,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+5161,sunny,night,dry,children,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+5171,sunny,night,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+5175,sunny,night,dry,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+5195,sunny,night,dry,children,looking around,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+5196,sunny,night,dry,children,looking around,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+5212,sunny,night,dry,children,looking around,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+5217,sunny,night,dry,children,looking around,stop,truck,hurry (commute or flight),100m,25km/h
+5218,sunny,night,dry,children,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+5225,sunny,night,dry,children,looking around,stop,normal car,none,50m,50km/h
+5237,sunny,night,dry,children,looking around,stop,truck,none,50m,50km/h
+5251,sunny,night,dry,children,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+5253,sunny,night,dry,children,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+5268,sunny,night,dry,children,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+5298,sunny,night,dry,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+5353,sunny,night,dry,elderly,watching phone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+5364,sunny,night,dry,elderly,watching phone,stop,truck,urgent (to hospital),100m,50km/h
+5365,sunny,night,dry,elderly,watching phone,stop,normal car,hurry (commute or flight),10m,25km/h
+5383,sunny,night,dry,elderly,watching phone,stop,normal car,none,10m,25km/h
+5395,sunny,night,dry,elderly,watching phone,stop,truck,none,10m,25km/h
+5423,sunny,night,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+5432,sunny,night,dry,elderly,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+5437,sunny,night,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+5447,sunny,night,dry,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+5454,sunny,night,dry,elderly,watching phone,moving orientation towards crosswalk,truck,none,100m,50km/h
+5497,sunny,night,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+5503,sunny,night,dry,elderly,watching phone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+5514,sunny,night,dry,elderly,talking to someone,stop,normal car,urgent (to hospital),100m,50km/h
+5515,sunny,night,dry,elderly,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+5549,sunny,night,dry,elderly,talking to someone,stop,normal car,none,50m,50km/h
+5550,sunny,night,dry,elderly,talking to someone,stop,normal car,none,100m,50km/h
+5558,sunny,night,dry,elderly,talking to someone,stop,truck,none,50m,25km/h
+5565,sunny,night,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+5585,sunny,night,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+5590,sunny,night,dry,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+5599,sunny,night,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+5606,sunny,night,dry,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,50m,25km/h
+5621,sunny,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+5633,sunny,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+5654,sunny,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+5668,sunny,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,truck,none,10m,50km/h
+5684,sunny,night,dry,elderly,looking around,stop,truck,urgent (to hospital),50m,25km/h
+5686,sunny,night,dry,elderly,looking around,stop,truck,urgent (to hospital),10m,50km/h
+5690,sunny,night,dry,elderly,looking around,stop,normal car,hurry (commute or flight),50m,25km/h
+5702,sunny,night,dry,elderly,looking around,stop,truck,hurry (commute or flight),50m,25km/h
+5703,sunny,night,dry,elderly,looking around,stop,truck,hurry (commute or flight),100m,25km/h
+5710,sunny,night,dry,elderly,looking around,stop,normal car,none,10m,50km/h
+5715,sunny,night,dry,elderly,looking around,stop,emergency vehicle,none,100m,25km/h
+5717,sunny,night,dry,elderly,looking around,stop,emergency vehicle,none,50m,50km/h
+5737,sunny,night,dry,elderly,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+5747,sunny,night,dry,elderly,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+5752,sunny,night,dry,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+5764,sunny,night,dry,elderly,looking around,moving orientation towards crosswalk,normal car,none,10m,50km/h
+5793,sunny,night,dry,elderly,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+5810,sunny,night,dry,elderly,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+5815,sunny,night,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+5818,sunny,night,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+5847,sunny,night,dry,police,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+5850,sunny,night,dry,police,watching phone,stop,truck,urgent (to hospital),100m,50km/h
+5863,sunny,night,dry,police,watching phone,stop,truck,hurry (commute or flight),10m,25km/h
+5865,sunny,night,dry,police,watching phone,stop,truck,hurry (commute or flight),100m,25km/h
+5866,sunny,night,dry,police,watching phone,stop,truck,hurry (commute or flight),10m,50km/h
+5886,sunny,night,dry,police,watching phone,stop,truck,none,100m,50km/h
+5888,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+5889,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+5895,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+5924,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,none,50m,25km/h
+5926,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+5938,sunny,night,dry,police,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+5966,sunny,night,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+5972,sunny,night,dry,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+5991,sunny,night,dry,police,watching phone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+5993,sunny,night,dry,police,watching phone,moving orientation not towards crosswalk,truck,none,50m,50km/h
+5999,sunny,night,dry,police,talking to someone,stop,normal car,urgent (to hospital),50m,50km/h
+6000,sunny,night,dry,police,talking to someone,stop,normal car,urgent (to hospital),100m,50km/h
+6012,sunny,night,dry,police,talking to someone,stop,truck,urgent (to hospital),100m,50km/h
+6014,sunny,night,dry,police,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+6024,sunny,night,dry,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+6028,sunny,night,dry,police,talking to someone,stop,truck,hurry (commute or flight),10m,50km/h
+6063,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+6065,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+6067,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+6070,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+6077,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+6085,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+6088,sunny,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+6109,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+6114,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+6120,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+6135,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+6138,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+6139,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+6144,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+6146,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+6149,sunny,night,dry,police,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+6166,sunny,night,dry,police,looking around,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+6180,sunny,night,dry,police,looking around,stop,normal car,hurry (commute or flight),100m,50km/h
+6181,sunny,night,dry,police,looking around,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+6203,sunny,night,dry,police,looking around,stop,emergency vehicle,none,50m,50km/h
+6207,sunny,night,dry,police,looking around,stop,truck,none,100m,25km/h
+6210,sunny,night,dry,police,looking around,stop,truck,none,100m,50km/h
+6211,sunny,night,dry,police,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+6238,sunny,night,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+6326,sunny,night,dry,pregnant,watching phone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+6368,sunny,night,dry,pregnant,watching phone,stop,truck,none,50m,25km/h
+6389,sunny,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+6390,sunny,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+6391,sunny,night,dry,pregnant,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+6403,sunny,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+6422,sunny,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,none,50m,25km/h
+6435,sunny,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+6443,sunny,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+6464,sunny,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+6473,sunny,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+6474,sunny,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+6511,sunny,night,dry,pregnant,talking to someone,stop,truck,hurry (commute or flight),10m,25km/h
+6516,sunny,night,dry,pregnant,talking to someone,stop,truck,hurry (commute or flight),100m,50km/h
+6518,sunny,night,dry,pregnant,talking to someone,stop,normal car,none,50m,25km/h
+6533,sunny,night,dry,pregnant,talking to someone,stop,truck,none,50m,50km/h
+6546,sunny,night,dry,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+6600,sunny,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+6602,sunny,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+6661,sunny,night,dry,pregnant,looking around,stop,normal car,hurry (commute or flight),10m,25km/h
+6678,sunny,night,dry,pregnant,looking around,stop,truck,hurry (commute or flight),100m,50km/h
+6686,sunny,night,dry,pregnant,looking around,stop,emergency vehicle,none,50m,25km/h
+6689,sunny,night,dry,pregnant,looking around,stop,emergency vehicle,none,50m,50km/h
+6696,sunny,night,dry,pregnant,looking around,stop,truck,none,100m,50km/h
+6718,sunny,night,dry,pregnant,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+6735,sunny,night,dry,pregnant,looking around,moving orientation towards crosswalk,normal car,none,100m,25km/h
+6770,sunny,night,dry,pregnant,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+6799,sunny,night,dry,pregnant,looking around,moving orientation not towards crosswalk,truck,none,10m,25km/h
+6805,sunny,night,dry,college student,watching phone,stop,normal car,urgent (to hospital),10m,25km/h
+6813,sunny,night,dry,college student,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+6814,sunny,night,dry,college student,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+6836,sunny,night,dry,college student,watching phone,stop,truck,hurry (commute or flight),50m,25km/h
+6837,sunny,night,dry,college student,watching phone,stop,truck,hurry (commute or flight),100m,25km/h
+6847,sunny,night,dry,college student,watching phone,stop,emergency vehicle,none,10m,25km/h
+6848,sunny,night,dry,college student,watching phone,stop,emergency vehicle,none,50m,25km/h
+6849,sunny,night,dry,college student,watching phone,stop,emergency vehicle,none,100m,25km/h
+6864,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+6873,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+6880,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+6881,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+6888,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+6897,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+6905,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+6908,sunny,night,dry,college student,watching phone,moving orientation towards crosswalk,truck,none,50m,25km/h
+6917,sunny,night,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+6935,sunny,night,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+6947,sunny,night,dry,college student,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+6957,sunny,night,dry,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+7041,sunny,night,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+7076,sunny,night,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+7095,sunny,night,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+7133,sunny,night,dry,college student,looking around,stop,normal car,urgent (to hospital),50m,50km/h
+7158,sunny,night,dry,college student,looking around,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+7162,sunny,night,dry,college student,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+7200,sunny,night,dry,college student,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+7216,sunny,night,dry,college student,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+7225,sunny,night,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+7269,sunny,night,dry,college student,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+7285,sunny,night,dry,college student,looking around,moving orientation not towards crosswalk,truck,none,10m,25km/h
+7294,sunny,night,wet,children,watching phone,stop,normal car,urgent (to hospital),10m,50km/h
+7304,sunny,night,wet,children,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+7322,sunny,night,wet,children,watching phone,stop,truck,hurry (commute or flight),50m,25km/h
+7325,sunny,night,wet,children,watching phone,stop,truck,hurry (commute or flight),50m,50km/h
+7361,sunny,night,wet,children,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+7376,sunny,night,wet,children,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+7396,sunny,night,wet,children,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+7435,sunny,night,wet,children,watching phone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+7443,sunny,night,wet,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+7460,sunny,night,wet,children,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+7464,sunny,night,wet,children,talking to someone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+7475,sunny,night,wet,children,talking to someone,stop,normal car,hurry (commute or flight),50m,50km/h
+7477,sunny,night,wet,children,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+7478,sunny,night,wet,children,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+7500,sunny,night,wet,children,talking to someone,stop,emergency vehicle,none,100m,50km/h
+7509,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+7512,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+7514,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+7516,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+7519,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+7536,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+7552,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+7556,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,truck,none,50m,25km/h
+7559,sunny,night,wet,children,talking to someone,moving orientation towards crosswalk,truck,none,50m,50km/h
+7563,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+7568,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+7571,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+7589,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+7593,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+7604,sunny,night,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+7624,sunny,night,wet,children,looking around,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+7639,sunny,night,wet,children,looking around,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+7663,sunny,night,wet,children,looking around,stop,truck,none,10m,25km/h
+7664,sunny,night,wet,children,looking around,stop,truck,none,50m,25km/h
+7673,sunny,night,wet,children,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+7683,sunny,night,wet,children,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+7692,sunny,night,wet,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+7720,sunny,night,wet,children,looking around,moving orientation towards crosswalk,truck,none,10m,50km/h
+7722,sunny,night,wet,children,looking around,moving orientation towards crosswalk,truck,none,100m,50km/h
+7726,sunny,night,wet,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+7730,sunny,night,wet,children,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+7732,sunny,night,wet,children,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+7745,sunny,night,wet,children,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+7780,sunny,night,wet,elderly,watching phone,stop,normal car,urgent (to hospital),10m,50km/h
+7781,sunny,night,wet,elderly,watching phone,stop,normal car,urgent (to hospital),50m,50km/h
+7782,sunny,night,wet,elderly,watching phone,stop,normal car,urgent (to hospital),100m,50km/h
+7807,sunny,night,wet,elderly,watching phone,stop,truck,hurry (commute or flight),10m,25km/h
+7811,sunny,night,wet,elderly,watching phone,stop,truck,hurry (commute or flight),50m,50km/h
+7817,sunny,night,wet,elderly,watching phone,stop,normal car,none,50m,50km/h
+7829,sunny,night,wet,elderly,watching phone,stop,truck,none,50m,50km/h
+7859,sunny,night,wet,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+7882,sunny,night,wet,elderly,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+7898,sunny,night,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+7920,sunny,night,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+7923,sunny,night,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+7933,sunny,night,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+7945,sunny,night,wet,elderly,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+7946,sunny,night,wet,elderly,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+7950,sunny,night,wet,elderly,talking to someone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+7970,sunny,night,wet,elderly,talking to someone,stop,truck,hurry (commute or flight),50m,25km/h
+8019,sunny,night,wet,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+8055,sunny,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+8057,sunny,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+8086,sunny,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+8088,sunny,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+8138,sunny,night,wet,elderly,looking around,stop,normal car,none,50m,25km/h
+8139,sunny,night,wet,elderly,looking around,stop,normal car,none,100m,25km/h
+8141,sunny,night,wet,elderly,looking around,stop,normal car,none,50m,50km/h
+8143,sunny,night,wet,elderly,looking around,stop,emergency vehicle,none,10m,25km/h
+8146,sunny,night,wet,elderly,looking around,stop,emergency vehicle,none,10m,50km/h
+8154,sunny,night,wet,elderly,looking around,stop,truck,none,100m,50km/h
+8193,sunny,night,wet,elderly,looking around,moving orientation towards crosswalk,normal car,none,100m,25km/h
+8201,sunny,night,wet,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+8212,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+8214,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+8238,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+8239,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+8248,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+8261,sunny,night,wet,elderly,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+8271,sunny,night,wet,police,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+8272,sunny,night,wet,police,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+8281,sunny,night,wet,police,watching phone,stop,normal car,hurry (commute or flight),10m,25km/h
+8305,sunny,night,wet,police,watching phone,stop,emergency vehicle,none,10m,25km/h
+8324,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+8328,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+8337,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+8349,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+8361,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+8362,sunny,night,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+8378,sunny,night,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+8396,sunny,night,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+8404,sunny,night,wet,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+8405,sunny,night,wet,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+8411,sunny,night,wet,police,watching phone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+8427,sunny,night,wet,police,talking to someone,stop,normal car,urgent (to hospital),100m,25km/h
+8438,sunny,night,wet,police,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+8444,sunny,night,wet,police,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+8452,sunny,night,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+8453,sunny,night,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+8454,sunny,night,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+8488,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+8493,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+8500,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+8511,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+8518,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+8524,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+8526,sunny,night,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+8563,sunny,night,wet,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+8569,sunny,night,wet,police,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+8583,sunny,night,wet,police,talking to someone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+8585,sunny,night,wet,police,talking to someone,moving orientation not towards crosswalk,truck,none,50m,50km/h
+8586,sunny,night,wet,police,talking to someone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+8611,sunny,night,wet,police,looking around,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+8613,sunny,night,wet,police,looking around,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+8633,sunny,night,wet,police,looking around,stop,emergency vehicle,none,50m,50km/h
+8638,sunny,night,wet,police,looking around,stop,truck,none,10m,50km/h
+8646,sunny,night,wet,police,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+8658,sunny,night,wet,police,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+8661,sunny,night,wet,police,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+8680,sunny,night,wet,police,looking around,moving orientation towards crosswalk,normal car,none,10m,50km/h
+8688,sunny,night,wet,police,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+8723,sunny,night,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+8736,sunny,night,wet,police,looking around,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+8749,sunny,night,wet,pregnant,watching phone,stop,normal car,urgent (to hospital),10m,25km/h
+8758,sunny,night,wet,pregnant,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+8764,sunny,night,wet,pregnant,watching phone,stop,truck,urgent (to hospital),10m,50km/h
+8786,sunny,night,wet,pregnant,watching phone,stop,normal car,none,50m,25km/h
+8798,sunny,night,wet,pregnant,watching phone,stop,truck,none,50m,25km/h
+8815,sunny,night,wet,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+8827,sunny,night,wet,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+8834,sunny,night,wet,pregnant,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+8841,sunny,night,wet,pregnant,watching phone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+8855,sunny,night,wet,pregnant,watching phone,moving orientation towards crosswalk,truck,none,50m,50km/h
+8883,sunny,night,wet,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+8893,sunny,night,wet,pregnant,watching phone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+8905,sunny,night,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+8908,sunny,night,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,none,10m,50km/h
+8926,sunny,night,wet,pregnant,talking to someone,stop,truck,urgent (to hospital),10m,50km/h
+8931,sunny,night,wet,pregnant,talking to someone,stop,normal car,hurry (commute or flight),100m,25km/h
+8937,sunny,night,wet,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+8940,sunny,night,wet,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+8949,sunny,night,wet,pregnant,talking to someone,stop,normal car,none,100m,25km/h
+8954,sunny,night,wet,pregnant,talking to someone,stop,emergency vehicle,none,50m,25km/h
+8956,sunny,night,wet,pregnant,talking to someone,stop,emergency vehicle,none,10m,50km/h
+8973,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+8978,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+8987,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+8994,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+9001,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+9007,sunny,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+9043,sunny,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+9055,sunny,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+9092,sunny,night,wet,pregnant,looking around,stop,normal car,hurry (commute or flight),50m,25km/h
+9093,sunny,night,wet,pregnant,looking around,stop,normal car,hurry (commute or flight),100m,25km/h
+9098,sunny,night,wet,pregnant,looking around,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+9139,sunny,night,wet,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+9158,sunny,night,wet,pregnant,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+9168,sunny,night,wet,pregnant,looking around,moving orientation towards crosswalk,normal car,none,100m,50km/h
+9190,sunny,night,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+9203,sunny,night,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+9210,sunny,night,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+9211,sunny,night,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+9215,sunny,night,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+9241,sunny,night,wet,college student,watching phone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+9243,sunny,night,wet,college student,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+9255,sunny,night,wet,college student,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+9271,sunny,night,wet,college student,watching phone,stop,normal car,none,10m,25km/h
+9277,sunny,night,wet,college student,watching phone,stop,emergency vehicle,none,10m,25km/h
+9287,sunny,night,wet,college student,watching phone,stop,truck,none,50m,50km/h
+9296,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+9300,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+9316,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+9326,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,normal car,none,50m,25km/h
+9327,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+9329,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+9339,sunny,night,wet,college student,watching phone,moving orientation towards crosswalk,truck,none,100m,25km/h
+9368,sunny,night,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+9383,sunny,night,wet,college student,watching phone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+9387,sunny,night,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+9393,sunny,night,wet,college student,watching phone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+9410,sunny,night,wet,college student,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+9412,sunny,night,wet,college student,talking to someone,stop,truck,urgent (to hospital),10m,50km/h
+9438,sunny,night,wet,college student,talking to someone,stop,normal car,none,100m,50km/h
+9442,sunny,night,wet,college student,talking to someone,stop,emergency vehicle,none,10m,50km/h
+9443,sunny,night,wet,college student,talking to someone,stop,emergency vehicle,none,50m,50km/h
+9458,sunny,night,wet,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+9464,sunny,night,wet,college student,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+9469,sunny,night,wet,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+9474,sunny,night,wet,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+9483,sunny,night,wet,college student,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+9516,sunny,night,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+9548,sunny,night,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+9618,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+9619,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+9623,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+9640,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+9646,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+9653,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,normal car,none,50m,50km/h
+9660,sunny,night,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+9682,sunny,night,wet,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+9694,sunny,night,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+9699,sunny,night,wet,college student,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+9705,sunny,night,wet,college student,looking around,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+9718,sunny,night,wet,college student,looking around,moving orientation not towards crosswalk,truck,none,10m,50km/h
+9721,rainy,day,dry,children,watching phone,stop,normal car,urgent (to hospital),10m,25km/h
+9724,rainy,day,dry,children,watching phone,stop,normal car,urgent (to hospital),10m,50km/h
+9726,rainy,day,dry,children,watching phone,stop,normal car,urgent (to hospital),100m,50km/h
+9768,rainy,day,dry,children,watching phone,stop,emergency vehicle,none,100m,50km/h
+9777,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+9779,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+9782,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+9787,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+9801,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+9810,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+9815,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+9828,rainy,day,dry,children,watching phone,moving orientation towards crosswalk,truck,none,100m,50km/h
+9855,rainy,day,dry,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+9864,rainy,day,dry,children,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+9870,rainy,day,dry,children,watching phone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+9884,rainy,day,dry,children,talking to someone,stop,normal car,urgent (to hospital),50m,25km/h
+9890,rainy,day,dry,children,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+9903,rainy,day,dry,children,talking to someone,stop,normal car,hurry (commute or flight),100m,25km/h
+9911,rainy,day,dry,children,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+9923,rainy,day,dry,children,talking to someone,stop,normal car,none,50m,50km/h
+9934,rainy,day,dry,children,talking to someone,stop,truck,none,10m,50km/h
+9939,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+9956,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+9959,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+9961,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+9971,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+9977,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+9979,rainy,day,dry,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+10011,rainy,day,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+10012,rainy,day,dry,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+10022,rainy,day,dry,children,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+10045,rainy,day,dry,children,looking around,stop,normal car,urgent (to hospital),10m,25km/h
+10057,rainy,day,dry,children,looking around,stop,truck,urgent (to hospital),10m,25km/h
+10073,rainy,day,dry,children,looking around,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+10102,rainy,day,dry,children,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+10116,rainy,day,dry,children,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+10156,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+10157,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+10158,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+10164,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+10171,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+10205,rainy,day,dry,children,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+10209,rainy,day,dry,elderly,watching phone,stop,normal car,urgent (to hospital),100m,25km/h
+10229,rainy,day,dry,elderly,watching phone,stop,normal car,hurry (commute or flight),50m,50km/h
+10255,rainy,day,dry,elderly,watching phone,stop,truck,none,10m,25km/h
+10262,rainy,day,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+10263,rainy,day,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+10265,rainy,day,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+10283,rainy,day,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+10324,rainy,day,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+10326,rainy,day,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+10347,rainy,day,dry,elderly,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+10371,rainy,day,dry,elderly,talking to someone,stop,normal car,urgent (to hospital),100m,25km/h
+10407,rainy,day,dry,elderly,talking to someone,stop,normal car,none,100m,25km/h
+10417,rainy,day,dry,elderly,talking to someone,stop,truck,none,10m,25km/h
+10423,rainy,day,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+10441,rainy,day,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+10447,rainy,day,dry,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+10456,rainy,day,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+10462,rainy,day,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+10485,rainy,day,dry,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+10526,rainy,day,dry,elderly,talking to someone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+10528,rainy,day,dry,elderly,talking to someone,moving orientation not towards crosswalk,truck,none,10m,50km/h
+10541,rainy,day,dry,elderly,looking around,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+10560,rainy,day,dry,elderly,looking around,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+10570,rainy,day,dry,elderly,looking around,stop,normal car,none,10m,50km/h
+10595,rainy,day,dry,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+10605,rainy,day,dry,elderly,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+10614,rainy,day,dry,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+10622,rainy,day,dry,elderly,looking around,moving orientation towards crosswalk,normal car,none,50m,25km/h
+10649,rainy,day,dry,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+10679,rainy,day,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+10684,rainy,day,dry,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,50km/h
+10685,rainy,day,dry,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+10690,rainy,day,dry,elderly,looking around,moving orientation not towards crosswalk,truck,none,10m,50km/h
+10712,rainy,day,dry,police,watching phone,stop,normal car,hurry (commute or flight),50m,25km/h
+10713,rainy,day,dry,police,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+10719,rainy,day,dry,police,watching phone,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+10731,rainy,day,dry,police,watching phone,stop,normal car,none,100m,25km/h
+10743,rainy,day,dry,police,watching phone,stop,truck,none,100m,25km/h
+10766,rainy,day,dry,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+10770,rainy,day,dry,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+10787,rainy,day,dry,police,watching phone,moving orientation towards crosswalk,normal car,none,50m,50km/h
+10791,rainy,day,dry,police,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+10796,rainy,day,dry,police,watching phone,moving orientation towards crosswalk,truck,none,50m,25km/h
+10808,rainy,day,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+10837,rainy,day,dry,police,watching phone,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+10846,rainy,day,dry,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,50km/h
+10869,rainy,day,dry,police,talking to someone,stop,truck,urgent (to hospital),100m,25km/h
+10874,rainy,day,dry,police,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+10882,rainy,day,dry,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+10888,rainy,day,dry,police,talking to someone,stop,truck,hurry (commute or flight),10m,50km/h
+10889,rainy,day,dry,police,talking to someone,stop,truck,hurry (commute or flight),50m,50km/h
+10891,rainy,day,dry,police,talking to someone,stop,normal car,none,10m,25km/h
+10896,rainy,day,dry,police,talking to someone,stop,normal car,none,100m,50km/h
+10903,rainy,day,dry,police,talking to someone,stop,truck,none,10m,25km/h
+10907,rainy,day,dry,police,talking to someone,stop,truck,none,50m,50km/h
+10927,rainy,day,dry,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+10958,rainy,day,dry,police,talking to someone,moving orientation towards crosswalk,truck,none,50m,25km/h
+10975,rainy,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+10978,rainy,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+10979,rainy,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+11011,rainy,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+11013,rainy,day,dry,police,talking to someone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+11019,rainy,day,dry,police,looking around,stop,normal car,urgent (to hospital),100m,25km/h
+11048,rainy,day,dry,police,looking around,stop,truck,hurry (commute or flight),50m,25km/h
+11063,rainy,day,dry,police,looking around,stop,emergency vehicle,none,50m,50km/h
+11093,rainy,day,dry,police,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+11119,rainy,day,dry,police,looking around,moving orientation towards crosswalk,truck,none,10m,25km/h
+11132,rainy,day,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+11148,rainy,day,dry,police,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+11166,rainy,day,dry,police,looking around,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+11171,rainy,day,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+11188,rainy,day,dry,pregnant,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+11192,rainy,day,dry,pregnant,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+11193,rainy,day,dry,pregnant,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+11263,rainy,day,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+11287,rainy,day,dry,pregnant,watching phone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+11298,rainy,day,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+11322,rainy,day,dry,pregnant,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+11341,rainy,day,dry,pregnant,talking to someone,stop,normal car,urgent (to hospital),10m,25km/h
+11342,rainy,day,dry,pregnant,talking to someone,stop,normal car,urgent (to hospital),50m,25km/h
+11343,rainy,day,dry,pregnant,talking to someone,stop,normal car,urgent (to hospital),100m,25km/h
+11352,rainy,day,dry,pregnant,talking to someone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+11355,rainy,day,dry,pregnant,talking to someone,stop,truck,urgent (to hospital),100m,25km/h
+11360,rainy,day,dry,pregnant,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+11370,rainy,day,dry,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+11371,rainy,day,dry,pregnant,talking to someone,stop,truck,hurry (commute or flight),10m,25km/h
+11377,rainy,day,dry,pregnant,talking to someone,stop,normal car,none,10m,25km/h
+11402,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+11403,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+11417,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+11427,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+11430,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+11431,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,10m,25km/h
+11434,rainy,day,dry,pregnant,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+11452,rainy,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+11490,rainy,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+11492,rainy,day,dry,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+11525,rainy,day,dry,pregnant,looking around,stop,normal car,hurry (commute or flight),50m,50km/h
+11546,rainy,day,dry,pregnant,looking around,stop,emergency vehicle,none,50m,25km/h
+11552,rainy,day,dry,pregnant,looking around,stop,truck,none,50m,25km/h
+11572,rainy,day,dry,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+11580,rainy,day,dry,pregnant,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+11593,rainy,day,dry,pregnant,looking around,moving orientation towards crosswalk,normal car,none,10m,25km/h
+11604,rainy,day,dry,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+11609,rainy,day,dry,pregnant,looking around,moving orientation towards crosswalk,truck,none,50m,50km/h
+11616,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+11617,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+11637,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+11645,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+11652,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+11655,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+11661,rainy,day,dry,pregnant,looking around,moving orientation not towards crosswalk,truck,none,100m,25km/h
+11694,rainy,day,dry,college student,watching phone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+11699,rainy,day,dry,college student,watching phone,stop,truck,hurry (commute or flight),50m,50km/h
+11700,rainy,day,dry,college student,watching phone,stop,truck,hurry (commute or flight),100m,50km/h
+11718,rainy,day,dry,college student,watching phone,stop,truck,none,100m,50km/h
+11722,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+11726,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+11735,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+11747,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+11757,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+11763,rainy,day,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+11785,rainy,day,dry,college student,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+11793,rainy,day,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+11799,rainy,day,dry,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+11812,rainy,day,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+11828,rainy,day,dry,college student,talking to someone,stop,normal car,urgent (to hospital),50m,25km/h
+11845,rainy,day,dry,college student,talking to someone,stop,normal car,hurry (commute or flight),10m,25km/h
+11854,rainy,day,dry,college student,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+11867,rainy,day,dry,college student,talking to someone,stop,normal car,none,50m,50km/h
+11880,rainy,day,dry,college student,talking to someone,stop,truck,none,100m,50km/h
+11884,rainy,day,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+11899,rainy,day,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+11907,rainy,day,dry,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+11932,rainy,day,dry,college student,talking to someone,moving orientation towards crosswalk,truck,none,10m,50km/h
+11938,rainy,day,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+11948,rainy,day,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+11953,rainy,day,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+11998,rainy,day,dry,college student,looking around,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+12033,rainy,day,dry,college student,looking around,stop,emergency vehicle,none,100m,25km/h
+12053,rainy,day,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+12078,rainy,day,dry,college student,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+12114,rainy,day,dry,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+12117,rainy,day,dry,college student,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+12120,rainy,day,dry,college student,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+12137,rainy,day,dry,college student,looking around,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+12152,rainy,day,wet,children,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+12165,rainy,day,wet,children,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+12166,rainy,day,wet,children,watching phone,stop,truck,urgent (to hospital),10m,50km/h
+12197,rainy,day,wet,children,watching phone,stop,emergency vehicle,none,50m,50km/h
+12244,rainy,day,wet,children,watching phone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+12292,rainy,day,wet,children,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+12327,rainy,day,wet,children,talking to someone,stop,truck,urgent (to hospital),100m,25km/h
+12348,rainy,day,wet,children,talking to someone,stop,truck,hurry (commute or flight),100m,50km/h
+12355,rainy,day,wet,children,talking to someone,stop,emergency vehicle,none,10m,25km/h
+12386,rainy,day,wet,children,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+12391,rainy,day,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+12399,rainy,day,wet,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+12442,rainy,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+12444,rainy,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+12461,rainy,day,wet,children,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+12478,rainy,day,wet,children,looking around,stop,normal car,urgent (to hospital),10m,50km/h
+12488,rainy,day,wet,children,looking around,stop,truck,urgent (to hospital),50m,25km/h
+12494,rainy,day,wet,children,looking around,stop,normal car,hurry (commute or flight),50m,25km/h
+12510,rainy,day,wet,children,looking around,stop,truck,hurry (commute or flight),100m,50km/h
+12511,rainy,day,wet,children,looking around,stop,normal car,none,10m,25km/h
+12521,rainy,day,wet,children,looking around,stop,emergency vehicle,none,50m,50km/h
+12523,rainy,day,wet,children,looking around,stop,truck,none,10m,25km/h
+12529,rainy,day,wet,children,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+12532,rainy,day,wet,children,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+12550,rainy,day,wet,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+12598,rainy,day,wet,children,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+12613,rainy,day,wet,children,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+12619,rainy,day,wet,children,looking around,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+12628,rainy,day,wet,children,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,50km/h
+12656,rainy,day,wet,elderly,watching phone,stop,normal car,hurry (commute or flight),50m,25km/h
+12668,rainy,day,wet,elderly,watching phone,stop,truck,hurry (commute or flight),50m,25km/h
+12673,rainy,day,wet,elderly,watching phone,stop,normal car,none,10m,25km/h
+12676,rainy,day,wet,elderly,watching phone,stop,normal car,none,10m,50km/h
+12695,rainy,day,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+12732,rainy,day,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+12753,rainy,day,wet,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+12757,rainy,day,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+12782,rainy,day,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+12784,rainy,day,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+12794,rainy,day,wet,elderly,watching phone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+12812,rainy,day,wet,elderly,talking to someone,stop,truck,urgent (to hospital),50m,25km/h
+12823,rainy,day,wet,elderly,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+12830,rainy,day,wet,elderly,talking to someone,stop,truck,hurry (commute or flight),50m,25km/h
+12839,rainy,day,wet,elderly,talking to someone,stop,normal car,none,50m,50km/h
+12842,rainy,day,wet,elderly,talking to someone,stop,emergency vehicle,none,50m,25km/h
+12898,rainy,day,wet,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+12899,rainy,day,wet,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+12901,rainy,day,wet,elderly,talking to someone,moving orientation towards crosswalk,truck,none,10m,25km/h
+12912,rainy,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+12913,rainy,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+12927,rainy,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+12954,rainy,day,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+12966,rainy,day,wet,elderly,looking around,stop,normal car,urgent (to hospital),100m,50km/h
+12989,rainy,day,wet,elderly,looking around,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+13001,rainy,day,wet,elderly,looking around,stop,normal car,none,50m,50km/h
+13012,rainy,day,wet,elderly,looking around,stop,truck,none,10m,50km/h
+13036,rainy,day,wet,elderly,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+13063,rainy,day,wet,elderly,looking around,moving orientation towards crosswalk,truck,none,10m,25km/h
+13064,rainy,day,wet,elderly,looking around,moving orientation towards crosswalk,truck,none,50m,25km/h
+13065,rainy,day,wet,elderly,looking around,moving orientation towards crosswalk,truck,none,100m,25km/h
+13067,rainy,day,wet,elderly,looking around,moving orientation towards crosswalk,truck,none,50m,50km/h
+13074,rainy,day,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+13095,rainy,day,wet,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+13104,rainy,day,wet,elderly,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+13124,rainy,day,wet,police,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+13148,rainy,day,wet,police,watching phone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+13152,rainy,day,wet,police,watching phone,stop,emergency vehicle,hurry (commute or flight),100m,50km/h
+13155,rainy,day,wet,police,watching phone,stop,truck,hurry (commute or flight),100m,25km/h
+13192,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+13196,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+13198,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+13218,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+13223,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+13229,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,truck,none,50m,50km/h
+13230,rainy,day,wet,police,watching phone,moving orientation towards crosswalk,truck,none,100m,50km/h
+13239,rainy,day,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+13264,rainy,day,wet,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+13266,rainy,day,wet,police,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+13278,rainy,day,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+13307,rainy,day,wet,police,talking to someone,stop,normal car,hurry (commute or flight),50m,50km/h
+13310,rainy,day,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+13323,rainy,day,wet,police,talking to someone,stop,normal car,none,100m,25km/h
+13329,rainy,day,wet,police,talking to someone,stop,emergency vehicle,none,100m,25km/h
+13336,rainy,day,wet,police,talking to someone,stop,truck,none,10m,50km/h
+13339,rainy,day,wet,police,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+13355,rainy,day,wet,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+13357,rainy,day,wet,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+13366,rainy,day,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+13368,rainy,day,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+13425,rainy,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+13428,rainy,day,wet,police,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+13450,rainy,day,wet,police,looking around,stop,normal car,urgent (to hospital),10m,50km/h
+13495,rainy,day,wet,police,looking around,stop,truck,none,10m,25km/h
+13496,rainy,day,wet,police,looking around,stop,truck,none,50m,25km/h
+13498,rainy,day,wet,police,looking around,stop,truck,none,10m,50km/h
+13500,rainy,day,wet,police,looking around,stop,truck,none,100m,50km/h
+13526,rainy,day,wet,police,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+13533,rainy,day,wet,police,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+13550,rainy,day,wet,police,looking around,moving orientation towards crosswalk,truck,none,50m,25km/h
+13554,rainy,day,wet,police,looking around,moving orientation towards crosswalk,truck,none,100m,50km/h
+13567,rainy,day,wet,police,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+13583,rainy,day,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+13590,rainy,day,wet,police,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+13604,rainy,day,wet,police,looking around,moving orientation not towards crosswalk,truck,none,50m,25km/h
+13610,rainy,day,wet,pregnant,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+13698,rainy,day,wet,pregnant,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+13727,rainy,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+13746,rainy,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+13759,rainy,day,wet,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+13777,rainy,day,wet,pregnant,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+13796,rainy,day,wet,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+13810,rainy,day,wet,pregnant,talking to someone,stop,normal car,none,10m,50km/h
+13818,rainy,day,wet,pregnant,talking to someone,stop,emergency vehicle,none,100m,50km/h
+13820,rainy,day,wet,pregnant,talking to someone,stop,truck,none,50m,25km/h
+13821,rainy,day,wet,pregnant,talking to someone,stop,truck,none,100m,25km/h
+13837,rainy,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+13838,rainy,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+13871,rainy,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+13872,rainy,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+13876,rainy,day,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,none,10m,50km/h
+13899,rainy,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+13902,rainy,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+13928,rainy,day,wet,pregnant,talking to someone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+13936,rainy,day,wet,pregnant,looking around,stop,normal car,urgent (to hospital),10m,50km/h
+13942,rainy,day,wet,pregnant,looking around,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+13943,rainy,day,wet,pregnant,looking around,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+13955,rainy,day,wet,pregnant,looking around,stop,normal car,hurry (commute or flight),50m,50km/h
+13986,rainy,day,wet,pregnant,looking around,stop,truck,none,100m,50km/h
+14002,rainy,day,wet,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+14030,rainy,day,wet,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,25km/h
+14041,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+14046,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+14051,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+14055,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+14069,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+14074,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+14085,rainy,day,wet,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+14096,rainy,day,wet,college student,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+14133,rainy,day,wet,college student,watching phone,stop,normal car,none,100m,25km/h
+14147,rainy,day,wet,college student,watching phone,stop,truck,none,50m,50km/h
+14152,rainy,day,wet,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+14174,rainy,day,wet,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+14180,rainy,day,wet,college student,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+14222,rainy,day,wet,college student,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+14230,rainy,day,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+14245,rainy,day,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+14264,rainy,day,wet,college student,talking to someone,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+14294,rainy,day,wet,college student,talking to someone,stop,normal car,none,50m,25km/h
+14318,rainy,day,wet,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+14338,rainy,day,wet,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+14362,rainy,day,wet,college student,talking to someone,moving orientation towards crosswalk,truck,none,10m,50km/h
+14372,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+14375,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+14378,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+14390,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+14393,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+14400,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+14402,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+14409,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+14418,rainy,day,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,none,100m,50km/h
+14420,rainy,day,wet,college student,looking around,stop,normal car,urgent (to hospital),50m,25km/h
+14430,rainy,day,wet,college student,looking around,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+14434,rainy,day,wet,college student,looking around,stop,truck,urgent (to hospital),10m,50km/h
+14436,rainy,day,wet,college student,looking around,stop,truck,urgent (to hospital),100m,50km/h
+14470,rainy,day,wet,college student,looking around,stop,truck,none,10m,50km/h
+14484,rainy,day,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+14494,rainy,day,wet,college student,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+14514,rainy,day,wet,college student,looking around,moving orientation towards crosswalk,normal car,none,100m,50km/h
+14519,rainy,day,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+14539,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+14540,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+14541,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+14547,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+14551,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+14565,rainy,day,wet,college student,looking around,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+14582,rainy,night,dry,children,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+14592,rainy,night,dry,children,watching phone,stop,emergency vehicle,urgent (to hospital),100m,50km/h
+14593,rainy,night,dry,children,watching phone,stop,truck,urgent (to hospital),10m,25km/h
+14601,rainy,night,dry,children,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+14603,rainy,night,dry,children,watching phone,stop,normal car,hurry (commute or flight),50m,50km/h
+14606,rainy,night,dry,children,watching phone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+14618,rainy,night,dry,children,watching phone,stop,normal car,none,50m,25km/h
+14623,rainy,night,dry,children,watching phone,stop,emergency vehicle,none,10m,25km/h
+14628,rainy,night,dry,children,watching phone,stop,emergency vehicle,none,100m,50km/h
+14635,rainy,night,dry,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+14683,rainy,night,dry,children,watching phone,moving orientation towards crosswalk,truck,none,10m,25km/h
+14699,rainy,night,dry,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+14706,rainy,night,dry,children,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+14708,rainy,night,dry,children,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+14712,rainy,night,dry,children,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+14733,rainy,night,dry,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,100m,25km/h
+14745,rainy,night,dry,children,talking to someone,stop,normal car,urgent (to hospital),100m,25km/h
+14764,rainy,night,dry,children,talking to someone,stop,normal car,hurry (commute or flight),10m,50km/h
+14771,rainy,night,dry,children,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+14777,rainy,night,dry,children,talking to someone,stop,truck,hurry (commute or flight),50m,50km/h
+14813,rainy,night,dry,children,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+14826,rainy,night,dry,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+14830,rainy,night,dry,children,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+14858,rainy,night,dry,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+14879,rainy,night,dry,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+14906,rainy,night,dry,children,looking around,stop,normal car,urgent (to hospital),50m,25km/h
+14926,rainy,night,dry,children,looking around,stop,normal car,hurry (commute or flight),10m,50km/h
+14931,rainy,night,dry,children,looking around,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+14939,rainy,night,dry,children,looking around,stop,truck,hurry (commute or flight),50m,50km/h
+14945,rainy,night,dry,children,looking around,stop,normal car,none,50m,50km/h
+14955,rainy,night,dry,children,looking around,stop,truck,none,100m,25km/h
+14978,rainy,night,dry,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+14980,rainy,night,dry,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+14998,rainy,night,dry,children,looking around,moving orientation towards crosswalk,normal car,none,10m,50km/h
+15055,rainy,night,dry,children,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+15060,rainy,night,dry,children,looking around,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+15061,rainy,night,dry,children,looking around,moving orientation not towards crosswalk,truck,none,10m,25km/h
+15081,rainy,night,dry,elderly,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+15108,rainy,night,dry,elderly,watching phone,stop,normal car,none,100m,50km/h
+15131,rainy,night,dry,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+15137,rainy,night,dry,elderly,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+15162,rainy,night,dry,elderly,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+15165,rainy,night,dry,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+15182,rainy,night,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+15195,rainy,night,dry,elderly,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+15197,rainy,night,dry,elderly,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+15221,rainy,night,dry,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+15246,rainy,night,dry,elderly,talking to someone,stop,truck,urgent (to hospital),100m,50km/h
+15248,rainy,night,dry,elderly,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+15269,rainy,night,dry,elderly,talking to someone,stop,normal car,none,50m,50km/h
+15290,rainy,night,dry,elderly,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+15295,rainy,night,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+15301,rainy,night,dry,elderly,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+15315,rainy,night,dry,elderly,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+15357,rainy,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+15368,rainy,night,dry,elderly,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,25km/h
+15407,rainy,night,dry,elderly,looking around,stop,truck,urgent (to hospital),50m,50km/h
+15425,rainy,night,dry,elderly,looking around,stop,truck,hurry (commute or flight),50m,50km/h
+15428,rainy,night,dry,elderly,looking around,stop,normal car,none,50m,25km/h
+15436,rainy,night,dry,elderly,looking around,stop,emergency vehicle,none,10m,50km/h
+15457,rainy,night,dry,elderly,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+15481,rainy,night,dry,elderly,looking around,moving orientation towards crosswalk,normal car,none,10m,25km/h
+15488,rainy,night,dry,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,25km/h
+15501,rainy,night,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+15519,rainy,night,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+15540,rainy,night,dry,elderly,looking around,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+15558,rainy,night,dry,police,watching phone,stop,normal car,urgent (to hospital),100m,50km/h
+15568,rainy,night,dry,police,watching phone,stop,truck,urgent (to hospital),10m,50km/h
+15573,rainy,night,dry,police,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+15585,rainy,night,dry,police,watching phone,stop,truck,hurry (commute or flight),100m,25km/h
+15604,rainy,night,dry,police,watching phone,stop,truck,none,10m,50km/h
+15610,rainy,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+15641,rainy,night,dry,police,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+15646,rainy,night,dry,police,watching phone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+15656,rainy,night,dry,police,watching phone,moving orientation towards crosswalk,truck,none,50m,25km/h
+15658,rainy,night,dry,police,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+15673,rainy,night,dry,police,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+15700,rainy,night,dry,police,watching phone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+15720,rainy,night,dry,police,talking to someone,stop,normal car,urgent (to hospital),100m,50km/h
+15724,rainy,night,dry,police,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+15747,rainy,night,dry,police,talking to someone,stop,truck,hurry (commute or flight),100m,25km/h
+15757,rainy,night,dry,police,talking to someone,stop,emergency vehicle,none,10m,25km/h
+15764,rainy,night,dry,police,talking to someone,stop,truck,none,50m,25km/h
+15772,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+15774,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+15784,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+15810,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+15811,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,10m,25km/h
+15816,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+15820,rainy,night,dry,police,talking to someone,moving orientation towards crosswalk,truck,none,10m,50km/h
+15843,rainy,night,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+15860,rainy,night,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,25km/h
+15863,rainy,night,dry,police,talking to someone,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+15882,rainy,night,dry,police,looking around,stop,normal car,urgent (to hospital),100m,50km/h
+15917,rainy,night,dry,police,looking around,stop,normal car,none,50m,50km/h
+15930,rainy,night,dry,police,looking around,stop,truck,none,100m,50km/h
+15938,rainy,night,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+15941,rainy,night,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+15977,rainy,night,dry,police,looking around,moving orientation towards crosswalk,emergency vehicle,none,50m,50km/h
+15988,rainy,night,dry,police,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+15994,rainy,night,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+16007,rainy,night,dry,police,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+16009,rainy,night,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+16027,rainy,night,dry,police,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+16040,rainy,night,dry,pregnant,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+16042,rainy,night,dry,pregnant,watching phone,stop,normal car,urgent (to hospital),10m,50km/h
+16047,rainy,night,dry,pregnant,watching phone,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+16058,rainy,night,dry,pregnant,watching phone,stop,normal car,hurry (commute or flight),50m,25km/h
+16076,rainy,night,dry,pregnant,watching phone,stop,normal car,none,50m,25km/h
+16108,rainy,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+16110,rainy,night,dry,pregnant,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),100m,50km/h
+16122,rainy,night,dry,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+16153,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+16156,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+16162,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+16172,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+16176,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+16196,rainy,night,dry,pregnant,watching phone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+16254,rainy,night,dry,pregnant,talking to someone,stop,truck,none,100m,50km/h
+16306,rainy,night,dry,pregnant,talking to someone,moving orientation towards crosswalk,truck,none,10m,50km/h
+16312,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+16325,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+16342,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+16343,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+16344,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+16350,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,normal car,none,100m,50km/h
+16355,rainy,night,dry,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+16363,rainy,night,dry,pregnant,looking around,stop,normal car,urgent (to hospital),10m,25km/h
+16396,rainy,night,dry,pregnant,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+16400,rainy,night,dry,pregnant,looking around,stop,normal car,none,50m,25km/h
+16451,rainy,night,dry,pregnant,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+16452,rainy,night,dry,pregnant,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+16461,rainy,night,dry,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+16465,rainy,night,dry,pregnant,looking around,moving orientation towards crosswalk,truck,none,10m,25km/h
+16474,rainy,night,dry,pregnant,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+16496,rainy,night,dry,pregnant,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+16527,rainy,night,dry,college student,watching phone,stop,normal car,urgent (to hospital),100m,25km/h
+16545,rainy,night,dry,college student,watching phone,stop,normal car,hurry (commute or flight),100m,25km/h
+16561,rainy,night,dry,college student,watching phone,stop,normal car,none,10m,25km/h
+16565,rainy,night,dry,college student,watching phone,stop,normal car,none,50m,50km/h
+16569,rainy,night,dry,college student,watching phone,stop,emergency vehicle,none,100m,25km/h
+16583,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+16585,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,25km/h
+16587,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+16590,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+16608,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+16614,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,50km/h
+16618,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+16624,rainy,night,dry,college student,watching phone,moving orientation towards crosswalk,emergency vehicle,none,10m,50km/h
+16656,rainy,night,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+16661,rainy,night,dry,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+16671,rainy,night,dry,college student,watching phone,moving orientation not towards crosswalk,normal car,none,100m,25km/h
+16678,rainy,night,dry,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,10m,50km/h
+16681,rainy,night,dry,college student,watching phone,moving orientation not towards crosswalk,truck,none,10m,25km/h
+16706,rainy,night,dry,college student,talking to someone,stop,normal car,hurry (commute or flight),50m,25km/h
+16720,rainy,night,dry,college student,talking to someone,stop,truck,hurry (commute or flight),10m,50km/h
+16745,rainy,night,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+16746,rainy,night,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,50km/h
+16748,rainy,night,dry,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+16764,rainy,night,dry,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,50km/h
+16789,rainy,night,dry,college student,talking to someone,moving orientation towards crosswalk,truck,none,10m,25km/h
+16805,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+16809,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+16812,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,50km/h
+16829,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+16834,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+16837,rainy,night,dry,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+16857,rainy,night,dry,college student,looking around,stop,emergency vehicle,urgent (to hospital),100m,25km/h
+16865,rainy,night,dry,college student,looking around,stop,truck,urgent (to hospital),50m,50km/h
+16872,rainy,night,dry,college student,looking around,stop,normal car,hurry (commute or flight),100m,50km/h
+16880,rainy,night,dry,college student,looking around,stop,truck,hurry (commute or flight),50m,25km/h
+16883,rainy,night,dry,college student,looking around,stop,truck,hurry (commute or flight),50m,50km/h
+16894,rainy,night,dry,college student,looking around,stop,emergency vehicle,none,10m,50km/h
+16900,rainy,night,dry,college student,looking around,stop,truck,none,10m,50km/h
+16914,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+16917,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),100m,25km/h
+16919,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+16927,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+16930,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+16933,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+16947,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+16955,rainy,night,dry,college student,looking around,moving orientation towards crosswalk,truck,none,50m,50km/h
+16989,rainy,night,dry,college student,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+17003,rainy,night,dry,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,none,50m,50km/h
+17004,rainy,night,dry,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+17012,rainy,night,wet,children,watching phone,stop,normal car,urgent (to hospital),50m,25km/h
+17025,rainy,night,wet,children,watching phone,stop,truck,urgent (to hospital),100m,25km/h
+17033,rainy,night,wet,children,watching phone,stop,normal car,hurry (commute or flight),50m,50km/h
+17036,rainy,night,wet,children,watching phone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+17038,rainy,night,wet,children,watching phone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+17057,rainy,night,wet,children,watching phone,stop,emergency vehicle,none,50m,50km/h
+17062,rainy,night,wet,children,watching phone,stop,truck,none,10m,50km/h
+17065,rainy,night,wet,children,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+17087,rainy,night,wet,children,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+17093,rainy,night,wet,children,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+17106,rainy,night,wet,children,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+17113,rainy,night,wet,children,watching phone,moving orientation towards crosswalk,truck,none,10m,25km/h
+17130,rainy,night,wet,children,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+17174,rainy,night,wet,children,talking to someone,stop,normal car,urgent (to hospital),50m,25km/h
+17194,rainy,night,wet,children,talking to someone,stop,normal car,hurry (commute or flight),10m,50km/h
+17212,rainy,night,wet,children,talking to someone,stop,normal car,none,10m,50km/h
+17225,rainy,night,wet,children,talking to someone,stop,truck,none,50m,50km/h
+17240,rainy,night,wet,children,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+17251,rainy,night,wet,children,talking to someone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,25km/h
+17266,rainy,night,wet,children,talking to someone,moving orientation towards crosswalk,normal car,none,10m,50km/h
+17275,rainy,night,wet,children,talking to someone,moving orientation towards crosswalk,truck,none,10m,25km/h
+17306,rainy,night,wet,children,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+17330,rainy,night,wet,children,talking to someone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+17333,rainy,night,wet,children,talking to someone,moving orientation not towards crosswalk,truck,none,50m,50km/h
+17345,rainy,night,wet,children,looking around,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+17356,rainy,night,wet,children,looking around,stop,normal car,hurry (commute or flight),10m,50km/h
+17380,rainy,night,wet,children,looking around,stop,emergency vehicle,none,10m,50km/h
+17402,rainy,night,wet,children,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+17408,rainy,night,wet,children,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+17421,rainy,night,wet,children,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+17436,rainy,night,wet,children,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+17442,rainy,night,wet,children,looking around,moving orientation towards crosswalk,truck,none,100m,50km/h
+17452,rainy,night,wet,children,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+17476,rainy,night,wet,children,looking around,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+17486,rainy,night,wet,children,looking around,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+17492,rainy,night,wet,children,looking around,moving orientation not towards crosswalk,truck,none,50m,25km/h
+17495,rainy,night,wet,children,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+17516,rainy,night,wet,elderly,watching phone,stop,normal car,hurry (commute or flight),50m,25km/h
+17522,rainy,night,wet,elderly,watching phone,stop,emergency vehicle,hurry (commute or flight),50m,25km/h
+17524,rainy,night,wet,elderly,watching phone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+17535,rainy,night,wet,elderly,watching phone,stop,normal car,none,100m,25km/h
+17544,rainy,night,wet,elderly,watching phone,stop,emergency vehicle,none,100m,50km/h
+17549,rainy,night,wet,elderly,watching phone,stop,truck,none,50m,50km/h
+17551,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,25km/h
+17570,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+17589,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,none,100m,25km/h
+17592,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+17598,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+17599,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,truck,none,10m,25km/h
+17602,rainy,night,wet,elderly,watching phone,moving orientation towards crosswalk,truck,none,10m,50km/h
+17615,rainy,night,wet,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,50km/h
+17624,rainy,night,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+17625,rainy,night,wet,elderly,watching phone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+17630,rainy,night,wet,elderly,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+17662,rainy,night,wet,elderly,talking to someone,stop,normal car,urgent (to hospital),10m,50km/h
+17683,rainy,night,wet,elderly,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+17690,rainy,night,wet,elderly,talking to someone,stop,truck,hurry (commute or flight),50m,25km/h
+17695,rainy,night,wet,elderly,talking to someone,stop,normal car,none,10m,25km/h
+17710,rainy,night,wet,elderly,talking to someone,stop,truck,none,10m,50km/h
+17728,rainy,night,wet,elderly,talking to someone,moving orientation towards crosswalk,truck,urgent (to hospital),10m,50km/h
+17778,rainy,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+17780,rainy,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,25km/h
+17792,rainy,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+17793,rainy,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+17801,rainy,night,wet,elderly,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+17821,rainy,night,wet,elderly,looking around,stop,normal car,urgent (to hospital),10m,25km/h
+17833,rainy,night,wet,elderly,looking around,stop,truck,urgent (to hospital),10m,25km/h
+17834,rainy,night,wet,elderly,looking around,stop,truck,urgent (to hospital),50m,25km/h
+17838,rainy,night,wet,elderly,looking around,stop,truck,urgent (to hospital),100m,50km/h
+17841,rainy,night,wet,elderly,looking around,stop,normal car,hurry (commute or flight),100m,25km/h
+17855,rainy,night,wet,elderly,looking around,stop,truck,hurry (commute or flight),50m,50km/h
+17884,rainy,night,wet,elderly,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+17930,rainy,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+17931,rainy,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+17937,rainy,night,wet,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+17969,rainy,night,wet,elderly,looking around,moving orientation not towards crosswalk,normal car,none,50m,50km/h
+17971,rainy,night,wet,elderly,looking around,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+17992,rainy,night,wet,police,watching phone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+18005,rainy,night,wet,police,watching phone,stop,normal car,hurry (commute or flight),50m,50km/h
+18007,rainy,night,wet,police,watching phone,stop,emergency vehicle,hurry (commute or flight),10m,25km/h
+18021,rainy,night,wet,police,watching phone,stop,normal car,none,100m,25km/h
+18039,rainy,night,wet,police,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+18053,rainy,night,wet,police,watching phone,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+18058,rainy,night,wet,police,watching phone,moving orientation towards crosswalk,normal car,hurry (commute or flight),10m,50km/h
+18067,rainy,night,wet,police,watching phone,moving orientation towards crosswalk,truck,hurry (commute or flight),10m,25km/h
+18120,rainy,night,wet,police,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+18130,rainy,night,wet,police,watching phone,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+18141,rainy,night,wet,police,watching phone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+18172,rainy,night,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),10m,50km/h
+18173,rainy,night,wet,police,talking to someone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+18184,rainy,night,wet,police,talking to someone,stop,normal car,none,10m,50km/h
+18203,rainy,night,wet,police,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+18208,rainy,night,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+18218,rainy,night,wet,police,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+18236,rainy,night,wet,police,talking to someone,moving orientation towards crosswalk,normal car,none,50m,25km/h
+18243,rainy,night,wet,police,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+18267,rainy,night,wet,police,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+18271,rainy,night,wet,police,talking to someone,moving orientation not towards crosswalk,normal car,hurry (commute or flight),10m,25km/h
+18328,rainy,night,wet,police,looking around,stop,normal car,hurry (commute or flight),10m,50km/h
+18333,rainy,night,wet,police,looking around,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+18354,rainy,night,wet,police,looking around,stop,emergency vehicle,none,100m,50km/h
+18357,rainy,night,wet,police,looking around,stop,truck,none,100m,25km/h
+18362,rainy,night,wet,police,looking around,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+18381,rainy,night,wet,police,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),100m,25km/h
+18389,rainy,night,wet,police,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+18393,rainy,night,wet,police,looking around,moving orientation towards crosswalk,truck,hurry (commute or flight),100m,25km/h
+18408,rainy,night,wet,police,looking around,moving orientation towards crosswalk,emergency vehicle,none,100m,50km/h
+18424,rainy,night,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+18443,rainy,night,wet,police,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),50m,50km/h
+18467,rainy,night,wet,police,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h
+18482,rainy,night,wet,pregnant,watching phone,stop,truck,urgent (to hospital),50m,25km/h
+18505,rainy,night,wet,pregnant,watching phone,stop,normal car,none,10m,25km/h
+18515,rainy,night,wet,pregnant,watching phone,stop,emergency vehicle,none,50m,50km/h
+18531,rainy,night,wet,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,25km/h
+18548,rainy,night,wet,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),50m,25km/h
+18567,rainy,night,wet,pregnant,watching phone,moving orientation towards crosswalk,emergency vehicle,none,100m,25km/h
+18611,rainy,night,wet,pregnant,watching phone,moving orientation not towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+18631,rainy,night,wet,pregnant,talking to someone,stop,normal car,urgent (to hospital),10m,25km/h
+18649,rainy,night,wet,pregnant,talking to someone,stop,normal car,hurry (commute or flight),10m,25km/h
+18657,rainy,night,wet,pregnant,talking to someone,stop,emergency vehicle,hurry (commute or flight),100m,25km/h
+18672,rainy,night,wet,pregnant,talking to someone,stop,normal car,none,100m,50km/h
+18673,rainy,night,wet,pregnant,talking to someone,stop,emergency vehicle,none,10m,25km/h
+18688,rainy,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),10m,50km/h
+18689,rainy,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,50km/h
+18696,rainy,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),100m,50km/h
+18707,rainy,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,50km/h
+18719,rainy,night,wet,pregnant,talking to someone,moving orientation towards crosswalk,truck,hurry (commute or flight),50m,50km/h
+18751,rainy,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,25km/h
+18753,rainy,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),100m,25km/h
+18754,rainy,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,truck,urgent (to hospital),10m,50km/h
+18782,rainy,night,wet,pregnant,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+18800,rainy,night,wet,pregnant,looking around,stop,emergency vehicle,urgent (to hospital),50m,25km/h
+18803,rainy,night,wet,pregnant,looking around,stop,emergency vehicle,urgent (to hospital),50m,50km/h
+18826,rainy,night,wet,pregnant,looking around,stop,truck,hurry (commute or flight),10m,50km/h
+18842,rainy,night,wet,pregnant,looking around,stop,truck,none,50m,25km/h
+18854,rainy,night,wet,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+18856,rainy,night,wet,pregnant,looking around,moving orientation towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+18859,rainy,night,wet,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),10m,25km/h
+18860,rainy,night,wet,pregnant,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,25km/h
+18866,rainy,night,wet,pregnant,looking around,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+18917,rainy,night,wet,pregnant,looking around,moving orientation not towards crosswalk,truck,urgent (to hospital),50m,50km/h
+18937,rainy,night,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,none,10m,25km/h
+18940,rainy,night,wet,pregnant,looking around,moving orientation not towards crosswalk,normal car,none,10m,50km/h
+18961,rainy,night,wet,college student,watching phone,stop,emergency vehicle,urgent (to hospital),10m,25km/h
+18967,rainy,night,wet,college student,watching phone,stop,truck,urgent (to hospital),10m,25km/h
+18970,rainy,night,wet,college student,watching phone,stop,truck,urgent (to hospital),10m,50km/h
+18983,rainy,night,wet,college student,watching phone,stop,emergency vehicle,hurry (commute or flight),50m,50km/h
+19010,rainy,night,wet,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),50m,25km/h
+19011,rainy,night,wet,college student,watching phone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+19070,rainy,night,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),50m,25km/h
+19090,rainy,night,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+19106,rainy,night,wet,college student,watching phone,moving orientation not towards crosswalk,emergency vehicle,none,50m,25km/h
+19114,rainy,night,wet,college student,watching phone,moving orientation not towards crosswalk,truck,none,10m,50km/h
+19122,rainy,night,wet,college student,talking to someone,stop,normal car,urgent (to hospital),100m,50km/h
+19126,rainy,night,wet,college student,talking to someone,stop,emergency vehicle,urgent (to hospital),10m,50km/h
+19166,rainy,night,wet,college student,talking to someone,stop,truck,none,50m,25km/h
+19173,rainy,night,wet,college student,talking to someone,moving orientation towards crosswalk,normal car,urgent (to hospital),100m,25km/h
+19190,rainy,night,wet,college student,talking to someone,moving orientation towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+19212,rainy,night,wet,college student,talking to someone,moving orientation towards crosswalk,normal car,none,100m,50km/h
+19214,rainy,night,wet,college student,talking to someone,moving orientation towards crosswalk,emergency vehicle,none,50m,25km/h
+19234,rainy,night,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,urgent (to hospital),10m,50km/h
+19258,rainy,night,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,hurry (commute or flight),10m,50km/h
+19267,rainy,night,wet,college student,talking to someone,moving orientation not towards crosswalk,emergency vehicle,none,10m,25km/h
+19274,rainy,night,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,none,50m,25km/h
+19275,rainy,night,wet,college student,talking to someone,moving orientation not towards crosswalk,truck,none,100m,25km/h
+19295,rainy,night,wet,college student,looking around,stop,truck,urgent (to hospital),50m,50km/h
+19327,rainy,night,wet,college student,looking around,stop,truck,none,10m,25km/h
+19330,rainy,night,wet,college student,looking around,stop,truck,none,10m,50km/h
+19349,rainy,night,wet,college student,looking around,moving orientation towards crosswalk,truck,urgent (to hospital),50m,50km/h
+19360,rainy,night,wet,college student,looking around,moving orientation towards crosswalk,emergency vehicle,hurry (commute or flight),10m,50km/h
+19406,rainy,night,wet,college student,looking around,moving orientation not towards crosswalk,normal car,hurry (commute or flight),50m,25km/h
+19413,rainy,night,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,25km/h
+19416,rainy,night,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,hurry (commute or flight),100m,50km/h
+19434,rainy,night,wet,college student,looking around,moving orientation not towards crosswalk,emergency vehicle,none,100m,50km/h
+19439,rainy,night,wet,college student,looking around,moving orientation not towards crosswalk,truck,none,50m,50km/h

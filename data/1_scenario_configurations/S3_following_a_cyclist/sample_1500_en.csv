@@ -1,0 +1,1501 @@
+id,weather,time,road_condition,bicycle_front_space,bicycle_rider,bicycle_position,dist_bicycle,ego_vehicle_speed,ego_role,occupant_requirement,following_vehicle
+32,sunny,day,dry,free,children,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+35,sunny,day,dry,free,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+116,sunny,day,dry,free,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+120,sunny,day,dry,free,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+128,sunny,day,dry,free,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+134,sunny,day,dry,free,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),none
+140,sunny,day,dry,free,children,right of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+181,sunny,day,dry,free,adult,middle of the lane,50m,25km/h,normal car,none,none
+209,sunny,day,dry,free,adult,middle of the lane,50m,25km/h,truck,none,normal car
+219,sunny,day,dry,free,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),none
+248,sunny,day,dry,free,children,right of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+252,sunny,day,dry,free,children,right of the lane,100m,25km/h,truck,urgent (to hospital),emergency vehicle
+266,sunny,day,dry,free,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+291,sunny,day,dry,free,children,middle of the lane,100m,25km/h,normal car,none,none
+314,sunny,day,dry,free,adult,right of the lane,100m,25km/h,truck,none,none
+323,sunny,day,dry,free,children,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+324,sunny,day,dry,free,children,right of the lane,100m,25km/h,truck,none,emergency vehicle
+327,sunny,day,dry,free,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),none
+342,sunny,day,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+352,sunny,day,dry,free,children,right of the lane,10m,50km/h,truck,urgent (to hospital),none
+384,sunny,day,dry,free,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+386,sunny,day,dry,free,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+409,sunny,day,dry,free,adult,middle of the lane,10m,50km/h,emergency vehicle,none,none
+410,sunny,day,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,none
+439,sunny,day,dry,free,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+448,sunny,day,dry,free,children,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+452,sunny,day,dry,free,children,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+475,sunny,day,dry,free,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+483,sunny,day,dry,free,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),none
+485,sunny,day,dry,free,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+504,sunny,day,dry,free,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),emergency vehicle
+521,sunny,day,dry,free,adult,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+539,sunny,day,dry,free,children,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+564,sunny,day,dry,free,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+607,sunny,day,dry,free,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+656,sunny,day,dry,100m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),normal car
+689,sunny,day,dry,100m,adult,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+696,sunny,day,dry,100m,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+697,sunny,day,dry,100m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+719,sunny,day,dry,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+721,sunny,day,dry,100m,adult,middle of the lane,10m,25km/h,normal car,none,none
+739,sunny,day,dry,100m,children,middle of the lane,10m,25km/h,emergency vehicle,none,normal car
+745,sunny,day,dry,100m,adult,middle of the lane,10m,25km/h,truck,none,none
+777,sunny,day,dry,100m,adult,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+804,sunny,day,dry,100m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+813,sunny,day,dry,100m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+829,sunny,day,dry,100m,adult,middle of the lane,50m,25km/h,normal car,none,none
+844,sunny,day,dry,100m,children,right of the lane,50m,25km/h,emergency vehicle,none,none
+857,sunny,day,dry,100m,adult,middle of the lane,50m,25km/h,truck,none,normal car
+867,sunny,day,dry,100m,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),none
+912,sunny,day,dry,100m,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+929,sunny,day,dry,100m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+937,sunny,day,dry,100m,adult,middle of the lane,100m,25km/h,normal car,none,none
+961,sunny,day,dry,100m,adult,middle of the lane,100m,25km/h,truck,none,none
+972,sunny,day,dry,100m,children,right of the lane,100m,25km/h,truck,none,emergency vehicle
+981,sunny,day,dry,100m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+994,sunny,day,dry,100m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+1007,sunny,day,dry,100m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+1028,sunny,day,dry,100m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+1035,sunny,day,dry,100m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),none
+1053,sunny,day,dry,100m,adult,middle of the lane,10m,50km/h,normal car,none,emergency vehicle
+1078,sunny,day,dry,100m,adult,right of the lane,10m,50km/h,truck,none,emergency vehicle
+1088,sunny,day,dry,100m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+1098,sunny,day,dry,100m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+1148,sunny,day,dry,100m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+1164,sunny,day,dry,100m,children,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+1167,sunny,day,dry,100m,children,middle of the lane,50m,50km/h,emergency vehicle,none,none
+1183,sunny,day,dry,100m,children,middle of the lane,50m,50km/h,truck,none,normal car
+1202,sunny,day,dry,100m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+1228,sunny,day,dry,100m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+1262,sunny,day,dry,100m,adult,right of the lane,100m,50km/h,normal car,none,none
+1273,sunny,day,dry,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,none,none
+1289,sunny,day,dry,100m,adult,middle of the lane,100m,50km/h,truck,none,normal car
+1291,sunny,day,dry,100m,children,middle of the lane,100m,50km/h,truck,none,normal car
+1298,sunny,day,dry,50m,adult,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+1329,sunny,day,dry,50m,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+1338,sunny,day,dry,50m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+1347,sunny,day,dry,50m,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+1351,sunny,day,dry,50m,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+1356,sunny,day,dry,50m,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+1394,sunny,day,dry,50m,adult,right of the lane,10m,25km/h,truck,none,none
+1399,sunny,day,dry,50m,children,middle of the lane,10m,25km/h,truck,none,normal car
+1428,sunny,day,dry,50m,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+1434,sunny,day,dry,50m,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+1457,sunny,day,dry,50m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+1458,sunny,day,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+1476,sunny,day,dry,50m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+1494,sunny,day,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+1504,sunny,day,dry,50m,children,right of the lane,50m,25km/h,truck,none,none
+1505,sunny,day,dry,50m,adult,middle of the lane,50m,25km/h,truck,none,normal car
+1511,sunny,day,dry,50m,children,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+1513,sunny,day,dry,50m,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),none
+1523,sunny,day,dry,50m,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+1528,sunny,day,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+1531,sunny,day,dry,50m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+1536,sunny,day,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+1555,sunny,day,dry,50m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+1573,sunny,day,dry,50m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),none
+1581,sunny,day,dry,50m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+1600,sunny,day,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,none,none
+1607,sunny,day,dry,50m,children,middle of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+1612,sunny,day,dry,50m,children,right of the lane,100m,25km/h,truck,none,none
+1636,sunny,day,dry,50m,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+1643,sunny,day,dry,50m,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+1693,sunny,day,dry,50m,adult,middle of the lane,10m,50km/h,normal car,none,none
+1713,sunny,day,dry,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+1714,sunny,day,dry,50m,adult,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+1720,sunny,day,dry,50m,children,right of the lane,10m,50km/h,truck,none,none
+1730,sunny,day,dry,50m,adult,right of the lane,50m,50km/h,normal car,urgent (to hospital),none
+1731,sunny,day,dry,50m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),none
+1769,sunny,day,dry,50m,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+1789,sunny,day,dry,50m,adult,middle of the lane,50m,50km/h,truck,hurry (commute or flight),none
+1806,sunny,day,dry,50m,adult,right of the lane,50m,50km/h,normal car,none,normal car
+1808,sunny,day,dry,50m,children,right of the lane,50m,50km/h,normal car,none,normal car
+1816,sunny,day,dry,50m,children,right of the lane,50m,50km/h,emergency vehicle,none,none
+1863,sunny,day,dry,50m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),none
+1902,sunny,day,dry,50m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+1912,sunny,day,dry,50m,children,right of the lane,100m,50km/h,normal car,none,none
+1969,sunny,day,dry,20m,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+1979,sunny,day,dry,20m,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+1982,sunny,day,dry,20m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+2004,sunny,day,dry,20m,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+2009,sunny,day,dry,20m,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+2021,sunny,day,dry,20m,adult,middle of the lane,10m,25km/h,normal car,none,normal car
+2042,sunny,day,dry,20m,adult,right of the lane,10m,25km/h,truck,none,none
+2054,sunny,day,dry,20m,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+2085,sunny,day,dry,20m,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+2120,sunny,day,dry,20m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+2128,sunny,day,dry,20m,children,right of the lane,50m,25km/h,normal car,none,none
+2141,sunny,day,dry,20m,adult,middle of the lane,50m,25km/h,emergency vehicle,none,normal car
+2142,sunny,day,dry,20m,adult,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+2146,sunny,day,dry,20m,adult,right of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+2151,sunny,day,dry,20m,children,middle of the lane,50m,25km/h,truck,none,none
+2169,sunny,day,dry,20m,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+2172,sunny,day,dry,20m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+2175,sunny,day,dry,20m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+2196,sunny,day,dry,20m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),emergency vehicle
+2200,sunny,day,dry,20m,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+2203,sunny,day,dry,20m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+2215,sunny,day,dry,20m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+2248,sunny,day,dry,20m,children,right of the lane,100m,25km/h,emergency vehicle,none,none
+2251,sunny,day,dry,20m,children,middle of the lane,100m,25km/h,emergency vehicle,none,normal car
+2268,sunny,day,dry,20m,children,right of the lane,100m,25km/h,truck,none,emergency vehicle
+2278,sunny,day,dry,20m,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+2301,sunny,day,dry,20m,adult,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+2306,sunny,day,dry,20m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+2309,sunny,day,dry,20m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+2313,sunny,day,dry,20m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+2316,sunny,day,dry,20m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+2320,sunny,day,dry,20m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+2324,sunny,day,dry,20m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+2326,sunny,day,dry,20m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+2327,sunny,day,dry,20m,children,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+2335,sunny,day,dry,20m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+2352,sunny,day,dry,20m,children,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+2389,sunny,day,dry,20m,adult,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+2394,sunny,day,dry,20m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+2421,sunny,day,dry,20m,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+2451,sunny,day,dry,20m,children,middle of the lane,50m,50km/h,normal car,none,none
+2468,sunny,day,dry,20m,children,right of the lane,50m,50km/h,emergency vehicle,none,normal car
+2484,sunny,day,dry,20m,children,right of the lane,50m,50km/h,truck,none,emergency vehicle
+2504,sunny,day,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+2506,sunny,day,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+2519,sunny,day,dry,20m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+2520,sunny,day,dry,20m,children,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+2534,sunny,day,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+2547,sunny,day,dry,20m,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),none
+2555,sunny,day,dry,20m,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+2560,sunny,day,dry,20m,children,right of the lane,100m,50km/h,normal car,none,none
+2572,sunny,day,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,none,none
+2580,sunny,day,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+2584,sunny,day,dry,20m,children,right of the lane,100m,50km/h,truck,none,none
+2603,sunny,day,wet,free,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+2606,sunny,day,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+2609,sunny,day,wet,free,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+2617,sunny,day,wet,free,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+2618,sunny,day,wet,free,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+2622,sunny,day,wet,free,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+2642,sunny,day,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+2648,sunny,day,wet,free,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+2677,sunny,day,wet,free,adult,middle of the lane,10m,25km/h,emergency vehicle,none,none
+2704,sunny,day,wet,free,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+2711,sunny,day,wet,free,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+2715,sunny,day,wet,free,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+2726,sunny,day,wet,free,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),none
+2752,sunny,day,wet,free,children,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+2782,sunny,day,wet,free,adult,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+2790,sunny,day,wet,free,adult,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+2795,sunny,day,wet,free,children,middle of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+2798,sunny,day,wet,free,adult,right of the lane,50m,25km/h,truck,none,none
+2827,sunny,day,wet,free,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+2849,sunny,day,wet,free,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+2865,sunny,day,wet,free,adult,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+2880,sunny,day,wet,free,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+2886,sunny,day,wet,free,adult,right of the lane,100m,25km/h,normal car,none,normal car
+2894,sunny,day,wet,free,adult,right of the lane,100m,25km/h,emergency vehicle,none,none
+2916,sunny,day,wet,free,children,right of the lane,100m,25km/h,truck,none,emergency vehicle
+2936,sunny,day,wet,free,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+2989,sunny,day,wet,free,adult,middle of the lane,10m,50km/h,normal car,none,none
+3012,sunny,day,wet,free,children,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+3016,sunny,day,wet,free,children,right of the lane,10m,50km/h,truck,none,none
+3019,sunny,day,wet,free,children,middle of the lane,10m,50km/h,truck,none,normal car
+3024,sunny,day,wet,free,children,right of the lane,10m,50km/h,truck,none,emergency vehicle
+3025,sunny,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,urgent (to hospital),none
+3036,sunny,day,wet,free,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+3063,sunny,day,wet,free,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+3069,sunny,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+3101,sunny,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,none,normal car
+3114,sunny,day,wet,free,adult,right of the lane,50m,50km/h,emergency vehicle,none,normal car
+3143,sunny,day,wet,free,children,middle of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+3166,sunny,day,wet,free,adult,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+3170,sunny,day,wet,free,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+3185,sunny,day,wet,free,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+3201,sunny,day,wet,free,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+3208,sunny,day,wet,free,children,right of the lane,100m,50km/h,normal car,none,none
+3209,sunny,day,wet,free,adult,middle of the lane,100m,50km/h,normal car,none,normal car
+3223,sunny,day,wet,free,children,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+3257,sunny,day,wet,100m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+3266,sunny,day,wet,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+3278,sunny,day,wet,100m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+3287,sunny,day,wet,100m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+3311,sunny,day,wet,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+3351,sunny,day,wet,100m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),none
+3352,sunny,day,wet,100m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+3354,sunny,day,wet,100m,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+3355,sunny,day,wet,100m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+3377,sunny,day,wet,100m,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+3394,sunny,day,wet,100m,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+3406,sunny,day,wet,100m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+3464,sunny,day,wet,100m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+3474,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+3483,sunny,day,wet,100m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+3489,sunny,day,wet,100m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),emergency vehicle
+3499,sunny,day,wet,100m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+3506,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+3508,sunny,day,wet,100m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+3509,sunny,day,wet,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+3510,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+3520,sunny,day,wet,100m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),none
+3523,sunny,day,wet,100m,children,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+3526,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+3530,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,normal car,none,none
+3534,sunny,day,wet,100m,adult,right of the lane,100m,25km/h,normal car,none,normal car
+3572,sunny,day,wet,100m,children,right of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+3579,sunny,day,wet,100m,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+3589,sunny,day,wet,100m,adult,middle of the lane,10m,50km/h,truck,urgent (to hospital),none
+3610,sunny,day,wet,100m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+3617,sunny,day,wet,100m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+3634,sunny,day,wet,100m,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+3670,sunny,day,wet,100m,adult,right of the lane,10m,50km/h,truck,none,emergency vehicle
+3683,sunny,day,wet,100m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+3687,sunny,day,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+3690,sunny,day,wet,100m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+3704,sunny,day,wet,100m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+3712,sunny,day,wet,100m,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+3753,sunny,day,wet,100m,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+3770,sunny,day,wet,100m,adult,right of the lane,50m,50km/h,truck,none,none
+3827,sunny,day,wet,100m,children,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+3837,sunny,day,wet,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+3883,sunny,day,wet,100m,children,middle of the lane,100m,50km/h,truck,none,normal car
+3888,sunny,day,wet,100m,children,right of the lane,100m,50km/h,truck,none,emergency vehicle
+3965,sunny,day,wet,50m,adult,middle of the lane,10m,25km/h,normal car,none,normal car
+3972,sunny,day,wet,50m,children,right of the lane,10m,25km/h,normal car,none,emergency vehicle
+3980,sunny,day,wet,50m,children,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+3994,sunny,day,wet,50m,adult,right of the lane,10m,25km/h,truck,none,emergency vehicle
+4008,sunny,day,wet,50m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+4014,sunny,day,wet,50m,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+4032,sunny,day,wet,50m,children,right of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+4033,sunny,day,wet,50m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+4035,sunny,day,wet,50m,children,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+4047,sunny,day,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+4049,sunny,day,wet,50m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+4060,sunny,day,wet,50m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),none
+4069,sunny,day,wet,50m,adult,middle of the lane,50m,25km/h,normal car,none,none
+4070,sunny,day,wet,50m,adult,right of the lane,50m,25km/h,normal car,none,none
+4073,sunny,day,wet,50m,adult,middle of the lane,50m,25km/h,normal car,none,normal car
+4075,sunny,day,wet,50m,children,middle of the lane,50m,25km/h,normal car,none,normal car
+4098,sunny,day,wet,50m,adult,right of the lane,50m,25km/h,truck,none,normal car
+4102,sunny,day,wet,50m,adult,right of the lane,50m,25km/h,truck,none,emergency vehicle
+4107,sunny,day,wet,50m,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),none
+4116,sunny,day,wet,50m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+4141,sunny,day,wet,50m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+4149,sunny,day,wet,50m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+4150,sunny,day,wet,50m,adult,right of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+4167,sunny,day,wet,50m,children,middle of the lane,100m,25km/h,truck,hurry (commute or flight),none
+4169,sunny,day,wet,50m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+4190,sunny,day,wet,50m,adult,right of the lane,100m,25km/h,emergency vehicle,none,none
+4192,sunny,day,wet,50m,children,right of the lane,100m,25km/h,emergency vehicle,none,none
+4194,sunny,day,wet,50m,adult,right of the lane,100m,25km/h,emergency vehicle,none,normal car
+4195,sunny,day,wet,50m,children,middle of the lane,100m,25km/h,emergency vehicle,none,normal car
+4198,sunny,day,wet,50m,adult,right of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+4203,sunny,day,wet,50m,children,middle of the lane,100m,25km/h,truck,none,none
+4220,sunny,day,wet,50m,children,right of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+4270,sunny,day,wet,50m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+4280,sunny,day,wet,50m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+4292,sunny,day,wet,50m,children,right of the lane,10m,50km/h,normal car,none,normal car
+4323,sunny,day,wet,50m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),none
+4339,sunny,day,wet,50m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+4376,sunny,day,wet,50m,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+4388,sunny,day,wet,50m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+4394,sunny,day,wet,50m,adult,right of the lane,50m,50km/h,normal car,none,none
+4402,sunny,day,wet,50m,adult,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+4411,sunny,day,wet,50m,children,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+4412,sunny,day,wet,50m,children,right of the lane,50m,50km/h,emergency vehicle,none,normal car
+4442,sunny,day,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+4446,sunny,day,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+4449,sunny,day,wet,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+4462,sunny,day,wet,50m,adult,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+4476,sunny,day,wet,50m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+4490,sunny,day,wet,50m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),none
+4497,sunny,day,wet,50m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+4520,sunny,day,wet,50m,children,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+4526,sunny,day,wet,50m,adult,right of the lane,100m,50km/h,truck,none,none
+4528,sunny,day,wet,50m,children,right of the lane,100m,50km/h,truck,none,none
+4547,sunny,day,wet,20m,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+4548,sunny,day,wet,20m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+4549,sunny,day,wet,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+4578,sunny,day,wet,20m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+4597,sunny,day,wet,20m,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),none
+4610,sunny,day,wet,20m,adult,right of the lane,10m,25km/h,normal car,none,none
+4673,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+4679,sunny,day,wet,20m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+4681,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+4689,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+4697,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+4721,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,normal car,none,normal car
+4725,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+4731,sunny,day,wet,20m,children,middle of the lane,50m,25km/h,emergency vehicle,none,none
+4739,sunny,day,wet,20m,children,middle of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+4743,sunny,day,wet,20m,children,middle of the lane,50m,25km/h,truck,none,none
+4745,sunny,day,wet,20m,adult,middle of the lane,50m,25km/h,truck,none,normal car
+4752,sunny,day,wet,20m,children,right of the lane,50m,25km/h,truck,none,emergency vehicle
+4771,sunny,day,wet,20m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+4772,sunny,day,wet,20m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+4773,sunny,day,wet,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+4784,sunny,day,wet,20m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+4825,sunny,day,wet,20m,adult,middle of the lane,100m,25km/h,normal car,none,none
+4833,sunny,day,wet,20m,adult,middle of the lane,100m,25km/h,normal car,none,emergency vehicle
+4848,sunny,day,wet,20m,children,right of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+4849,sunny,day,wet,20m,adult,middle of the lane,100m,25km/h,truck,none,none
+4875,sunny,day,wet,20m,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+4878,sunny,day,wet,20m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+4895,sunny,day,wet,20m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+4910,sunny,day,wet,20m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+4950,sunny,day,wet,20m,adult,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+4975,sunny,day,wet,20m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+4982,sunny,day,wet,20m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+4983,sunny,day,wet,20m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+4984,sunny,day,wet,20m,children,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+4986,sunny,day,wet,20m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+5020,sunny,day,wet,20m,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),none
+5027,sunny,day,wet,20m,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+5043,sunny,day,wet,20m,children,middle of the lane,50m,50km/h,normal car,none,none
+5049,sunny,day,wet,20m,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+5072,sunny,day,wet,20m,children,right of the lane,50m,50km/h,truck,none,normal car
+5091,sunny,day,wet,20m,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+5100,sunny,day,wet,20m,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+5117,sunny,day,wet,20m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+5129,sunny,day,wet,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+5145,sunny,day,wet,20m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+5166,sunny,day,wet,20m,adult,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+5169,sunny,day,wet,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+5171,sunny,day,wet,20m,children,middle of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+5183,sunny,day,wet,20m,children,middle of the lane,100m,50km/h,truck,none,emergency vehicle
+5196,sunny,night,dry,free,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+5199,sunny,night,dry,free,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+5216,sunny,night,dry,free,children,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+5228,sunny,night,dry,free,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+5231,sunny,night,dry,free,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+5245,sunny,night,dry,free,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),none
+5260,sunny,night,dry,free,children,right of the lane,10m,25km/h,normal car,none,none
+5294,sunny,night,dry,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+5306,sunny,night,dry,free,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+5333,sunny,night,dry,free,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+5358,sunny,night,dry,free,adult,right of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+5360,sunny,night,dry,free,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+5364,sunny,night,dry,free,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+5395,sunny,night,dry,free,children,middle of the lane,50m,25km/h,truck,none,normal car
+5413,sunny,night,dry,free,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+5439,sunny,night,dry,free,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+5450,sunny,night,dry,free,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+5467,sunny,night,dry,free,children,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+5503,sunny,night,dry,free,children,middle of the lane,100m,25km/h,truck,none,normal car
+5513,sunny,night,dry,free,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+5526,sunny,night,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+5528,sunny,night,dry,free,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+5555,sunny,night,dry,free,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+5573,sunny,night,dry,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+5577,sunny,night,dry,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+5599,sunny,night,dry,free,children,middle of the lane,10m,50km/h,emergency vehicle,none,normal car
+5602,sunny,night,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+5611,sunny,night,dry,free,children,middle of the lane,10m,50km/h,truck,none,normal car
+5622,sunny,night,dry,free,adult,right of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+5666,sunny,night,dry,free,adult,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),none
+5690,sunny,night,dry,free,adult,right of the lane,50m,50km/h,normal car,none,none
+5702,sunny,night,dry,free,adult,right of the lane,50m,50km/h,emergency vehicle,none,none
+5703,sunny,night,dry,free,children,middle of the lane,50m,50km/h,emergency vehicle,none,none
+5710,sunny,night,dry,free,adult,right of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+5717,sunny,night,dry,free,adult,middle of the lane,50m,50km/h,truck,none,normal car
+5728,sunny,night,dry,free,children,right of the lane,100m,50km/h,normal car,urgent (to hospital),none
+5733,sunny,night,dry,free,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+5744,sunny,night,dry,free,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+5765,sunny,night,dry,free,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+5815,sunny,night,dry,free,children,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+5850,sunny,night,dry,100m,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+5858,sunny,night,dry,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+5889,sunny,night,dry,100m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+5894,sunny,night,dry,100m,adult,right of the lane,10m,25km/h,truck,hurry (commute or flight),none
+5916,sunny,night,dry,100m,children,right of the lane,10m,25km/h,normal car,none,emergency vehicle
+5953,sunny,night,dry,100m,adult,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+5955,sunny,night,dry,100m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+5971,sunny,night,dry,100m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+5976,sunny,night,dry,100m,children,right of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+5981,sunny,night,dry,100m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+5991,sunny,night,dry,100m,children,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+5997,sunny,night,dry,100m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+5999,sunny,night,dry,100m,children,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+6003,sunny,night,dry,100m,children,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+6004,sunny,night,dry,100m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),none
+6024,sunny,night,dry,100m,children,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+6025,sunny,night,dry,100m,adult,middle of the lane,50m,25km/h,emergency vehicle,none,none
+6050,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),none
+6073,sunny,night,dry,100m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+6075,sunny,night,dry,100m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+6076,sunny,night,dry,100m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+6078,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+6098,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+6101,sunny,night,dry,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+6109,sunny,night,dry,100m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),none
+6120,sunny,night,dry,100m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+6133,sunny,night,dry,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,none
+6134,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,none,none
+6138,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,none,normal car
+6139,sunny,night,dry,100m,children,middle of the lane,100m,25km/h,emergency vehicle,none,normal car
+6150,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,truck,none,normal car
+6154,sunny,night,dry,100m,adult,right of the lane,100m,25km/h,truck,none,emergency vehicle
+6174,sunny,night,dry,100m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+6179,sunny,night,dry,100m,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+6199,sunny,night,dry,100m,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+6210,sunny,night,dry,100m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+6225,sunny,night,dry,100m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+6235,sunny,night,dry,100m,children,middle of the lane,10m,50km/h,normal car,none,normal car
+6238,sunny,night,dry,100m,adult,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+6240,sunny,night,dry,100m,children,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+6243,sunny,night,dry,100m,children,middle of the lane,10m,50km/h,emergency vehicle,none,none
+6244,sunny,night,dry,100m,children,right of the lane,10m,50km/h,emergency vehicle,none,none
+6254,sunny,night,dry,100m,adult,right of the lane,10m,50km/h,truck,none,none
+6260,sunny,night,dry,100m,children,right of the lane,10m,50km/h,truck,none,normal car
+6271,sunny,night,dry,100m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+6286,sunny,night,dry,100m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+6290,sunny,night,dry,100m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),none
+6293,sunny,night,dry,100m,adult,middle of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+6321,sunny,night,dry,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+6326,sunny,night,dry,100m,adult,right of the lane,50m,50km/h,truck,hurry (commute or flight),none
+6333,sunny,night,dry,100m,adult,middle of the lane,50m,50km/h,truck,hurry (commute or flight),emergency vehicle
+6347,sunny,night,dry,100m,children,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+6353,sunny,night,dry,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+6358,sunny,night,dry,100m,adult,right of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+6367,sunny,night,dry,100m,children,middle of the lane,50m,50km/h,truck,none,normal car
+6385,sunny,night,dry,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+6416,sunny,night,dry,100m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+6423,sunny,night,dry,100m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+6426,sunny,night,dry,100m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+6439,sunny,night,dry,100m,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+6484,sunny,night,dry,50m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+6492,sunny,night,dry,50m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+6493,sunny,night,dry,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+6495,sunny,night,dry,50m,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+6507,sunny,night,dry,50m,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+6527,sunny,night,dry,50m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+6530,sunny,night,dry,50m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+6533,sunny,night,dry,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+6536,sunny,night,dry,50m,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+6557,sunny,night,dry,50m,adult,middle of the lane,10m,25km/h,normal car,none,normal car
+6614,sunny,night,dry,50m,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),none
+6632,sunny,night,dry,50m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+6651,sunny,night,dry,50m,children,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+6661,sunny,night,dry,50m,adult,middle of the lane,50m,25km/h,normal car,none,none
+6665,sunny,night,dry,50m,adult,middle of the lane,50m,25km/h,normal car,none,normal car
+6673,sunny,night,dry,50m,adult,middle of the lane,50m,25km/h,emergency vehicle,none,none
+6688,sunny,night,dry,50m,children,right of the lane,50m,25km/h,truck,none,none
+6693,sunny,night,dry,50m,adult,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+6716,sunny,night,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+6724,sunny,night,dry,50m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+6741,sunny,night,dry,50m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+6754,sunny,night,dry,50m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+6809,sunny,night,dry,50m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+6818,sunny,night,dry,50m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+6843,sunny,night,dry,50m,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+6845,sunny,night,dry,50m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+6847,sunny,night,dry,50m,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+6880,sunny,night,dry,50m,children,right of the lane,10m,50km/h,normal car,none,none
+6888,sunny,night,dry,50m,children,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+6904,sunny,night,dry,50m,children,right of the lane,10m,50km/h,truck,none,none
+6915,sunny,night,dry,50m,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),none
+6921,sunny,night,dry,50m,adult,middle of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+6952,sunny,night,dry,50m,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+7027,sunny,night,dry,50m,children,middle of the lane,100m,50km/h,normal car,urgent (to hospital),normal car
+7039,sunny,night,dry,50m,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+7041,sunny,night,dry,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+7069,sunny,night,dry,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+7086,sunny,night,dry,50m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+7158,sunny,night,dry,20m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+7164,sunny,night,dry,20m,children,right of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+7168,sunny,night,dry,20m,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+7176,sunny,night,dry,20m,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+7182,sunny,night,dry,20m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+7192,sunny,night,dry,20m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),none
+7199,sunny,night,dry,20m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+7201,sunny,night,dry,20m,adult,middle of the lane,10m,25km/h,normal car,none,none
+7202,sunny,night,dry,20m,adult,right of the lane,10m,25km/h,normal car,none,none
+7204,sunny,night,dry,20m,children,right of the lane,10m,25km/h,normal car,none,none
+7251,sunny,night,dry,20m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+7294,sunny,night,dry,20m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7301,sunny,night,dry,20m,adult,middle of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+7306,sunny,night,dry,20m,adult,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+7307,sunny,night,dry,20m,children,middle of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+7308,sunny,night,dry,20m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+7318,sunny,night,dry,20m,adult,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+7334,sunny,night,dry,20m,adult,right of the lane,50m,25km/h,truck,none,none
+7336,sunny,night,dry,20m,children,right of the lane,50m,25km/h,truck,none,none
+7337,sunny,night,dry,20m,adult,middle of the lane,50m,25km/h,truck,none,normal car
+7338,sunny,night,dry,20m,adult,right of the lane,50m,25km/h,truck,none,normal car
+7364,sunny,night,dry,20m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+7366,sunny,night,dry,20m,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+7370,sunny,night,dry,20m,adult,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+7376,sunny,night,dry,20m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+7410,sunny,night,dry,20m,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+7412,sunny,night,dry,20m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+7429,sunny,night,dry,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,none
+7432,sunny,night,dry,20m,children,right of the lane,100m,25km/h,emergency vehicle,none,none
+7439,sunny,night,dry,20m,children,middle of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+7463,sunny,night,dry,20m,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+7469,sunny,night,dry,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+7477,sunny,night,dry,20m,adult,middle of the lane,10m,50km/h,truck,urgent (to hospital),none
+7511,sunny,night,dry,20m,children,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7512,sunny,night,dry,20m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7514,sunny,night,dry,20m,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+7516,sunny,night,dry,20m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+7525,sunny,night,dry,20m,adult,middle of the lane,10m,50km/h,normal car,none,none
+7531,sunny,night,dry,20m,children,middle of the lane,10m,50km/h,normal car,none,normal car
+7537,sunny,night,dry,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,none
+7538,sunny,night,dry,20m,adult,right of the lane,10m,50km/h,emergency vehicle,none,none
+7590,sunny,night,dry,20m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+7627,sunny,night,dry,20m,children,middle of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+7628,sunny,night,dry,20m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+7649,sunny,night,dry,20m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+7668,sunny,night,dry,20m,children,right of the lane,50m,50km/h,truck,none,emergency vehicle
+7669,sunny,night,dry,20m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),none
+7672,sunny,night,dry,20m,children,right of the lane,100m,50km/h,normal car,urgent (to hospital),none
+7683,sunny,night,dry,20m,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+7684,sunny,night,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+7699,sunny,night,dry,20m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),normal car
+7713,sunny,night,dry,20m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+7718,sunny,night,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+7724,sunny,night,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+7726,sunny,night,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7727,sunny,night,dry,20m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7732,sunny,night,dry,20m,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),none
+7733,sunny,night,dry,20m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+7745,sunny,night,dry,20m,adult,middle of the lane,100m,50km/h,normal car,none,normal car
+7746,sunny,night,dry,20m,adult,right of the lane,100m,50km/h,normal car,none,normal car
+7753,sunny,night,dry,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,none,none
+7758,sunny,night,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+7772,sunny,night,dry,20m,children,right of the lane,100m,50km/h,truck,none,normal car
+7783,sunny,night,wet,free,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),normal car
+7785,sunny,night,wet,free,adult,middle of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+7790,sunny,night,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+7794,sunny,night,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+7801,sunny,night,wet,free,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+7809,sunny,night,wet,free,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+7822,sunny,night,wet,free,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+7835,sunny,night,wet,free,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+7884,sunny,night,wet,free,children,right of the lane,10m,25km/h,truck,none,emergency vehicle
+7886,sunny,night,wet,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+7890,sunny,night,wet,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+7900,sunny,night,wet,free,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+7914,sunny,night,wet,free,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+7937,sunny,night,wet,free,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+7956,sunny,night,wet,free,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+7959,sunny,night,wet,free,children,middle of the lane,50m,25km/h,normal car,none,none
+7976,sunny,night,wet,free,children,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+8031,sunny,night,wet,free,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+8038,sunny,night,wet,free,adult,right of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+8046,sunny,night,wet,free,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+8064,sunny,night,wet,free,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+8110,sunny,night,wet,free,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+8122,sunny,night,wet,free,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+8138,sunny,night,wet,free,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+8144,sunny,night,wet,free,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+8150,sunny,night,wet,free,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+8159,sunny,night,wet,free,children,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+8162,sunny,night,wet,free,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+8165,sunny,night,wet,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+8166,sunny,night,wet,free,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+8171,sunny,night,wet,free,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+8172,sunny,night,wet,free,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+8192,sunny,night,wet,free,children,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+8215,sunny,night,wet,free,children,middle of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+8226,sunny,night,wet,free,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+8230,sunny,night,wet,free,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+8249,sunny,night,wet,free,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+8256,sunny,night,wet,free,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+8289,sunny,night,wet,free,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+8310,sunny,night,wet,free,adult,right of the lane,50m,50km/h,truck,none,normal car
+8342,sunny,night,wet,free,adult,right of the lane,100m,50km/h,truck,urgent (to hospital),none
+8356,sunny,night,wet,free,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+8366,sunny,night,wet,free,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+8374,sunny,night,wet,free,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+8381,sunny,night,wet,free,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+8391,sunny,night,wet,free,children,middle of the lane,100m,50km/h,normal car,none,none
+8422,sunny,night,wet,free,adult,right of the lane,100m,50km/h,truck,none,emergency vehicle
+8424,sunny,night,wet,free,children,right of the lane,100m,50km/h,truck,none,emergency vehicle
+8454,sunny,night,wet,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+8471,sunny,night,wet,100m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+8488,sunny,night,wet,100m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),none
+8493,sunny,night,wet,100m,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+8538,sunny,night,wet,100m,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+8539,sunny,night,wet,100m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+8569,sunny,night,wet,100m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+8587,sunny,night,wet,100m,children,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+8611,sunny,night,wet,100m,children,middle of the lane,50m,25km/h,normal car,none,normal car
+8615,sunny,night,wet,100m,children,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+8616,sunny,night,wet,100m,children,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+8640,sunny,night,wet,100m,children,right of the lane,50m,25km/h,truck,none,emergency vehicle
+8655,sunny,night,wet,100m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+8671,sunny,night,wet,100m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+8689,sunny,night,wet,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+8699,sunny,night,wet,100m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+8726,sunny,night,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,none,none
+8740,sunny,night,wet,100m,children,right of the lane,100m,25km/h,truck,none,none
+8764,sunny,night,wet,100m,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+8802,sunny,night,wet,100m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+8815,sunny,night,wet,100m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+8817,sunny,night,wet,100m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+8820,sunny,night,wet,100m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+8825,sunny,night,wet,100m,adult,middle of the lane,10m,50km/h,normal car,none,normal car
+8830,sunny,night,wet,100m,adult,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+8879,sunny,night,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+8883,sunny,night,wet,100m,children,middle of the lane,50m,50km/h,truck,urgent (to hospital),none
+8884,sunny,night,wet,100m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),none
+8888,sunny,night,wet,100m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+8915,sunny,night,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+8938,sunny,night,wet,100m,adult,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+8942,sunny,night,wet,100m,adult,right of the lane,50m,50km/h,emergency vehicle,none,none
+8958,sunny,night,wet,100m,adult,right of the lane,50m,50km/h,truck,none,normal car
+8974,sunny,night,wet,100m,adult,right of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+8982,sunny,night,wet,100m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+9015,sunny,night,wet,100m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+9016,sunny,night,wet,100m,children,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+9021,sunny,night,wet,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9048,sunny,night,wet,100m,children,right of the lane,100m,50km/h,normal car,none,emergency vehicle
+9051,sunny,night,wet,100m,children,middle of the lane,100m,50km/h,emergency vehicle,none,none
+9093,sunny,night,wet,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+9099,sunny,night,wet,50m,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+9110,sunny,night,wet,50m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+9115,sunny,night,wet,50m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+9130,sunny,night,wet,50m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9144,sunny,night,wet,50m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+9151,sunny,night,wet,50m,children,middle of the lane,10m,25km/h,normal car,none,normal car
+9162,sunny,night,wet,50m,adult,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+9164,sunny,night,wet,50m,children,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+9186,sunny,night,wet,50m,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+9195,sunny,night,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+9199,sunny,night,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+9238,sunny,night,wet,50m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9252,sunny,night,wet,50m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),emergency vehicle
+9264,sunny,night,wet,50m,children,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+9274,sunny,night,wet,50m,adult,right of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+9279,sunny,night,wet,50m,children,middle of the lane,50m,25km/h,truck,none,none
+9296,sunny,night,wet,50m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+9301,sunny,night,wet,50m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+9316,sunny,night,wet,50m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+9327,sunny,night,wet,50m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+9332,sunny,night,wet,50m,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+9333,sunny,night,wet,50m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+9368,sunny,night,wet,50m,children,right of the lane,100m,25km/h,normal car,none,normal car
+9388,sunny,night,wet,50m,children,right of the lane,100m,25km/h,truck,none,none
+9393,sunny,night,wet,50m,adult,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+9403,sunny,night,wet,50m,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+9407,sunny,night,wet,50m,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+9420,sunny,night,wet,50m,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+9427,sunny,night,wet,50m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+9441,sunny,night,wet,50m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+9444,sunny,night,wet,50m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+9452,sunny,night,wet,50m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+9470,sunny,night,wet,50m,adult,right of the lane,10m,50km/h,normal car,none,none
+9499,sunny,night,wet,50m,children,middle of the lane,10m,50km/h,truck,none,normal car
+9503,sunny,night,wet,50m,children,middle of the lane,10m,50km/h,truck,none,emergency vehicle
+9543,sunny,night,wet,50m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+9561,sunny,night,wet,50m,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9562,sunny,night,wet,50m,adult,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9564,sunny,night,wet,50m,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9568,sunny,night,wet,50m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),none
+9593,sunny,night,wet,50m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+9611,sunny,night,wet,50m,children,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+9631,sunny,night,wet,50m,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+9647,sunny,night,wet,50m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+9676,sunny,night,wet,50m,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),none
+9682,sunny,night,wet,50m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+9683,sunny,night,wet,50m,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+9686,sunny,night,wet,50m,adult,right of the lane,100m,50km/h,normal car,none,none
+9702,sunny,night,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+9709,sunny,night,wet,50m,adult,middle of the lane,100m,50km/h,truck,none,none
+9752,sunny,night,wet,20m,children,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+9761,sunny,night,wet,20m,adult,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+9774,sunny,night,wet,20m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+9779,sunny,night,wet,20m,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+9786,sunny,night,wet,20m,adult,right of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+9812,sunny,night,wet,20m,children,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+9846,sunny,night,wet,20m,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+9865,sunny,night,wet,20m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+9889,sunny,night,wet,20m,adult,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+9936,sunny,night,wet,20m,children,right of the lane,50m,25km/h,truck,none,emergency vehicle
+9977,sunny,night,wet,20m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+9984,sunny,night,wet,20m,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+10008,sunny,night,wet,20m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+10014,sunny,night,wet,20m,adult,right of the lane,100m,25km/h,normal car,none,normal car
+10034,sunny,night,wet,20m,adult,right of the lane,100m,25km/h,truck,none,none
+10039,sunny,night,wet,20m,children,middle of the lane,100m,25km/h,truck,none,normal car
+10040,sunny,night,wet,20m,children,right of the lane,100m,25km/h,truck,none,normal car
+10050,sunny,night,wet,20m,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+10084,sunny,night,wet,20m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+10090,sunny,night,wet,20m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+10105,sunny,night,wet,20m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),none
+10106,sunny,night,wet,20m,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+10126,sunny,night,wet,20m,adult,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+10129,sunny,night,wet,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,none
+10150,sunny,night,wet,20m,adult,right of the lane,10m,50km/h,truck,none,emergency vehicle
+10169,sunny,night,wet,20m,adult,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+10176,sunny,night,wet,20m,children,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10194,sunny,night,wet,20m,adult,right of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+10229,sunny,night,wet,20m,adult,middle of the lane,50m,50km/h,normal car,none,normal car
+10257,sunny,night,wet,20m,adult,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+10269,sunny,night,wet,20m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+10295,sunny,night,wet,20m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+10300,sunny,night,wet,20m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+10301,sunny,night,wet,20m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+10328,sunny,night,wet,20m,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+10334,sunny,night,wet,20m,adult,right of the lane,100m,50km/h,normal car,none,none
+10350,sunny,night,wet,20m,adult,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+10354,sunny,night,wet,20m,adult,right of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+10376,rainy,day,dry,free,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),normal car
+10382,rainy,day,dry,free,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+10390,rainy,day,dry,free,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10394,rainy,day,dry,free,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+10420,rainy,day,dry,free,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+10490,rainy,day,dry,free,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+10496,rainy,day,dry,free,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+10498,rainy,day,dry,free,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10499,rainy,day,dry,free,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10501,rainy,day,dry,free,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),none
+10508,rainy,day,dry,free,children,right of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+10509,rainy,day,dry,free,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+10511,rainy,day,dry,free,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+10514,rainy,day,dry,free,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+10526,rainy,day,dry,free,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+10530,rainy,day,dry,free,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+10575,rainy,day,dry,free,children,middle of the lane,50m,25km/h,truck,none,none
+10605,rainy,day,dry,free,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10612,rainy,day,dry,free,children,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+10632,rainy,day,dry,free,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+10645,rainy,day,dry,free,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),none
+10654,rainy,day,dry,free,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+10657,rainy,day,dry,free,adult,middle of the lane,100m,25km/h,normal car,none,none
+10677,rainy,day,dry,free,adult,middle of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+10690,rainy,day,dry,free,adult,right of the lane,100m,25km/h,truck,none,emergency vehicle
+10691,rainy,day,dry,free,children,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+10698,rainy,day,dry,free,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+10710,rainy,day,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+10715,rainy,day,dry,free,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+10731,rainy,day,dry,free,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+10734,rainy,day,dry,free,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+10748,rainy,day,dry,free,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+10761,rainy,day,dry,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+10782,rainy,day,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+10783,rainy,day,dry,free,children,middle of the lane,10m,50km/h,emergency vehicle,none,normal car
+10812,rainy,day,dry,free,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+10841,rainy,day,dry,free,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+10857,rainy,day,dry,free,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+10902,rainy,day,dry,free,adult,right of the lane,50m,50km/h,truck,none,normal car
+10904,rainy,day,dry,free,children,right of the lane,50m,50km/h,truck,none,normal car
+10905,rainy,day,dry,free,adult,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+10953,rainy,day,dry,free,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+10954,rainy,day,dry,free,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+10958,rainy,day,dry,free,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+10991,rainy,day,dry,free,children,middle of the lane,100m,50km/h,normal car,none,emergency vehicle
+11007,rainy,day,dry,free,children,middle of the lane,100m,50km/h,truck,none,none
+11010,rainy,day,dry,free,adult,right of the lane,100m,50km/h,truck,none,normal car
+11011,rainy,day,dry,free,children,middle of the lane,100m,50km/h,truck,none,normal car
+11033,rainy,day,dry,100m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+11039,rainy,day,dry,100m,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+11042,rainy,day,dry,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+11049,rainy,day,dry,100m,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+11061,rainy,day,dry,100m,adult,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+11082,rainy,day,dry,100m,adult,right of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+11097,rainy,day,dry,100m,adult,middle of the lane,10m,25km/h,normal car,none,emergency vehicle
+11099,rainy,day,dry,100m,children,middle of the lane,10m,25km/h,normal car,none,emergency vehicle
+11115,rainy,day,dry,100m,children,middle of the lane,10m,25km/h,truck,none,none
+11136,rainy,day,dry,100m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+11147,rainy,day,dry,100m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+11159,rainy,day,dry,100m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+11160,rainy,day,dry,100m,children,right of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+11168,rainy,day,dry,100m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+11207,rainy,day,dry,100m,children,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+11236,rainy,day,dry,100m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),none
+11244,rainy,day,dry,100m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+11245,rainy,day,dry,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+11254,rainy,day,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+11265,rainy,day,dry,100m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),emergency vehicle
+11290,rainy,day,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+11293,rainy,day,dry,100m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),none
+11341,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),none
+11366,rainy,day,dry,100m,adult,right of the lane,10m,50km/h,truck,urgent (to hospital),none
+11377,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+11387,rainy,day,dry,100m,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+11389,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+11397,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+11400,rainy,day,dry,100m,children,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+11401,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),none
+11409,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+11413,rainy,day,dry,100m,adult,middle of the lane,10m,50km/h,normal car,none,none
+11496,rainy,day,dry,100m,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+11500,rainy,day,dry,100m,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),none
+11501,rainy,day,dry,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+11505,rainy,day,dry,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+11510,rainy,day,dry,100m,adult,right of the lane,50m,50km/h,truck,hurry (commute or flight),none
+11522,rainy,day,dry,100m,adult,right of the lane,50m,50km/h,normal car,none,none
+11541,rainy,day,dry,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+11563,rainy,day,dry,100m,children,middle of the lane,100m,50km/h,normal car,urgent (to hospital),normal car
+11606,rainy,day,dry,100m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+11611,rainy,day,dry,100m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+11615,rainy,day,dry,100m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+11630,rainy,day,dry,100m,adult,right of the lane,100m,50km/h,normal car,none,none
+11637,rainy,day,dry,100m,adult,middle of the lane,100m,50km/h,normal car,none,emergency vehicle
+11657,rainy,day,dry,100m,adult,middle of the lane,100m,50km/h,truck,none,normal car
+11660,rainy,day,dry,100m,children,right of the lane,100m,50km/h,truck,none,normal car
+11664,rainy,day,dry,100m,children,right of the lane,100m,50km/h,truck,none,emergency vehicle
+11667,rainy,day,dry,50m,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),none
+11675,rainy,day,dry,50m,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+11680,rainy,day,dry,50m,children,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+11682,rainy,day,dry,50m,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+11698,rainy,day,dry,50m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+11702,rainy,day,dry,50m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+11711,rainy,day,dry,50m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+11728,rainy,day,dry,50m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),none
+11733,rainy,day,dry,50m,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+11759,rainy,day,dry,50m,children,middle of the lane,10m,25km/h,emergency vehicle,none,emergency vehicle
+11767,rainy,day,dry,50m,children,middle of the lane,10m,25km/h,truck,none,normal car
+11787,rainy,day,dry,50m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+11803,rainy,day,dry,50m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+11805,rainy,day,dry,50m,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+11833,rainy,day,dry,50m,adult,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+11847,rainy,day,dry,50m,children,middle of the lane,50m,25km/h,normal car,none,none
+11851,rainy,day,dry,50m,children,middle of the lane,50m,25km/h,normal car,none,normal car
+11853,rainy,day,dry,50m,adult,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+11878,rainy,day,dry,50m,adult,right of the lane,50m,25km/h,truck,none,emergency vehicle
+11922,rainy,day,dry,50m,adult,right of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+11936,rainy,day,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+11968,rainy,day,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,none,none
+11974,rainy,day,dry,50m,adult,right of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+11998,rainy,day,dry,50m,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+12011,rainy,day,dry,50m,children,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+12026,rainy,day,dry,50m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+12033,rainy,day,dry,50m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+12036,rainy,day,dry,50m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+12039,rainy,day,dry,50m,children,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+12059,rainy,day,dry,50m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+12074,rainy,day,dry,50m,adult,right of the lane,10m,50km/h,emergency vehicle,none,none
+12108,rainy,day,dry,50m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+12115,rainy,day,dry,50m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+12126,rainy,day,dry,50m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+12165,rainy,day,dry,50m,adult,middle of the lane,50m,50km/h,truck,hurry (commute or flight),emergency vehicle
+12171,rainy,day,dry,50m,children,middle of the lane,50m,50km/h,normal car,none,none
+12177,rainy,day,dry,50m,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+12201,rainy,day,dry,50m,adult,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+12215,rainy,day,dry,50m,children,middle of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+12218,rainy,day,dry,50m,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+12236,rainy,day,dry,50m,children,right of the lane,100m,50km/h,truck,urgent (to hospital),normal car
+12269,rainy,day,dry,50m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+12284,rainy,day,dry,50m,children,right of the lane,100m,50km/h,normal car,none,normal car
+12291,rainy,day,dry,50m,children,middle of the lane,100m,50km/h,emergency vehicle,none,none
+12292,rainy,day,dry,50m,children,right of the lane,100m,50km/h,emergency vehicle,none,none
+12310,rainy,day,dry,50m,adult,right of the lane,100m,50km/h,truck,none,emergency vehicle
+12316,rainy,day,dry,20m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+12327,rainy,day,dry,20m,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+12341,rainy,day,dry,20m,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+12344,rainy,day,dry,20m,children,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+12345,rainy,day,dry,20m,adult,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+12358,rainy,day,dry,20m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+12372,rainy,day,dry,20m,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+12390,rainy,day,dry,20m,adult,right of the lane,10m,25km/h,normal car,none,normal car
+12397,rainy,day,dry,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,none,none
+12399,rainy,day,dry,20m,children,middle of the lane,10m,25km/h,emergency vehicle,none,none
+12420,rainy,day,dry,20m,children,right of the lane,10m,25km/h,truck,none,emergency vehicle
+12440,rainy,day,dry,20m,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+12441,rainy,day,dry,20m,adult,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+12458,rainy,day,dry,20m,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+12483,rainy,day,dry,20m,children,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+12500,rainy,day,dry,20m,children,right of the lane,50m,25km/h,normal car,none,normal car
+12506,rainy,day,dry,20m,adult,right of the lane,50m,25km/h,emergency vehicle,none,none
+12521,rainy,day,dry,20m,adult,middle of the lane,50m,25km/h,truck,none,normal car
+12527,rainy,day,dry,20m,children,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+12555,rainy,day,dry,20m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+12559,rainy,day,dry,20m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+12578,rainy,day,dry,20m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+12594,rainy,day,dry,20m,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+12595,rainy,day,dry,20m,children,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+12627,rainy,day,dry,20m,children,middle of the lane,100m,25km/h,truck,none,none
+12631,rainy,day,dry,20m,children,middle of the lane,100m,25km/h,truck,none,normal car
+12632,rainy,day,dry,20m,children,right of the lane,100m,25km/h,truck,none,normal car
+12637,rainy,day,dry,20m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),none
+12670,rainy,day,dry,20m,adult,right of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+12702,rainy,day,dry,20m,adult,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+12724,rainy,day,dry,20m,children,right of the lane,10m,50km/h,emergency vehicle,none,none
+12727,rainy,day,dry,20m,children,middle of the lane,10m,50km/h,emergency vehicle,none,normal car
+12746,rainy,day,dry,20m,adult,right of the lane,50m,50km/h,normal car,urgent (to hospital),none
+12754,rainy,day,dry,20m,adult,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+12763,rainy,day,dry,20m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+12839,rainy,day,dry,20m,children,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+12845,rainy,day,dry,20m,adult,middle of the lane,50m,50km/h,truck,none,normal car
+12893,rainy,day,dry,20m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+12898,rainy,day,dry,20m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+12899,rainy,day,dry,20m,children,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+12909,rainy,day,dry,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+12923,rainy,day,dry,20m,children,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+12934,rainy,day,dry,20m,adult,right of the lane,100m,50km/h,normal car,none,emergency vehicle
+12935,rainy,day,dry,20m,children,middle of the lane,100m,50km/h,normal car,none,emergency vehicle
+12940,rainy,day,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,none,none
+12945,rainy,day,dry,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+12959,rainy,day,dry,20m,children,middle of the lane,100m,50km/h,truck,none,emergency vehicle
+12962,rainy,day,wet,free,adult,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+12971,rainy,day,wet,free,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+12975,rainy,day,wet,free,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+13036,rainy,day,wet,free,children,right of the lane,10m,25km/h,normal car,none,none
+13038,rainy,day,wet,free,adult,right of the lane,10m,25km/h,normal car,none,normal car
+13043,rainy,day,wet,free,children,middle of the lane,10m,25km/h,normal car,none,emergency vehicle
+13050,rainy,day,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+13054,rainy,day,wet,free,adult,right of the lane,10m,25km/h,emergency vehicle,none,emergency vehicle
+13070,rainy,day,wet,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+13072,rainy,day,wet,free,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+13078,rainy,day,wet,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+13087,rainy,day,wet,free,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+13099,rainy,day,wet,free,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+13101,rainy,day,wet,free,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+13120,rainy,day,wet,free,children,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+13125,rainy,day,wet,free,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+13142,rainy,day,wet,free,adult,right of the lane,50m,25km/h,normal car,none,none
+13165,rainy,day,wet,free,adult,middle of the lane,50m,25km/h,truck,none,none
+13189,rainy,day,wet,free,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+13197,rainy,day,wet,free,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+13213,rainy,day,wet,free,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+13216,rainy,day,wet,free,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),none
+13220,rainy,day,wet,free,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+13279,rainy,day,wet,free,children,middle of the lane,100m,25km/h,truck,none,normal car
+13290,rainy,day,wet,free,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),normal car
+13294,rainy,day,wet,free,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+13295,rainy,day,wet,free,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+13296,rainy,day,wet,free,children,right of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+13315,rainy,day,wet,free,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+13321,rainy,day,wet,free,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+13333,rainy,day,wet,free,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+13337,rainy,day,wet,free,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+13353,rainy,day,wet,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+13359,rainy,day,wet,free,children,middle of the lane,10m,50km/h,normal car,none,none
+13366,rainy,day,wet,free,adult,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+13368,rainy,day,wet,free,children,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+13374,rainy,day,wet,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+13397,rainy,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+13422,rainy,day,wet,free,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+13432,rainy,day,wet,free,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+13433,rainy,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+13437,rainy,day,wet,free,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+13445,rainy,day,wet,free,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+13488,rainy,day,wet,free,children,right of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+13515,rainy,day,wet,free,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+13549,rainy,day,wet,free,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+13564,rainy,day,wet,free,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),none
+13574,rainy,day,wet,free,adult,right of the lane,100m,50km/h,normal car,none,none
+13602,rainy,day,wet,free,adult,right of the lane,100m,50km/h,truck,none,normal car
+13603,rainy,day,wet,free,children,middle of the lane,100m,50km/h,truck,none,normal car
+13631,rainy,day,wet,100m,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+13658,rainy,day,wet,100m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+13663,rainy,day,wet,100m,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+13671,rainy,day,wet,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),none
+13675,rainy,day,wet,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+13691,rainy,day,wet,100m,children,middle of the lane,10m,25km/h,normal car,none,emergency vehicle
+13716,rainy,day,wet,100m,children,right of the lane,10m,25km/h,truck,none,emergency vehicle
+13731,rainy,day,wet,100m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+13742,rainy,day,wet,100m,adult,right of the lane,50m,25km/h,truck,urgent (to hospital),none
+13755,rainy,day,wet,100m,children,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+13756,rainy,day,wet,100m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+13789,rainy,day,wet,100m,adult,middle of the lane,50m,25km/h,normal car,none,none
+13821,rainy,day,wet,100m,adult,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+13826,rainy,day,wet,100m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),none
+13839,rainy,day,wet,100m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+13853,rainy,day,wet,100m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+13874,rainy,day,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+13889,rainy,day,wet,100m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+13890,rainy,day,wet,100m,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),normal car
+13933,rainy,day,wet,100m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),none
+13964,rainy,day,wet,100m,children,right of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+13967,rainy,day,wet,100m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+13979,rainy,day,wet,100m,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+14007,rainy,day,wet,100m,children,middle of the lane,10m,50km/h,normal car,none,none
+14009,rainy,day,wet,100m,adult,middle of the lane,10m,50km/h,normal car,none,normal car
+14016,rainy,day,wet,100m,children,right of the lane,10m,50km/h,normal car,none,emergency vehicle
+14035,rainy,day,wet,100m,children,middle of the lane,10m,50km/h,truck,none,normal car
+14048,rainy,day,wet,100m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+14055,rainy,day,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+14074,rainy,day,wet,100m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+14091,rainy,day,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),none
+14102,rainy,day,wet,100m,adult,right of the lane,50m,50km/h,truck,hurry (commute or flight),none
+14104,rainy,day,wet,100m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),none
+14105,rainy,day,wet,100m,adult,middle of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+14112,rainy,day,wet,100m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),emergency vehicle
+14113,rainy,day,wet,100m,adult,middle of the lane,50m,50km/h,normal car,none,none
+14122,rainy,day,wet,100m,adult,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+14134,rainy,day,wet,100m,adult,right of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+14150,rainy,day,wet,100m,adult,right of the lane,100m,50km/h,normal car,urgent (to hospital),none
+14153,rainy,day,wet,100m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),normal car
+14158,rainy,day,wet,100m,adult,right of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+14165,rainy,day,wet,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+14172,rainy,day,wet,100m,children,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+14175,rainy,day,wet,100m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),none
+14194,rainy,day,wet,100m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+14198,rainy,day,wet,100m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+14268,rainy,day,wet,50m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+14269,rainy,day,wet,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+14273,rainy,day,wet,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+14286,rainy,day,wet,50m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+14300,rainy,day,wet,50m,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+14304,rainy,day,wet,50m,children,right of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+14369,rainy,day,wet,50m,adult,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+14401,rainy,day,wet,50m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+14404,rainy,day,wet,50m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+14430,rainy,day,wet,50m,adult,right of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+14455,rainy,day,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,none,normal car
+14470,rainy,day,wet,50m,adult,right of the lane,50m,25km/h,truck,none,emergency vehicle
+14478,rainy,day,wet,50m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+14492,rainy,day,wet,50m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+14493,rainy,day,wet,50m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+14497,rainy,day,wet,50m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+14500,rainy,day,wet,50m,children,right of the lane,100m,25km/h,truck,urgent (to hospital),none
+14501,rainy,day,wet,50m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),normal car
+14519,rainy,day,wet,50m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+14561,rainy,day,wet,50m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,normal car
+14574,rainy,day,wet,50m,adult,right of the lane,100m,25km/h,truck,none,normal car
+14594,rainy,day,wet,50m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+14615,rainy,day,wet,50m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+14620,rainy,day,wet,50m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+14622,rainy,day,wet,50m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+14625,rainy,day,wet,50m,adult,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+14629,rainy,day,wet,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),none
+14635,rainy,day,wet,50m,children,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+14661,rainy,day,wet,50m,adult,middle of the lane,10m,50km/h,normal car,none,emergency vehicle
+14673,rainy,day,wet,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+14674,rainy,day,wet,50m,adult,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+14682,rainy,day,wet,50m,adult,right of the lane,10m,50km/h,truck,none,normal car
+14715,rainy,day,wet,50m,children,middle of the lane,50m,50km/h,truck,urgent (to hospital),none
+14718,rainy,day,wet,50m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+14721,rainy,day,wet,50m,adult,middle of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+14727,rainy,day,wet,50m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+14730,rainy,day,wet,50m,adult,right of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+14734,rainy,day,wet,50m,adult,right of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+14774,rainy,day,wet,50m,adult,right of the lane,50m,50km/h,emergency vehicle,none,none
+14790,rainy,day,wet,50m,adult,right of the lane,50m,50km/h,truck,none,normal car
+14834,rainy,day,wet,50m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+14836,rainy,day,wet,50m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+14841,rainy,day,wet,50m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+14845,rainy,day,wet,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+14851,rainy,day,wet,50m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+14861,rainy,day,wet,50m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+14877,rainy,day,wet,50m,adult,middle of the lane,100m,50km/h,normal car,none,emergency vehicle
+14880,rainy,day,wet,50m,children,right of the lane,100m,50km/h,normal car,none,emergency vehicle
+14882,rainy,day,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,none,none
+14888,rainy,day,wet,50m,children,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+14908,rainy,day,wet,20m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+14919,rainy,day,wet,20m,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+14922,rainy,day,wet,20m,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+14930,rainy,day,wet,20m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),none
+14945,rainy,day,wet,20m,adult,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+14953,rainy,day,wet,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+14954,rainy,day,wet,20m,adult,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+14979,rainy,day,wet,20m,children,middle of the lane,10m,25km/h,normal car,none,none
+15006,rainy,day,wet,20m,adult,right of the lane,10m,25km/h,truck,none,normal car
+15015,rainy,day,wet,20m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),none
+15017,rainy,day,wet,20m,adult,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+15019,rainy,day,wet,20m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+15044,rainy,day,wet,20m,children,right of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+15050,rainy,day,wet,20m,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+15068,rainy,day,wet,20m,children,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+15091,rainy,day,wet,20m,children,middle of the lane,50m,25km/h,normal car,none,normal car
+15105,rainy,day,wet,20m,adult,middle of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+15106,rainy,day,wet,20m,adult,right of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+15110,rainy,day,wet,20m,adult,right of the lane,50m,25km/h,truck,none,none
+15121,rainy,day,wet,20m,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),none
+15135,rainy,day,wet,20m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),none
+15143,rainy,day,wet,20m,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+15147,rainy,day,wet,20m,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+15177,rainy,day,wet,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+15202,rainy,day,wet,20m,adult,right of the lane,100m,25km/h,normal car,none,emergency vehicle
+15205,rainy,day,wet,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,none
+15245,rainy,day,wet,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+15259,rainy,day,wet,20m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+15281,rainy,day,wet,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+15286,rainy,day,wet,20m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+15300,rainy,day,wet,20m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+15364,rainy,day,wet,20m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),none
+15417,rainy,day,wet,20m,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+15420,rainy,day,wet,20m,children,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+15422,rainy,day,wet,20m,adult,right of the lane,50m,50km/h,emergency vehicle,none,none
+15427,rainy,day,wet,20m,children,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+15443,rainy,day,wet,20m,children,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+15465,rainy,day,wet,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+15480,rainy,day,wet,20m,children,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+15491,rainy,day,wet,20m,children,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+15532,rainy,day,wet,20m,children,right of the lane,100m,50km/h,emergency vehicle,none,none
+15533,rainy,day,wet,20m,adult,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+15547,rainy,day,wet,20m,children,middle of the lane,100m,50km/h,truck,none,normal car
+15571,rainy,night,dry,free,children,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),normal car
+15579,rainy,night,dry,free,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),none
+15594,rainy,night,dry,free,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+15603,rainy,night,dry,free,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+15608,rainy,night,dry,free,children,right of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+15632,rainy,night,dry,free,children,right of the lane,10m,25km/h,normal car,none,normal car
+15705,rainy,night,dry,free,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+15707,rainy,night,dry,free,children,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+15775,rainy,night,dry,free,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+15777,rainy,night,dry,free,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+15790,rainy,night,dry,free,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+15792,rainy,night,dry,free,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+15795,rainy,night,dry,free,children,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+15818,rainy,night,dry,free,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+15842,rainy,night,dry,free,adult,right of the lane,100m,25km/h,normal car,none,none
+15860,rainy,night,dry,free,children,right of the lane,100m,25km/h,emergency vehicle,none,normal car
+15872,rainy,night,dry,free,children,right of the lane,100m,25km/h,truck,none,normal car
+15873,rainy,night,dry,free,adult,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+15885,rainy,night,dry,free,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+15896,rainy,night,dry,free,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+15904,rainy,night,dry,free,children,right of the lane,10m,50km/h,truck,urgent (to hospital),none
+15919,rainy,night,dry,free,children,middle of the lane,10m,50km/h,normal car,hurry (commute or flight),normal car
+15930,rainy,night,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+15944,rainy,night,dry,free,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+15949,rainy,night,dry,free,adult,middle of the lane,10m,50km/h,normal car,none,none
+15956,rainy,night,dry,free,children,right of the lane,10m,50km/h,normal car,none,normal car
+15957,rainy,night,dry,free,adult,middle of the lane,10m,50km/h,normal car,none,emergency vehicle
+15962,rainy,night,dry,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,none
+15979,rainy,night,dry,free,children,middle of the lane,10m,50km/h,truck,none,normal car
+16039,rainy,night,dry,free,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+16047,rainy,night,dry,free,children,middle of the lane,50m,50km/h,truck,hurry (commute or flight),none
+16072,rainy,night,dry,free,children,right of the lane,50m,50km/h,emergency vehicle,none,none
+16089,rainy,night,dry,free,adult,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+16092,rainy,night,dry,free,children,right of the lane,50m,50km/h,truck,none,emergency vehicle
+16093,rainy,night,dry,free,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),none
+16106,rainy,night,dry,free,adult,right of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+16117,rainy,night,dry,free,adult,middle of the lane,100m,50km/h,truck,urgent (to hospital),none
+16123,rainy,night,dry,free,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),normal car
+16129,rainy,night,dry,free,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+16131,rainy,night,dry,free,children,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+16132,rainy,night,dry,free,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+16170,rainy,night,dry,free,adult,right of the lane,100m,50km/h,normal car,none,normal car
+16182,rainy,night,dry,free,adult,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+16189,rainy,night,dry,free,adult,middle of the lane,100m,50km/h,truck,none,none
+16196,rainy,night,dry,free,children,right of the lane,100m,50km/h,truck,none,normal car
+16243,rainy,night,dry,100m,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+16268,rainy,night,dry,100m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+16271,rainy,night,dry,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+16307,rainy,night,dry,100m,children,middle of the lane,10m,25km/h,truck,none,emergency vehicle
+16376,rainy,night,dry,100m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+16388,rainy,night,dry,100m,children,right of the lane,50m,25km/h,normal car,none,normal car
+16422,rainy,night,dry,100m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+16425,rainy,night,dry,100m,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+16466,rainy,night,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+16467,rainy,night,dry,100m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+16472,rainy,night,dry,100m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+16476,rainy,night,dry,100m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+16478,rainy,night,dry,100m,adult,right of the lane,100m,25km/h,truck,hurry (commute or flight),none
+16485,rainy,night,dry,100m,adult,middle of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+16505,rainy,night,dry,100m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,normal car
+16506,rainy,night,dry,100m,adult,right of the lane,100m,25km/h,emergency vehicle,none,normal car
+16508,rainy,night,dry,100m,children,right of the lane,100m,25km/h,emergency vehicle,none,normal car
+16519,rainy,night,dry,100m,children,middle of the lane,100m,25km/h,truck,none,normal car
+16521,rainy,night,dry,100m,adult,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+16533,rainy,night,dry,100m,adult,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+16537,rainy,night,dry,100m,adult,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+16562,rainy,night,dry,100m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),none
+16587,rainy,night,dry,100m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),none
+16592,rainy,night,dry,100m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+16602,rainy,night,dry,100m,adult,right of the lane,10m,50km/h,normal car,none,normal car
+16603,rainy,night,dry,100m,children,middle of the lane,10m,50km/h,normal car,none,normal car
+16642,rainy,night,dry,100m,adult,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+16644,rainy,night,dry,100m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),emergency vehicle
+16646,rainy,night,dry,100m,adult,right of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),none
+16661,rainy,night,dry,100m,adult,middle of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+16699,rainy,night,dry,100m,children,middle of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+16707,rainy,night,dry,100m,children,middle of the lane,50m,50km/h,normal car,none,none
+16715,rainy,night,dry,100m,children,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+16722,rainy,night,dry,100m,adult,right of the lane,50m,50km/h,emergency vehicle,none,normal car
+16736,rainy,night,dry,100m,children,right of the lane,50m,50km/h,truck,none,normal car
+16745,rainy,night,dry,100m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),normal car
+16771,rainy,night,dry,100m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),normal car
+16774,rainy,night,dry,100m,adult,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+16778,rainy,night,dry,100m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+16788,rainy,night,dry,100m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+16796,rainy,night,dry,100m,children,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+16800,rainy,night,dry,100m,children,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+16802,rainy,night,dry,100m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),none
+16831,rainy,night,dry,100m,children,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+16883,rainy,night,dry,50m,children,middle of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+16919,rainy,night,dry,50m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+16934,rainy,night,dry,50m,adult,right of the lane,10m,25km/h,emergency vehicle,none,none
+16936,rainy,night,dry,50m,children,right of the lane,10m,25km/h,emergency vehicle,none,none
+16974,rainy,night,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),normal car
+16994,rainy,night,dry,50m,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+17006,rainy,night,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+17017,rainy,night,dry,50m,adult,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+17033,rainy,night,dry,50m,adult,middle of the lane,50m,25km/h,normal car,none,normal car
+17039,rainy,night,dry,50m,children,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+17040,rainy,night,dry,50m,children,right of the lane,50m,25km/h,normal car,none,emergency vehicle
+17046,rainy,night,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+17050,rainy,night,dry,50m,adult,right of the lane,50m,25km/h,emergency vehicle,none,emergency vehicle
+17066,rainy,night,dry,50m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),none
+17107,rainy,night,dry,50m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+17108,rainy,night,dry,50m,children,right of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+17109,rainy,night,dry,50m,adult,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+17111,rainy,night,dry,50m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+17116,rainy,night,dry,50m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+17119,rainy,night,dry,50m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+17149,rainy,night,dry,50m,adult,middle of the lane,100m,25km/h,emergency vehicle,none,none
+17167,rainy,night,dry,50m,children,middle of the lane,100m,25km/h,truck,none,normal car
+17190,rainy,night,dry,50m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+17194,rainy,night,dry,50m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+17218,rainy,night,dry,50m,adult,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+17236,rainy,night,dry,50m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),none
+17240,rainy,night,dry,50m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+17243,rainy,night,dry,50m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+17249,rainy,night,dry,50m,adult,middle of the lane,10m,50km/h,normal car,none,normal car
+17257,rainy,night,dry,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,none
+17260,rainy,night,dry,50m,children,right of the lane,10m,50km/h,emergency vehicle,none,none
+17284,rainy,night,dry,50m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),none
+17306,rainy,night,dry,50m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),none
+17319,rainy,night,dry,50m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+17343,rainy,night,dry,50m,children,middle of the lane,50m,50km/h,truck,hurry (commute or flight),none
+17375,rainy,night,dry,50m,children,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+17409,rainy,night,dry,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+17429,rainy,night,dry,50m,adult,middle of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+17434,rainy,night,dry,50m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+17438,rainy,night,dry,50m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+17456,rainy,night,dry,50m,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+17501,rainy,night,dry,20m,adult,middle of the lane,10m,25km/h,normal car,urgent (to hospital),normal car
+17510,rainy,night,dry,20m,adult,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+17528,rainy,night,dry,20m,children,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+17545,rainy,night,dry,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+17555,rainy,night,dry,20m,children,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+17559,rainy,night,dry,20m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),none
+17567,rainy,night,dry,20m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+17568,rainy,night,dry,20m,children,right of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+17578,rainy,night,dry,20m,adult,right of the lane,10m,25km/h,normal car,none,emergency vehicle
+17581,rainy,night,dry,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,none,none
+17591,rainy,night,dry,20m,children,middle of the lane,10m,25km/h,emergency vehicle,none,emergency vehicle
+17607,rainy,night,dry,20m,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),none
+17608,rainy,night,dry,20m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),none
+17616,rainy,night,dry,20m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+17647,rainy,night,dry,20m,children,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+17663,rainy,night,dry,20m,children,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+17678,rainy,night,dry,20m,adult,right of the lane,50m,25km/h,normal car,none,none
+17695,rainy,night,dry,20m,children,middle of the lane,50m,25km/h,emergency vehicle,none,normal car
+17696,rainy,night,dry,20m,children,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+17702,rainy,night,dry,20m,adult,right of the lane,50m,25km/h,truck,none,none
+17708,rainy,night,dry,20m,children,right of the lane,50m,25km/h,truck,none,normal car
+17723,rainy,night,dry,20m,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+17729,rainy,night,dry,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+17734,rainy,night,dry,20m,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+17736,rainy,night,dry,20m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+17768,rainy,night,dry,20m,children,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+17787,rainy,night,dry,20m,children,middle of the lane,100m,25km/h,normal car,none,none
+17831,rainy,night,dry,20m,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+17838,rainy,night,dry,20m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+17874,rainy,night,dry,20m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+17888,rainy,night,dry,20m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+17892,rainy,night,dry,20m,children,right of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+17899,rainy,night,dry,20m,children,middle of the lane,10m,50km/h,normal car,none,normal car
+17914,rainy,night,dry,20m,adult,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+17915,rainy,night,dry,20m,children,middle of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+17929,rainy,night,dry,20m,adult,middle of the lane,50m,50km/h,normal car,urgent (to hospital),none
+17963,rainy,night,dry,20m,children,middle of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+17965,rainy,night,dry,20m,adult,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+17968,rainy,night,dry,20m,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+17971,rainy,night,dry,20m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+17987,rainy,night,dry,20m,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+18010,rainy,night,dry,20m,adult,right of the lane,50m,50km/h,normal car,none,emergency vehicle
+18036,rainy,night,dry,20m,children,right of the lane,50m,50km/h,truck,none,emergency vehicle
+18047,rainy,night,dry,20m,children,middle of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+18062,rainy,night,dry,20m,adult,right of the lane,100m,50km/h,truck,urgent (to hospital),none
+18063,rainy,night,dry,20m,children,middle of the lane,100m,50km/h,truck,urgent (to hospital),none
+18064,rainy,night,dry,20m,children,right of the lane,100m,50km/h,truck,urgent (to hospital),none
+18090,rainy,night,dry,20m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+18096,rainy,night,dry,20m,children,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+18102,rainy,night,dry,20m,adult,right of the lane,100m,50km/h,truck,hurry (commute or flight),normal car
+18108,rainy,night,dry,20m,children,right of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+18111,rainy,night,dry,20m,children,middle of the lane,100m,50km/h,normal car,none,none
+18115,rainy,night,dry,20m,children,middle of the lane,100m,50km/h,normal car,none,normal car
+18127,rainy,night,dry,20m,children,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+18146,rainy,night,wet,free,adult,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+18148,rainy,night,wet,free,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+18165,rainy,night,wet,free,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+18178,rainy,night,wet,free,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+18183,rainy,night,wet,free,children,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),none
+18211,rainy,night,wet,free,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+18213,rainy,night,wet,free,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+18221,rainy,night,wet,free,adult,middle of the lane,10m,25km/h,normal car,none,normal car
+18257,rainy,night,wet,free,adult,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+18258,rainy,night,wet,free,adult,right of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+18259,rainy,night,wet,free,children,middle of the lane,50m,25km/h,normal car,urgent (to hospital),normal car
+18266,rainy,night,wet,free,adult,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),none
+18276,rainy,night,wet,free,children,right of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+18290,rainy,night,wet,free,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+18296,rainy,night,wet,free,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+18330,rainy,night,wet,free,adult,right of the lane,50m,25km/h,normal car,none,normal car
+18335,rainy,night,wet,free,children,middle of the lane,50m,25km/h,normal car,none,emergency vehicle
+18342,rainy,night,wet,free,adult,right of the lane,50m,25km/h,emergency vehicle,none,normal car
+18349,rainy,night,wet,free,adult,middle of the lane,50m,25km/h,truck,none,none
+18351,rainy,night,wet,free,children,middle of the lane,50m,25km/h,truck,none,none
+18357,rainy,night,wet,free,adult,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+18377,rainy,night,wet,free,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+18383,rainy,night,wet,free,children,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+18394,rainy,night,wet,free,adult,right of the lane,100m,25km/h,truck,urgent (to hospital),emergency vehicle
+18424,rainy,night,wet,free,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),none
+18431,rainy,night,wet,free,children,middle of the lane,100m,25km/h,truck,hurry (commute or flight),emergency vehicle
+18454,rainy,night,wet,free,adult,right of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+18456,rainy,night,wet,free,children,right of the lane,100m,25km/h,emergency vehicle,none,emergency vehicle
+18466,rainy,night,wet,free,adult,right of the lane,100m,25km/h,truck,none,emergency vehicle
+18489,rainy,night,wet,free,adult,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+18537,rainy,night,wet,free,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+18551,rainy,night,wet,free,children,middle of the lane,10m,50km/h,normal car,none,emergency vehicle
+18555,rainy,night,wet,free,children,middle of the lane,10m,50km/h,emergency vehicle,none,none
+18558,rainy,night,wet,free,adult,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+18570,rainy,night,wet,free,adult,right of the lane,10m,50km/h,truck,none,normal car
+18603,rainy,night,wet,free,children,middle of the lane,50m,50km/h,truck,urgent (to hospital),none
+18606,rainy,night,wet,free,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+18620,rainy,night,wet,free,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+18623,rainy,night,wet,free,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+18636,rainy,night,wet,free,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+18649,rainy,night,wet,free,adult,middle of the lane,50m,50km/h,normal car,none,none
+18657,rainy,night,wet,free,adult,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+18666,rainy,night,wet,free,adult,right of the lane,50m,50km/h,emergency vehicle,none,normal car
+18671,rainy,night,wet,free,children,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+18688,rainy,night,wet,free,children,right of the lane,100m,50km/h,normal car,urgent (to hospital),none
+18697,rainy,night,wet,free,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+18699,rainy,night,wet,free,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+18701,rainy,night,wet,free,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),normal car
+18724,rainy,night,wet,free,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),none
+18760,rainy,night,wet,free,children,right of the lane,100m,50km/h,normal car,none,none
+18761,rainy,night,wet,free,adult,middle of the lane,100m,50km/h,normal car,none,normal car
+18762,rainy,night,wet,free,adult,right of the lane,100m,50km/h,normal car,none,normal car
+18766,rainy,night,wet,free,adult,right of the lane,100m,50km/h,normal car,none,emergency vehicle
+18779,rainy,night,wet,free,children,middle of the lane,100m,50km/h,emergency vehicle,none,emergency vehicle
+18793,rainy,night,wet,100m,adult,middle of the lane,10m,25km/h,normal car,urgent (to hospital),none
+18796,rainy,night,wet,100m,children,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+18808,rainy,night,wet,100m,children,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),none
+18822,rainy,night,wet,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),normal car
+18826,rainy,night,wet,100m,adult,right of the lane,10m,25km/h,truck,urgent (to hospital),emergency vehicle
+18834,rainy,night,wet,100m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+18837,rainy,night,wet,100m,adult,middle of the lane,10m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+18841,rainy,night,wet,100m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),none
+18861,rainy,night,wet,100m,adult,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+18863,rainy,night,wet,100m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),emergency vehicle
+18879,rainy,night,wet,100m,children,middle of the lane,10m,25km/h,emergency vehicle,none,none
+18883,rainy,night,wet,100m,children,middle of the lane,10m,25km/h,emergency vehicle,none,normal car
+18958,rainy,night,wet,100m,adult,right of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+18980,rainy,night,wet,100m,children,right of the lane,50m,25km/h,normal car,none,normal car
+19019,rainy,night,wet,100m,children,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+19026,rainy,night,wet,100m,adult,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+19055,rainy,night,wet,100m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),emergency vehicle
+19059,rainy,night,wet,100m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),none
+19072,rainy,night,wet,100m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),none
+19085,rainy,night,wet,100m,adult,middle of the lane,100m,25km/h,normal car,none,normal car
+19090,rainy,night,wet,100m,adult,right of the lane,100m,25km/h,normal car,none,emergency vehicle
+19127,rainy,night,wet,100m,children,middle of the lane,10m,50km/h,normal car,urgent (to hospital),emergency vehicle
+19134,rainy,night,wet,100m,adult,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+19136,rainy,night,wet,100m,children,right of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),normal car
+19144,rainy,night,wet,100m,children,right of the lane,10m,50km/h,truck,urgent (to hospital),none
+19151,rainy,night,wet,100m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+19169,rainy,night,wet,100m,adult,middle of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+19170,rainy,night,wet,100m,adult,right of the lane,10m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+19181,rainy,night,wet,100m,adult,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+19183,rainy,night,wet,100m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),normal car
+19192,rainy,night,wet,100m,children,right of the lane,10m,50km/h,normal car,none,none
+19206,rainy,night,wet,100m,adult,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+19208,rainy,night,wet,100m,children,right of the lane,10m,50km/h,emergency vehicle,none,normal car
+19243,rainy,night,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,urgent (to hospital),normal car
+19260,rainy,night,wet,100m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+19267,rainy,night,wet,100m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+19268,rainy,night,wet,100m,children,right of the lane,50m,50km/h,normal car,hurry (commute or flight),normal car
+19271,rainy,night,wet,100m,children,middle of the lane,50m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+19282,rainy,night,wet,100m,adult,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),emergency vehicle
+19299,rainy,night,wet,100m,children,middle of the lane,50m,50km/h,normal car,none,none
+19301,rainy,night,wet,100m,adult,middle of the lane,50m,50km/h,normal car,none,normal car
+19313,rainy,night,wet,100m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+19315,rainy,night,wet,100m,children,middle of the lane,50m,50km/h,emergency vehicle,none,normal car
+19320,rainy,night,wet,100m,children,right of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+19332,rainy,night,wet,100m,children,right of the lane,50m,50km/h,truck,none,emergency vehicle
+19333,rainy,night,wet,100m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),none
+19337,rainy,night,wet,100m,adult,middle of the lane,100m,50km/h,normal car,urgent (to hospital),normal car
+19353,rainy,night,wet,100m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+19368,rainy,night,wet,100m,children,right of the lane,100m,50km/h,truck,urgent (to hospital),emergency vehicle
+19374,rainy,night,wet,100m,adult,right of the lane,100m,50km/h,normal car,hurry (commute or flight),normal car
+19432,rainy,night,wet,100m,children,right of the lane,100m,50km/h,truck,none,none
+19442,rainy,night,wet,50m,adult,right of the lane,10m,25km/h,normal car,urgent (to hospital),none
+19450,rainy,night,wet,50m,adult,right of the lane,10m,25km/h,normal car,urgent (to hospital),emergency vehicle
+19461,rainy,night,wet,50m,adult,middle of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+19482,rainy,night,wet,50m,adult,right of the lane,10m,25km/h,normal car,hurry (commute or flight),normal car
+19530,rainy,night,wet,50m,adult,right of the lane,10m,25km/h,emergency vehicle,none,normal car
+19547,rainy,night,wet,50m,children,middle of the lane,10m,25km/h,truck,none,emergency vehicle
+19560,rainy,night,wet,50m,children,right of the lane,50m,25km/h,normal car,urgent (to hospital),emergency vehicle
+19571,rainy,night,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+19573,rainy,night,wet,50m,adult,middle of the lane,50m,25km/h,truck,urgent (to hospital),none
+19612,rainy,night,wet,50m,children,right of the lane,50m,25km/h,truck,hurry (commute or flight),none
+19635,rainy,night,wet,50m,children,middle of the lane,50m,25km/h,emergency vehicle,none,none
+19646,rainy,night,wet,50m,adult,right of the lane,50m,25km/h,truck,none,none
+19653,rainy,night,wet,50m,adult,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+19658,rainy,night,wet,50m,adult,right of the lane,100m,25km/h,normal car,urgent (to hospital),none
+19710,rainy,night,wet,50m,adult,right of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+19720,rainy,night,wet,50m,children,right of the lane,100m,25km/h,truck,hurry (commute or flight),none
+19777,rainy,night,wet,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,urgent (to hospital),none
+19790,rainy,night,wet,50m,adult,right of the lane,10m,50km/h,truck,urgent (to hospital),none
+19812,rainy,night,wet,50m,children,right of the lane,10m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+19835,rainy,night,wet,50m,children,middle of the lane,10m,50km/h,truck,hurry (commute or flight),emergency vehicle
+19839,rainy,night,wet,50m,children,middle of the lane,10m,50km/h,normal car,none,none
+19849,rainy,night,wet,50m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,none
+19860,rainy,night,wet,50m,children,right of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+19865,rainy,night,wet,50m,adult,middle of the lane,10m,50km/h,truck,none,normal car
+19880,rainy,night,wet,50m,children,right of the lane,50m,50km/h,normal car,urgent (to hospital),normal car
+19897,rainy,night,wet,50m,adult,middle of the lane,50m,50km/h,truck,urgent (to hospital),none
+19906,rainy,night,wet,50m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+19908,rainy,night,wet,50m,children,right of the lane,50m,50km/h,truck,urgent (to hospital),emergency vehicle
+19925,rainy,night,wet,50m,adult,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+19927,rainy,night,wet,50m,children,middle of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+19949,rainy,night,wet,50m,adult,middle of the lane,50m,50km/h,normal car,none,normal car
+19950,rainy,night,wet,50m,adult,right of the lane,50m,50km/h,normal car,none,normal car
+19955,rainy,night,wet,50m,children,middle of the lane,50m,50km/h,normal car,none,emergency vehicle
+19957,rainy,night,wet,50m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,none
+19965,rainy,night,wet,50m,adult,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+19967,rainy,night,wet,50m,children,middle of the lane,50m,50km/h,emergency vehicle,none,emergency vehicle
+19979,rainy,night,wet,50m,children,middle of the lane,50m,50km/h,truck,none,emergency vehicle
+19990,rainy,night,wet,50m,adult,right of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+19992,rainy,night,wet,50m,children,right of the lane,100m,50km/h,normal car,urgent (to hospital),emergency vehicle
+19993,rainy,night,wet,50m,adult,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+19995,rainy,night,wet,50m,children,middle of the lane,100m,50km/h,emergency vehicle,urgent (to hospital),none
+20030,rainy,night,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),none
+20034,rainy,night,wet,50m,adult,right of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+20049,rainy,night,wet,50m,adult,middle of the lane,100m,50km/h,truck,hurry (commute or flight),emergency vehicle
+20071,rainy,night,wet,50m,children,middle of the lane,100m,50km/h,emergency vehicle,none,normal car
+20072,rainy,night,wet,50m,children,right of the lane,100m,50km/h,emergency vehicle,none,normal car
+20080,rainy,night,wet,50m,children,right of the lane,100m,50km/h,truck,none,none
+20091,rainy,night,wet,20m,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),none
+20095,rainy,night,wet,20m,children,middle of the lane,10m,25km/h,normal car,urgent (to hospital),normal car
+20112,rainy,night,wet,20m,children,right of the lane,10m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+20141,rainy,night,wet,20m,adult,middle of the lane,10m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+20155,rainy,night,wet,20m,children,middle of the lane,10m,25km/h,truck,hurry (commute or flight),normal car
+20161,rainy,night,wet,20m,adult,middle of the lane,10m,25km/h,normal car,none,none
+20163,rainy,night,wet,20m,children,middle of the lane,10m,25km/h,normal car,none,none
+20227,rainy,night,wet,20m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),normal car
+20231,rainy,night,wet,20m,children,middle of the lane,50m,25km/h,truck,urgent (to hospital),emergency vehicle
+20234,rainy,night,wet,20m,adult,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+20236,rainy,night,wet,20m,children,right of the lane,50m,25km/h,normal car,hurry (commute or flight),none
+20237,rainy,night,wet,20m,adult,middle of the lane,50m,25km/h,normal car,hurry (commute or flight),normal car
+20245,rainy,night,wet,20m,adult,middle of the lane,50m,25km/h,emergency vehicle,hurry (commute or flight),none
+20257,rainy,night,wet,20m,adult,middle of the lane,50m,25km/h,truck,hurry (commute or flight),none
+20263,rainy,night,wet,20m,children,middle of the lane,50m,25km/h,truck,hurry (commute or flight),normal car
+20303,rainy,night,wet,20m,children,middle of the lane,50m,25km/h,truck,none,emergency vehicle
+20312,rainy,night,wet,20m,children,right of the lane,100m,25km/h,normal car,urgent (to hospital),normal car
+20313,rainy,night,wet,20m,adult,middle of the lane,100m,25km/h,normal car,urgent (to hospital),emergency vehicle
+20324,rainy,night,wet,20m,children,right of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),normal car
+20325,rainy,night,wet,20m,adult,middle of the lane,100m,25km/h,emergency vehicle,urgent (to hospital),emergency vehicle
+20329,rainy,night,wet,20m,adult,middle of the lane,100m,25km/h,truck,urgent (to hospital),none
+20347,rainy,night,wet,20m,children,middle of the lane,100m,25km/h,normal car,hurry (commute or flight),normal car
+20359,rainy,night,wet,20m,children,middle of the lane,100m,25km/h,emergency vehicle,hurry (commute or flight),normal car
+20379,rainy,night,wet,20m,children,middle of the lane,100m,25km/h,normal car,none,none
+20382,rainy,night,wet,20m,adult,right of the lane,100m,25km/h,normal car,none,normal car
+20386,rainy,night,wet,20m,adult,right of the lane,100m,25km/h,normal car,none,emergency vehicle
+20401,rainy,night,wet,20m,adult,middle of the lane,100m,25km/h,truck,none,none
+20409,rainy,night,wet,20m,adult,middle of the lane,100m,25km/h,truck,none,emergency vehicle
+20414,rainy,night,wet,20m,adult,right of the lane,10m,50km/h,normal car,urgent (to hospital),none
+20442,rainy,night,wet,20m,adult,right of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+20443,rainy,night,wet,20m,children,middle of the lane,10m,50km/h,truck,urgent (to hospital),normal car
+20445,rainy,night,wet,20m,adult,middle of the lane,10m,50km/h,truck,urgent (to hospital),emergency vehicle
+20501,rainy,night,wet,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,normal car
+20505,rainy,night,wet,20m,adult,middle of the lane,10m,50km/h,emergency vehicle,none,emergency vehicle
+20550,rainy,night,wet,20m,adult,right of the lane,50m,50km/h,truck,urgent (to hospital),normal car
+20558,rainy,night,wet,20m,adult,right of the lane,50m,50km/h,normal car,hurry (commute or flight),none
+20576,rainy,night,wet,20m,children,right of the lane,50m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+20581,rainy,night,wet,20m,adult,middle of the lane,50m,50km/h,truck,hurry (commute or flight),none
+20588,rainy,night,wet,20m,children,right of the lane,50m,50km/h,truck,hurry (commute or flight),normal car
+20676,rainy,night,wet,20m,children,right of the lane,100m,50km/h,normal car,hurry (commute or flight),emergency vehicle
+20683,rainy,night,wet,20m,children,middle of the lane,100m,50km/h,emergency vehicle,hurry (commute or flight),normal car
+20708,rainy,night,wet,20m,children,right of the lane,100m,50km/h,normal car,none,normal car
+20728,rainy,night,wet,20m,children,right of the lane,100m,50km/h,truck,none,none
+20730,rainy,night,wet,20m,adult,right of the lane,100m,50km/h,truck,none,normal car

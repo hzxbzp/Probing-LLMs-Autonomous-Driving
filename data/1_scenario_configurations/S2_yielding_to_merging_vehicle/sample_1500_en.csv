@@ -1,0 +1,1501 @@
+id,weather,time,road_condition,merging_vehicle_speed,merging_gap,merging_vehicle_type,mainstream_front_space,occupant_requirement,ego_role,ego_state,ego_distance,ego_velocity,following_vehicle
+124,sunny,day,dry,35km/h,10m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+273,sunny,day,dry,35km/h,10m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+309,sunny,day,dry,35km/h,10m,truck,free,urgent (to hospital),truck,approaching,100m,30km/h,normal car
+484,sunny,day,dry,35km/h,10m,truck,free,none,truck,approaching,10m,80km/h,emergency vehicle
+598,sunny,day,dry,35km/h,10m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+669,sunny,day,dry,35km/h,10m,emergency vehicle,free,none,normal car,approaching,100m,30km/h,emergency vehicle
+796,sunny,day,dry,35km/h,50m,normal car,free,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+810,sunny,day,dry,35km/h,50m,normal car,free,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+948,sunny,day,dry,35km/h,50m,normal car,free,none,truck,approaching,100m,30km/h,none
+1037,sunny,day,dry,35km/h,50m,truck,free,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+1070,sunny,day,dry,35km/h,50m,truck,free,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+1091,sunny,day,dry,35km/h,50m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+1412,sunny,day,dry,35km/h,50m,emergency vehicle,free,none,emergency vehicle,approaching,10m,50km/h,none
+1660,sunny,day,dry,35km/h,100m,normal car,free,none,emergency vehicle,approaching,50m,80km/h,normal car
+1765,sunny,day,dry,35km/h,100m,truck,free,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+1854,sunny,day,dry,35km/h,100m,truck,free,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+1902,sunny,day,dry,35km/h,100m,truck,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+1924,sunny,day,dry,35km/h,100m,truck,free,none,truck,approaching,10m,80km/h,none
+2000,sunny,day,dry,35km/h,100m,emergency vehicle,free,urgent (to hospital),truck,approaching,100m,50km/h,none
+2114,sunny,day,dry,35km/h,100m,emergency vehicle,free,none,normal car,approaching,10m,50km/h,none
+2260,sunny,day,dry,60km/h,50m,normal car,free,urgent (to hospital),truck,approaching,100m,80km/h,emergency vehicle
+2539,sunny,day,dry,60km/h,50m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+2628,sunny,day,dry,60km/h,50m,truck,free,none,emergency vehicle,approaching,10m,30km/h,none
+2696,sunny,day,dry,60km/h,50m,emergency vehicle,free,urgent (to hospital),normal car,approaching,50m,50km/h,emergency vehicle
+2761,sunny,day,dry,60km/h,50m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+2842,sunny,day,dry,60km/h,50m,emergency vehicle,free,none,normal car,approaching,10m,80km/h,none
+3124,sunny,day,dry,60km/h,100m,normal car,free,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+3234,sunny,day,dry,60km/h,100m,truck,free,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+3292,sunny,day,dry,60km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+3554,sunny,day,dry,60km/h,100m,emergency vehicle,free,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+3816,sunny,day,dry,60km/h,150m,normal car,free,none,normal car,approaching,10m,30km/h,none
+3947,sunny,day,dry,60km/h,150m,truck,free,urgent (to hospital),truck,approaching,50m,50km/h,none
+4104,sunny,day,dry,60km/h,150m,truck,free,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+4233,sunny,day,dry,60km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+4271,sunny,day,dry,60km/h,150m,emergency vehicle,free,hurry (commute or flight),truck,approaching,50m,50km/h,none
+4418,sunny,day,dry,100km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+4679,sunny,day,dry,100km/h,100m,truck,free,urgent (to hospital),truck,approaching,10m,50km/h,none
+4753,sunny,day,dry,100km/h,100m,truck,free,hurry (commute or flight),truck,approaching,100m,80km/h,none
+4860,sunny,day,dry,100km/h,100m,truck,free,none,truck,approaching,10m,30km/h,emergency vehicle
+4875,sunny,day,dry,100km/h,100m,emergency vehicle,free,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+4980,sunny,day,dry,100km/h,100m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,normal car
+5059,sunny,day,dry,100km/h,100m,emergency vehicle,free,none,emergency vehicle,approaching,100m,80km/h,normal car
+5132,sunny,day,dry,100km/h,150m,normal car,free,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+5134,sunny,day,dry,100km/h,150m,normal car,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+5309,sunny,day,dry,100km/h,150m,normal car,free,none,emergency vehicle,approaching,10m,50km/h,normal car
+5501,sunny,day,dry,100km/h,150m,truck,free,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+5596,sunny,day,dry,100km/h,150m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+5694,sunny,day,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,30km/h,emergency vehicle
+5760,sunny,day,dry,100km/h,150m,emergency vehicle,free,none,normal car,approaching,10m,30km/h,none
+5859,sunny,day,dry,100km/h,200m,normal car,free,urgent (to hospital),normal car,approaching,10m,30km/h,emergency vehicle
+6059,sunny,day,dry,100km/h,200m,normal car,free,none,truck,approaching,100m,50km/h,normal car
+6173,sunny,day,dry,100km/h,200m,truck,free,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+6214,sunny,day,dry,100km/h,200m,truck,free,hurry (commute or flight),truck,approaching,50m,80km/h,none
+6316,sunny,day,dry,100km/h,200m,truck,free,none,truck,approaching,10m,80km/h,emergency vehicle
+6383,sunny,day,dry,100km/h,200m,emergency vehicle,free,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+6822,sunny,day,dry,35km/h,10m,truck,100m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+7073,sunny,day,dry,35km/h,10m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+7078,sunny,day,dry,35km/h,10m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+7096,sunny,day,dry,35km/h,10m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+7525,sunny,day,dry,35km/h,50m,normal car,100m,none,truck,approaching,100m,80km/h,emergency vehicle
+7585,sunny,day,dry,35km/h,50m,truck,100m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+7644,sunny,day,dry,35km/h,50m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+7816,sunny,day,dry,35km/h,50m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+7911,sunny,day,dry,35km/h,50m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+8115,sunny,day,dry,35km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+8263,sunny,day,dry,35km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+8267,sunny,day,dry,35km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,50m,50km/h,none
+8534,sunny,day,dry,35km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+8599,sunny,day,dry,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+8749,sunny,day,dry,60km/h,50m,normal car,100m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+8932,sunny,day,dry,60km/h,50m,normal car,100m,none,normal car,approaching,50m,80km/h,emergency vehicle
+9062,sunny,day,dry,60km/h,50m,truck,100m,urgent (to hospital),truck,approaching,10m,50km/h,normal car
+9254,sunny,day,dry,60km/h,50m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+9498,sunny,day,dry,60km/h,100m,normal car,100m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+9656,sunny,day,dry,60km/h,100m,normal car,100m,none,normal car,approaching,10m,50km/h,normal car
+9787,sunny,day,dry,60km/h,100m,truck,100m,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+9788,sunny,day,dry,60km/h,100m,truck,100m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+9956,sunny,day,dry,60km/h,100m,truck,100m,none,truck,approaching,100m,50km/h,emergency vehicle
+10107,sunny,day,dry,60km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,30km/h,none
+10366,sunny,day,dry,60km/h,150m,normal car,100m,hurry (commute or flight),truck,approaching,10m,80km/h,emergency vehicle
+10384,sunny,day,dry,60km/h,150m,normal car,100m,none,normal car,approaching,10m,80km/h,normal car
+10390,sunny,day,dry,60km/h,150m,normal car,100m,none,normal car,approaching,50m,80km/h,emergency vehicle
+10399,sunny,day,dry,60km/h,150m,normal car,100m,none,emergency vehicle,approaching,50m,80km/h,none
+10415,sunny,day,dry,60km/h,150m,normal car,100m,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+10423,sunny,day,dry,60km/h,150m,normal car,100m,none,truck,approaching,100m,80km/h,none
+10593,sunny,day,dry,60km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,10m,30km/h,none
+10650,sunny,day,dry,60km/h,150m,truck,100m,none,emergency vehicle,approaching,100m,30km/h,normal car
+10747,sunny,day,dry,60km/h,150m,emergency vehicle,100m,urgent (to hospital),truck,approaching,100m,80km/h,none
+10796,sunny,day,dry,60km/h,150m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+10829,sunny,day,dry,60km/h,150m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+11687,sunny,day,dry,100km/h,150m,normal car,100m,urgent (to hospital),normal car,approaching,50m,50km/h,emergency vehicle
+11714,sunny,day,dry,100km/h,150m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+11859,sunny,day,dry,100km/h,150m,normal car,100m,none,emergency vehicle,approaching,50m,30km/h,none
+11988,sunny,day,dry,100km/h,150m,truck,100m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+12170,sunny,day,dry,100km/h,150m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+12284,sunny,day,dry,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+12538,sunny,day,dry,100km/h,200m,normal car,100m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+12582,sunny,day,dry,100km/h,200m,normal car,100m,none,normal car,approaching,10m,30km/h,emergency vehicle
+12622,sunny,day,dry,100km/h,200m,normal car,100m,none,truck,approaching,50m,80km/h,normal car
+12790,sunny,day,dry,100km/h,200m,truck,100m,hurry (commute or flight),truck,approaching,100m,80km/h,emergency vehicle
+13038,sunny,day,dry,100km/h,200m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+13126,sunny,day,dry,35km/h,10m,normal car,50m,urgent (to hospital),normal car,approaching,50m,80km/h,none
+13397,sunny,day,dry,35km/h,10m,truck,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,none
+13498,sunny,day,dry,35km/h,10m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+13543,sunny,day,dry,35km/h,10m,truck,50m,none,normal car,approaching,10m,80km/h,normal car
+13565,sunny,day,dry,35km/h,10m,truck,50m,none,emergency vehicle,approaching,100m,50km/h,normal car
+13638,sunny,day,dry,35km/h,10m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+13872,sunny,day,dry,35km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+14092,sunny,day,dry,35km/h,50m,normal car,50m,none,truck,approaching,10m,80km/h,emergency vehicle
+14179,sunny,day,dry,35km/h,50m,truck,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+14425,sunny,day,dry,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+14454,sunny,day,dry,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,none
+15738,sunny,day,dry,60km/h,50m,truck,50m,none,normal car,approaching,50m,30km/h,emergency vehicle
+15978,sunny,day,dry,60km/h,50m,emergency vehicle,50m,none,normal car,approaching,100m,30km/h,emergency vehicle
+15982,sunny,day,dry,60km/h,50m,emergency vehicle,50m,none,normal car,approaching,10m,80km/h,emergency vehicle
+16013,sunny,day,dry,60km/h,50m,emergency vehicle,50m,none,truck,approaching,100m,50km/h,none
+16213,sunny,day,dry,60km/h,100m,normal car,50m,none,normal car,approaching,50m,80km/h,normal car
+16281,sunny,day,dry,60km/h,100m,normal car,50m,none,truck,approaching,10m,30km/h,emergency vehicle
+16464,sunny,day,dry,60km/h,100m,truck,50m,none,normal car,approaching,100m,30km/h,emergency vehicle
+16593,sunny,day,dry,60km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+16755,sunny,day,dry,60km/h,100m,emergency vehicle,50m,none,truck,approaching,50m,30km/h,normal car
+16781,sunny,day,dry,60km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,50m,50km/h,normal car
+17050,sunny,day,dry,60km/h,150m,truck,50m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+17300,sunny,day,dry,60km/h,150m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+17439,sunny,day,dry,60km/h,150m,emergency vehicle,50m,none,normal car,approaching,50m,30km/h,emergency vehicle
+17472,sunny,day,dry,60km/h,150m,emergency vehicle,50m,none,truck,approaching,100m,30km/h,none
+17525,sunny,day,dry,100km/h,100m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+17811,sunny,day,dry,100km/h,100m,truck,50m,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+17819,sunny,day,dry,100km/h,100m,truck,50m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+17873,sunny,day,dry,100km/h,100m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+17997,sunny,day,dry,100km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+18122,sunny,day,dry,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+18304,sunny,day,dry,100km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,10m,80km/h,emergency vehicle
+18306,sunny,day,dry,100km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+18572,sunny,day,dry,100km/h,150m,truck,50m,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+18678,sunny,day,dry,100km/h,150m,truck,50m,none,emergency vehicle,approaching,100m,30km/h,emergency vehicle
+18718,sunny,day,dry,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+18732,sunny,day,dry,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+18802,sunny,day,dry,100km/h,150m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+18960,sunny,day,dry,100km/h,200m,normal car,50m,urgent (to hospital),normal car,approaching,50m,30km/h,none
+19287,sunny,day,dry,100km/h,200m,truck,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,none
+19551,sunny,day,dry,100km/h,200m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+19898,sunny,day,dry,35km/h,10m,normal car,20m,none,emergency vehicle,approaching,10m,50km/h,emergency vehicle
+19903,sunny,day,dry,35km/h,10m,normal car,20m,none,truck,approaching,50m,80km/h,none
+20022,sunny,day,dry,35km/h,10m,truck,20m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+20035,sunny,day,dry,35km/h,10m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+20547,sunny,day,dry,35km/h,50m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+20575,sunny,day,dry,35km/h,50m,normal car,20m,none,normal car,approaching,100m,80km/h,none
+20957,sunny,day,dry,35km/h,50m,emergency vehicle,20m,urgent (to hospital),truck,approaching,50m,50km/h,none
+21290,sunny,day,dry,35km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,50m,50km/h,normal car
+21649,sunny,day,dry,35km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+21701,sunny,day,dry,35km/h,100m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+21763,sunny,day,dry,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,80km/h,none
+21823,sunny,day,dry,35km/h,100m,emergency vehicle,20m,none,emergency vehicle,approaching,10m,80km/h,none
+22176,sunny,day,dry,60km/h,50m,truck,20m,urgent (to hospital),truck,approaching,10m,30km/h,none
+22378,sunny,day,dry,60km/h,50m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+22519,sunny,day,dry,60km/h,50m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,none
+22528,sunny,day,dry,60km/h,50m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,normal car
+22546,sunny,day,dry,60km/h,50m,emergency vehicle,20m,none,emergency vehicle,approaching,100m,80km/h,none
+23884,sunny,day,dry,60km/h,150m,emergency vehicle,20m,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+24034,sunny,day,dry,60km/h,150m,emergency vehicle,20m,none,truck,approaching,50m,80km/h,none
+24290,sunny,day,dry,100km/h,100m,normal car,20m,none,truck,approaching,10m,50km/h,normal car
+24444,sunny,day,dry,100km/h,100m,truck,20m,hurry (commute or flight),truck,approaching,10m,30km/h,none
+24550,sunny,day,dry,100km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+24807,sunny,day,dry,100km/h,150m,normal car,20m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+25279,sunny,day,dry,100km/h,150m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+25372,sunny,day,dry,100km/h,150m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,80km/h,emergency vehicle
+25579,sunny,day,dry,100km/h,200m,normal car,20m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+25680,sunny,day,dry,100km/h,200m,normal car,20m,none,normal car,approaching,100m,30km/h,none
+25775,sunny,day,dry,100km/h,200m,truck,20m,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+25800,sunny,day,dry,100km/h,200m,truck,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+26306,sunny,day,wet,35km/h,10m,normal car,free,urgent (to hospital),truck,approaching,10m,50km/h,none
+26323,sunny,day,wet,35km/h,10m,normal car,free,urgent (to hospital),truck,approaching,10m,80km/h,emergency vehicle
+26358,sunny,day,wet,35km/h,10m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,none
+26611,sunny,day,wet,35km/h,10m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+26622,sunny,day,wet,35km/h,10m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+27019,sunny,day,wet,35km/h,50m,normal car,free,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+27324,sunny,day,wet,35km/h,50m,truck,free,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+27472,sunny,day,wet,35km/h,50m,emergency vehicle,free,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+27544,sunny,day,wet,35km/h,50m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+27694,sunny,day,wet,35km/h,50m,emergency vehicle,free,none,truck,approaching,100m,80km/h,emergency vehicle
+27747,sunny,day,wet,35km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+28132,sunny,day,wet,35km/h,100m,truck,free,none,normal car,approaching,10m,80km/h,emergency vehicle
+28150,sunny,day,wet,35km/h,100m,truck,free,none,emergency vehicle,approaching,10m,80km/h,normal car
+28151,sunny,day,wet,35km/h,100m,truck,free,none,emergency vehicle,approaching,10m,50km/h,normal car
+28194,sunny,day,wet,35km/h,100m,emergency vehicle,free,urgent (to hospital),normal car,approaching,50m,30km/h,none
+28552,sunny,day,wet,60km/h,50m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,normal car
+28908,sunny,day,wet,60km/h,50m,truck,free,none,truck,approaching,10m,30km/h,normal car
+28953,sunny,day,wet,60km/h,50m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+28959,sunny,day,wet,60km/h,50m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+28991,sunny,day,wet,60km/h,50m,emergency vehicle,free,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+29227,sunny,day,wet,60km/h,100m,normal car,free,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+29240,sunny,day,wet,60km/h,100m,normal car,free,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+29621,sunny,day,wet,60km/h,100m,truck,free,none,truck,approaching,100m,50km/h,none
+29676,sunny,day,wet,60km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+29691,sunny,day,wet,60km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+30117,sunny,day,wet,60km/h,150m,normal car,free,none,truck,approaching,100m,30km/h,normal car
+30124,sunny,day,wet,60km/h,150m,normal car,free,none,truck,approaching,100m,80km/h,emergency vehicle
+30175,sunny,day,wet,60km/h,150m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,normal car
+30330,sunny,day,wet,60km/h,150m,truck,free,none,emergency vehicle,approaching,10m,30km/h,none
+30482,sunny,day,wet,60km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,50km/h,emergency vehicle
+30490,sunny,day,wet,60km/h,150m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+30793,sunny,day,wet,100km/h,100m,normal car,free,none,normal car,approaching,50m,80km/h,normal car
+30878,sunny,day,wet,100km/h,100m,truck,free,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+30952,sunny,day,wet,100km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+31409,sunny,day,wet,100km/h,150m,normal car,free,urgent (to hospital),truck,approaching,10m,50km/h,none
+31425,sunny,day,wet,100km/h,150m,normal car,free,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+31474,sunny,day,wet,100km/h,150m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+31521,sunny,day,wet,100km/h,150m,normal car,free,none,normal car,approaching,100m,30km/h,normal car
+31541,sunny,day,wet,100km/h,150m,normal car,free,none,emergency vehicle,approaching,50m,50km/h,none
+31558,sunny,day,wet,100km/h,150m,normal car,free,none,emergency vehicle,approaching,50m,80km/h,emergency vehicle
+31941,sunny,day,wet,100km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+32156,sunny,day,wet,100km/h,200m,normal car,free,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+32396,sunny,day,wet,100km/h,200m,truck,free,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+32630,sunny,day,wet,100km/h,200m,emergency vehicle,free,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+32693,sunny,day,wet,100km/h,200m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+32951,sunny,day,wet,35km/h,10m,normal car,100m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+32972,sunny,day,wet,35km/h,10m,normal car,100m,none,normal car,approaching,50m,50km/h,none
+33195,sunny,day,wet,35km/h,10m,truck,100m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+33219,sunny,day,wet,35km/h,10m,truck,100m,none,normal car,approaching,10m,30km/h,none
+33644,sunny,day,wet,35km/h,50m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+33655,sunny,day,wet,35km/h,50m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,normal car
+33903,sunny,day,wet,35km/h,50m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,normal car
+33918,sunny,day,wet,35km/h,50m,truck,100m,hurry (commute or flight),truck,approaching,50m,30km/h,none
+33936,sunny,day,wet,35km/h,50m,truck,100m,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+34110,sunny,day,wet,35km/h,50m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,none
+34210,sunny,day,wet,35km/h,50m,emergency vehicle,100m,none,emergency vehicle,approaching,100m,80km/h,none
+34320,sunny,day,wet,35km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,100m,30km/h,none
+34347,sunny,day,wet,35km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,none
+34887,sunny,day,wet,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,100m,30km/h,none
+34988,sunny,day,wet,35km/h,100m,emergency vehicle,100m,none,truck,approaching,50m,50km/h,emergency vehicle
+35026,sunny,day,wet,60km/h,50m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+35046,sunny,day,wet,60km/h,50m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+35193,sunny,day,wet,60km/h,50m,normal car,100m,none,emergency vehicle,approaching,100m,30km/h,normal car
+35251,sunny,day,wet,60km/h,50m,truck,100m,urgent (to hospital),normal car,approaching,10m,80km/h,normal car
+35350,sunny,day,wet,60km/h,50m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+35592,sunny,day,wet,60km/h,50m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,none
+35988,sunny,day,wet,60km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,50m,30km/h,emergency vehicle
+36162,sunny,day,wet,60km/h,100m,truck,100m,none,emergency vehicle,approaching,10m,30km/h,none
+36497,sunny,day,wet,60km/h,150m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+36543,sunny,day,wet,60km/h,150m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,normal car
+36573,sunny,day,wet,60km/h,150m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+36633,sunny,day,wet,60km/h,150m,normal car,100m,none,normal car,approaching,100m,30km/h,emergency vehicle
+36718,sunny,day,wet,60km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+36730,sunny,day,wet,60km/h,150m,truck,100m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+36757,sunny,day,wet,60km/h,150m,truck,100m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+37023,sunny,day,wet,60km/h,150m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+37164,sunny,day,wet,60km/h,150m,emergency vehicle,100m,none,truck,approaching,100m,30km/h,normal car
+37355,sunny,day,wet,100km/h,100m,normal car,100m,none,normal car,approaching,50m,50km/h,normal car
+37689,sunny,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,50m,30km/h,emergency vehicle
+37696,sunny,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+37727,sunny,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,50km/h,none
+37741,sunny,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+37814,sunny,day,wet,100km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,50m,50km/h,normal car
+37964,sunny,day,wet,100km/h,150m,normal car,100m,urgent (to hospital),truck,approaching,100m,50km/h,none
+38094,sunny,day,wet,100km/h,150m,normal car,100m,none,normal car,approaching,50m,30km/h,emergency vehicle
+38113,sunny,day,wet,100km/h,150m,normal car,100m,none,emergency vehicle,approaching,10m,80km/h,normal car
+38286,sunny,day,wet,100km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+38362,sunny,day,wet,100km/h,150m,truck,100m,none,emergency vehicle,approaching,50m,80km/h,emergency vehicle
+38373,sunny,day,wet,100km/h,150m,truck,100m,none,truck,approaching,50m,30km/h,none
+38536,sunny,day,wet,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+38669,sunny,day,wet,100km/h,200m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,none
+38972,sunny,day,wet,100km/h,200m,truck,100m,hurry (commute or flight),normal car,approaching,100m,50km/h,normal car
+38995,sunny,day,wet,100km/h,200m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+39010,sunny,day,wet,100km/h,200m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+39077,sunny,day,wet,100km/h,200m,truck,100m,none,emergency vehicle,approaching,10m,50km/h,none
+39135,sunny,day,wet,100km/h,200m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+39153,sunny,day,wet,100km/h,200m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+39161,sunny,day,wet,100km/h,200m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,normal car
+39475,sunny,day,wet,35km/h,10m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+39495,sunny,day,wet,35km/h,10m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+39509,sunny,day,wet,35km/h,10m,normal car,50m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+39560,sunny,day,wet,35km/h,10m,normal car,50m,none,emergency vehicle,approaching,50m,50km/h,none
+39668,sunny,day,wet,35km/h,10m,truck,50m,urgent (to hospital),truck,approaching,50m,50km/h,none
+39696,sunny,day,wet,35km/h,10m,truck,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+39780,sunny,day,wet,35km/h,10m,truck,50m,none,normal car,approaching,10m,30km/h,none
+39952,sunny,day,wet,35km/h,10m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,100m,80km/h,emergency vehicle
+40142,sunny,day,wet,35km/h,50m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+40267,sunny,day,wet,35km/h,50m,normal car,50m,none,normal car,approaching,100m,80km/h,normal car
+40304,sunny,day,wet,35km/h,50m,normal car,50m,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+40351,sunny,day,wet,35km/h,50m,truck,50m,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+40571,sunny,day,wet,35km/h,50m,truck,50m,none,truck,approaching,10m,50km/h,normal car
+40610,sunny,day,wet,35km/h,50m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+40887,sunny,day,wet,35km/h,100m,normal car,50m,urgent (to hospital),truck,approaching,10m,30km/h,none
+40920,sunny,day,wet,35km/h,100m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+41163,sunny,day,wet,35km/h,100m,truck,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+41345,sunny,day,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,none
+41360,sunny,day,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+41387,sunny,day,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+41502,sunny,day,wet,35km/h,100m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,30km/h,none
+41652,sunny,day,wet,60km/h,50m,normal car,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+41668,sunny,day,wet,60km/h,50m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+41710,sunny,day,wet,60km/h,50m,normal car,50m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+41713,sunny,day,wet,60km/h,50m,normal car,50m,hurry (commute or flight),truck,approaching,10m,80km/h,emergency vehicle
+41895,sunny,day,wet,60km/h,50m,truck,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+41905,sunny,day,wet,60km/h,50m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+41935,sunny,day,wet,60km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,50m,80km/h,none
+42335,sunny,day,wet,60km/h,100m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+42350,sunny,day,wet,60km/h,100m,normal car,50m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+42404,sunny,day,wet,60km/h,100m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,normal car
+42488,sunny,day,wet,60km/h,100m,normal car,50m,none,emergency vehicle,approaching,10m,50km/h,normal car
+42507,sunny,day,wet,60km/h,100m,normal car,50m,none,truck,approaching,10m,30km/h,none
+42661,sunny,day,wet,60km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,100m,80km/h,none
+43009,sunny,day,wet,60km/h,100m,emergency vehicle,50m,none,truck,approaching,10m,80km/h,emergency vehicle
+43105,sunny,day,wet,60km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+43116,sunny,day,wet,60km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,emergency vehicle
+43139,sunny,day,wet,60km/h,150m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+43279,sunny,day,wet,60km/h,150m,truck,50m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+43415,sunny,day,wet,60km/h,150m,truck,50m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+43467,sunny,day,wet,60km/h,150m,truck,50m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+43501,sunny,day,wet,60km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,80km/h,none
+43694,sunny,day,wet,60km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,10m,50km/h,none
+43935,sunny,day,wet,100km/h,100m,normal car,50m,none,emergency vehicle,approaching,50m,30km/h,none
+44112,sunny,day,wet,100km/h,100m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+44244,sunny,day,wet,100km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+44288,sunny,day,wet,100km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,10m,50km/h,none
+44333,sunny,day,wet,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,50km/h,emergency vehicle
+44337,sunny,day,wet,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+44417,sunny,day,wet,100km/h,100m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,50km/h,none
+44471,sunny,day,wet,100km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,100m,50km/h,none
+44619,sunny,day,wet,100km/h,150m,normal car,50m,hurry (commute or flight),truck,approaching,50m,30km/h,normal car
+44683,sunny,day,wet,100km/h,150m,normal car,50m,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+44692,sunny,day,wet,100km/h,150m,normal car,50m,none,truck,approaching,10m,80km/h,none
+44762,sunny,day,wet,100km/h,150m,truck,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+44791,sunny,day,wet,100km/h,150m,truck,50m,urgent (to hospital),truck,approaching,10m,80km/h,emergency vehicle
+45294,sunny,day,wet,100km/h,200m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+45297,sunny,day,wet,100km/h,200m,normal car,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+45430,sunny,day,wet,100km/h,200m,normal car,50m,none,truck,approaching,10m,80km/h,normal car
+45582,sunny,day,wet,100km/h,200m,truck,50m,hurry (commute or flight),truck,approaching,50m,30km/h,none
+45706,sunny,day,wet,100km/h,200m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+45893,sunny,day,wet,100km/h,200m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+45932,sunny,day,wet,35km/h,10m,normal car,20m,urgent (to hospital),normal car,approaching,50m,50km/h,none
+46043,sunny,day,wet,35km/h,10m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,none
+46323,sunny,day,wet,35km/h,10m,truck,20m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+46431,sunny,day,wet,35km/h,10m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+46519,sunny,day,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,emergency vehicle
+46565,sunny,day,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+46856,sunny,day,wet,35km/h,50m,normal car,20m,none,emergency vehicle,approaching,100m,50km/h,normal car
+47073,sunny,day,wet,35km/h,50m,truck,20m,none,normal car,approaching,100m,30km/h,normal car
+47273,sunny,day,wet,35km/h,50m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+47361,sunny,day,wet,35km/h,50m,emergency vehicle,20m,none,truck,approaching,100m,30km/h,none
+47488,sunny,day,wet,35km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,emergency vehicle
+47598,sunny,day,wet,35km/h,100m,normal car,20m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+47709,sunny,day,wet,35km/h,100m,truck,20m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+47850,sunny,day,wet,35km/h,100m,truck,20m,none,truck,approaching,50m,30km/h,none
+47905,sunny,day,wet,35km/h,100m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+47947,sunny,day,wet,35km/h,100m,emergency vehicle,20m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+47995,sunny,day,wet,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+48522,sunny,day,wet,60km/h,50m,truck,20m,none,normal car,approaching,100m,30km/h,none
+48593,sunny,day,wet,60km/h,50m,truck,20m,none,truck,approaching,100m,50km/h,emergency vehicle
+48740,sunny,day,wet,60km/h,50m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+48773,sunny,day,wet,60km/h,50m,emergency vehicle,20m,none,normal car,approaching,100m,50km/h,normal car
+49100,sunny,day,wet,60km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,50m,50km/h,normal car
+49129,sunny,day,wet,60km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,normal car
+49205,sunny,day,wet,60km/h,100m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+49459,sunny,day,wet,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+49501,sunny,day,wet,60km/h,100m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,normal car
+49670,sunny,day,wet,60km/h,150m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+49777,sunny,day,wet,60km/h,150m,normal car,20m,none,emergency vehicle,approaching,10m,80km/h,normal car
+49785,sunny,day,wet,60km/h,150m,normal car,20m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+49830,sunny,day,wet,60km/h,150m,truck,20m,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+49909,sunny,day,wet,60km/h,150m,truck,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+50199,sunny,day,wet,60km/h,150m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,30km/h,none
+50298,sunny,day,wet,60km/h,150m,emergency vehicle,20m,none,truck,approaching,50m,30km/h,emergency vehicle
+50340,sunny,day,wet,100km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+50352,sunny,day,wet,100km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+50443,sunny,day,wet,100km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+50505,sunny,day,wet,100km/h,100m,normal car,20m,none,emergency vehicle,approaching,50m,30km/h,normal car
+50789,sunny,day,wet,100km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,100m,50km/h,none
+50882,sunny,day,wet,100km/h,100m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,50m,50km/h,normal car
+51038,sunny,day,wet,100km/h,150m,normal car,20m,urgent (to hospital),normal car,approaching,10m,50km/h,none
+51111,sunny,day,wet,100km/h,150m,normal car,20m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+51301,sunny,day,wet,100km/h,150m,truck,20m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,none
+51594,sunny,day,wet,100km/h,150m,emergency vehicle,20m,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+51801,sunny,day,wet,100km/h,200m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+52248,sunny,day,wet,100km/h,200m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+52464,sunny,day,wet,100km/h,200m,emergency vehicle,20m,none,truck,approaching,100m,30km/h,none
+52468,sunny,day,wet,100km/h,200m,emergency vehicle,20m,none,truck,approaching,10m,80km/h,none
+52478,sunny,day,wet,100km/h,200m,emergency vehicle,20m,none,truck,approaching,10m,50km/h,normal car
+52490,sunny,night,dry,35km/h,10m,normal car,free,urgent (to hospital),normal car,approaching,100m,50km/h,none
+52491,sunny,night,dry,35km/h,10m,normal car,free,urgent (to hospital),normal car,approaching,100m,30km/h,none
+52572,sunny,night,dry,35km/h,10m,normal car,free,hurry (commute or flight),normal car,approaching,100m,30km/h,none
+52778,sunny,night,dry,35km/h,10m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+52786,sunny,night,dry,35km/h,10m,truck,free,urgent (to hospital),truck,approaching,100m,80km/h,none
+52847,sunny,night,dry,35km/h,10m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,none
+52913,sunny,night,dry,35km/h,10m,truck,free,none,normal car,approaching,100m,50km/h,emergency vehicle
+53183,sunny,night,dry,35km/h,10m,emergency vehicle,free,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+53262,sunny,night,dry,35km/h,50m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+53638,sunny,night,dry,35km/h,50m,truck,free,none,normal car,approaching,10m,80km/h,normal car
+53643,sunny,night,dry,35km/h,50m,truck,free,none,normal car,approaching,100m,30km/h,emergency vehicle
+53987,sunny,night,dry,35km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+53996,sunny,night,dry,35km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+54201,sunny,night,dry,35km/h,100m,truck,free,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+54230,sunny,night,dry,35km/h,100m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+54321,sunny,night,dry,35km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+54418,sunny,night,dry,35km/h,100m,truck,free,none,truck,approaching,50m,80km/h,normal car
+54469,sunny,night,dry,35km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+54579,sunny,night,dry,35km/h,100m,emergency vehicle,free,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+54633,sunny,night,dry,35km/h,100m,emergency vehicle,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+55182,sunny,night,dry,60km/h,50m,emergency vehicle,free,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+55225,sunny,night,dry,60km/h,50m,emergency vehicle,free,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+55498,sunny,night,dry,60km/h,100m,normal car,free,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+55508,sunny,night,dry,60km/h,100m,normal car,free,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+55686,sunny,night,dry,60km/h,100m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+55729,sunny,night,dry,60km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,100m,80km/h,none
+56166,sunny,night,dry,60km/h,150m,normal car,free,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,none
+56195,sunny,night,dry,60km/h,150m,normal car,free,urgent (to hospital),truck,approaching,10m,50km/h,none
+56254,sunny,night,dry,60km/h,150m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,normal car
+56259,sunny,night,dry,60km/h,150m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,normal car
+56268,sunny,night,dry,60km/h,150m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+56288,sunny,night,dry,60km/h,150m,normal car,free,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+56368,sunny,night,dry,60km/h,150m,normal car,free,none,truck,approaching,100m,80km/h,emergency vehicle
+56488,sunny,night,dry,60km/h,150m,truck,free,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+57070,sunny,night,dry,100km/h,100m,normal car,free,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+57094,sunny,night,dry,100km/h,100m,normal car,free,none,truck,approaching,10m,80km/h,normal car
+57322,sunny,night,dry,100km/h,100m,truck,free,none,truck,approaching,100m,80km/h,none
+57681,sunny,night,dry,100km/h,150m,normal car,free,hurry (commute or flight),normal car,approaching,10m,30km/h,none
+57810,sunny,night,dry,100km/h,150m,normal car,free,none,truck,approaching,100m,30km/h,none
+57871,sunny,night,dry,100km/h,150m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+58024,sunny,night,dry,100km/h,150m,truck,free,none,emergency vehicle,approaching,100m,80km/h,none
+58178,sunny,night,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,100m,50km/h,emergency vehicle
+58407,sunny,night,dry,100km/h,200m,normal car,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+58507,sunny,night,dry,100km/h,200m,normal car,free,none,normal car,approaching,10m,80km/h,emergency vehicle
+58526,sunny,night,dry,100km/h,200m,normal car,free,none,emergency vehicle,approaching,10m,50km/h,normal car
+58548,sunny,night,dry,100km/h,200m,normal car,free,none,truck,approaching,100m,30km/h,normal car
+58611,sunny,night,dry,100km/h,200m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+58687,sunny,night,dry,100km/h,200m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+58920,sunny,night,dry,100km/h,200m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,none
+59008,sunny,night,dry,100km/h,200m,emergency vehicle,free,none,emergency vehicle,approaching,50m,80km/h,normal car
+59126,sunny,night,dry,35km/h,10m,normal car,100m,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+59191,sunny,night,dry,35km/h,10m,normal car,100m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+59350,sunny,night,dry,35km/h,10m,truck,100m,urgent (to hospital),truck,approaching,50m,80km/h,none
+59407,sunny,night,dry,35km/h,10m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+59525,sunny,night,dry,35km/h,10m,truck,100m,none,truck,approaching,10m,50km/h,normal car
+59550,sunny,night,dry,35km/h,10m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+59670,sunny,night,dry,35km/h,10m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+59729,sunny,night,dry,35km/h,10m,emergency vehicle,100m,none,emergency vehicle,approaching,50m,50km/h,none
+59760,sunny,night,dry,35km/h,10m,emergency vehicle,100m,none,truck,approaching,10m,30km/h,none
+59894,sunny,night,dry,35km/h,50m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,none
+59961,sunny,night,dry,35km/h,50m,normal car,100m,none,normal car,approaching,100m,30km/h,emergency vehicle
+59986,sunny,night,dry,35km/h,50m,normal car,100m,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+60181,sunny,night,dry,35km/h,50m,truck,100m,hurry (commute or flight),truck,approaching,10m,80km/h,emergency vehicle
+60285,sunny,night,dry,35km/h,50m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+60312,sunny,night,dry,35km/h,50m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+60435,sunny,night,dry,35km/h,50m,emergency vehicle,100m,none,normal car,approaching,10m,30km/h,none
+60450,sunny,night,dry,35km/h,50m,emergency vehicle,100m,none,normal car,approaching,50m,30km/h,emergency vehicle
+60649,sunny,night,dry,35km/h,100m,normal car,100m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+60678,sunny,night,dry,35km/h,100m,normal car,100m,none,normal car,approaching,10m,30km/h,none
+60680,sunny,night,dry,35km/h,100m,normal car,100m,none,normal car,approaching,100m,50km/h,normal car
+60961,sunny,night,dry,35km/h,100m,truck,100m,none,emergency vehicle,approaching,50m,80km/h,emergency vehicle
+61222,sunny,night,dry,35km/h,100m,emergency vehicle,100m,none,truck,approaching,50m,80km/h,normal car
+61232,sunny,night,dry,35km/h,100m,emergency vehicle,100m,none,truck,approaching,50m,50km/h,emergency vehicle
+61326,sunny,night,dry,60km/h,50m,normal car,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,none
+61393,sunny,night,dry,60km/h,50m,normal car,100m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+61594,sunny,night,dry,60km/h,50m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+61820,sunny,night,dry,60km/h,50m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+61890,sunny,night,dry,60km/h,50m,emergency vehicle,100m,none,normal car,approaching,50m,30km/h,none
+62021,sunny,night,dry,60km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,100m,50km/h,none
+62030,sunny,night,dry,60km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+62039,sunny,night,dry,60km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+62058,sunny,night,dry,60km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,normal car
+62066,sunny,night,dry,60km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,50km/h,emergency vehicle
+62126,sunny,night,dry,60km/h,100m,normal car,100m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+62351,sunny,night,dry,60km/h,100m,truck,100m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+62461,sunny,night,dry,60km/h,100m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,80km/h,normal car
+62491,sunny,night,dry,60km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+62863,sunny,night,dry,60km/h,150m,normal car,100m,none,normal car,approaching,10m,80km/h,none
+62873,sunny,night,dry,60km/h,150m,normal car,100m,none,normal car,approaching,10m,50km/h,normal car
+62921,sunny,night,dry,60km/h,150m,normal car,100m,none,truck,approaching,100m,50km/h,normal car
+63031,sunny,night,dry,60km/h,150m,truck,100m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+63067,sunny,night,dry,60km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+63098,sunny,night,dry,60km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+63117,sunny,night,dry,60km/h,150m,truck,100m,none,normal car,approaching,10m,30km/h,normal car
+63153,sunny,night,dry,60km/h,150m,truck,100m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+63192,sunny,night,dry,60km/h,150m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+63220,sunny,night,dry,60km/h,150m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+63602,sunny,night,dry,100km/h,100m,normal car,100m,none,normal car,approaching,10m,50km/h,normal car
+63776,sunny,night,dry,100km/h,100m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+63843,sunny,night,dry,100km/h,100m,truck,100m,none,normal car,approaching,50m,30km/h,normal car
+64185,sunny,night,dry,100km/h,150m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,none
+64245,sunny,night,dry,100km/h,150m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,normal car
+64552,sunny,night,dry,100km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+64719,sunny,night,dry,100km/h,150m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+64769,sunny,night,dry,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+64936,sunny,night,dry,100km/h,200m,normal car,100m,urgent (to hospital),truck,approaching,100m,80km/h,none
+65081,sunny,night,dry,100km/h,200m,normal car,100m,none,emergency vehicle,approaching,100m,50km/h,normal car
+65115,sunny,night,dry,100km/h,200m,normal car,100m,none,truck,approaching,10m,30km/h,normal car
+65221,sunny,night,dry,100km/h,200m,truck,100m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+65529,sunny,night,dry,100km/h,200m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,30km/h,emergency vehicle
+65633,sunny,night,dry,35km/h,10m,normal car,50m,urgent (to hospital),normal car,approaching,50m,50km/h,emergency vehicle
+65647,sunny,night,dry,35km/h,10m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+65855,sunny,night,dry,35km/h,10m,truck,50m,urgent (to hospital),normal car,approaching,100m,50km/h,none
+65915,sunny,night,dry,35km/h,10m,truck,50m,urgent (to hospital),truck,approaching,10m,50km/h,none
+65990,sunny,night,dry,35km/h,10m,truck,50m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+66044,sunny,night,dry,35km/h,10m,truck,50m,none,emergency vehicle,approaching,100m,50km/h,none
+66110,sunny,night,dry,35km/h,10m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,50km/h,normal car
+66211,sunny,night,dry,35km/h,10m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+66423,sunny,night,dry,35km/h,50m,normal car,50m,hurry (commute or flight),normal car,approaching,100m,30km/h,none
+66508,sunny,night,dry,35km/h,50m,normal car,50m,none,normal car,approaching,10m,80km/h,none
+66881,sunny,night,dry,35km/h,50m,emergency vehicle,50m,urgent (to hospital),truck,approaching,100m,50km/h,none
+67162,sunny,night,dry,35km/h,100m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+67328,sunny,night,dry,35km/h,100m,truck,50m,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+67349,sunny,night,dry,35km/h,100m,truck,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,normal car
+67474,sunny,night,dry,35km/h,100m,truck,50m,none,normal car,approaching,100m,80km/h,none
+67596,sunny,night,dry,35km/h,100m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+67717,sunny,night,dry,35km/h,100m,emergency vehicle,50m,none,normal car,approaching,100m,80km/h,none
+67808,sunny,night,dry,60km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,100m,50km/h,normal car
+67827,sunny,night,dry,60km/h,50m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+68024,sunny,night,dry,60km/h,50m,normal car,50m,none,truck,approaching,100m,50km/h,normal car
+68395,sunny,night,dry,60km/h,50m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+69064,sunny,night,dry,60km/h,100m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+69243,sunny,night,dry,60km/h,100m,emergency vehicle,50m,none,truck,approaching,50m,30km/h,normal car
+69276,sunny,night,dry,60km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+69559,sunny,night,dry,60km/h,150m,truck,50m,urgent (to hospital),truck,approaching,10m,80km/h,none
+69595,sunny,night,dry,60km/h,150m,truck,50m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+70264,sunny,night,dry,100km/h,100m,truck,50m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+70402,sunny,night,dry,100km/h,100m,truck,50m,none,normal car,approaching,50m,80km/h,normal car
+70407,sunny,night,dry,100km/h,100m,truck,50m,none,normal car,approaching,10m,30km/h,normal car
+70437,sunny,night,dry,100km/h,100m,truck,50m,none,emergency vehicle,approaching,100m,30km/h,emergency vehicle
+70627,sunny,night,dry,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+70642,sunny,night,dry,100km/h,100m,emergency vehicle,50m,none,normal car,approaching,100m,80km/h,normal car
+70778,sunny,night,dry,100km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+70883,sunny,night,dry,100km/h,150m,normal car,50m,none,normal car,approaching,10m,50km/h,none
+71206,sunny,night,dry,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+71573,sunny,night,dry,100km/h,200m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+71604,sunny,night,dry,100km/h,200m,normal car,50m,hurry (commute or flight),truck,approaching,10m,30km/h,emergency vehicle
+71970,sunny,night,dry,100km/h,200m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+72030,sunny,night,dry,100km/h,200m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+72172,sunny,night,dry,35km/h,10m,normal car,20m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+72409,sunny,night,dry,35km/h,10m,normal car,20m,none,truck,approaching,50m,80km/h,emergency vehicle
+72431,sunny,night,dry,35km/h,10m,truck,20m,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+72870,sunny,night,dry,35km/h,10m,emergency vehicle,20m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+72959,sunny,night,dry,35km/h,50m,normal car,20m,urgent (to hospital),truck,approaching,50m,50km/h,none
+73116,sunny,night,dry,35km/h,50m,normal car,20m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+73477,sunny,night,dry,35km/h,50m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+73585,sunny,night,dry,35km/h,50m,emergency vehicle,20m,none,emergency vehicle,approaching,100m,80km/h,normal car
+73971,sunny,night,dry,35km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+73983,sunny,night,dry,35km/h,100m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+74225,sunny,night,dry,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+74280,sunny,night,dry,35km/h,100m,emergency vehicle,20m,none,normal car,approaching,100m,30km/h,none
+74426,sunny,night,dry,60km/h,50m,normal car,20m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+74811,sunny,night,dry,60km/h,50m,truck,20m,none,emergency vehicle,approaching,100m,30km/h,emergency vehicle
+74883,sunny,night,dry,60km/h,50m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+75005,sunny,night,dry,60km/h,50m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+75200,sunny,night,dry,60km/h,100m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,none
+75338,sunny,night,dry,60km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,10m,50km/h,none
+75462,sunny,night,dry,60km/h,100m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+75468,sunny,night,dry,60km/h,100m,truck,20m,hurry (commute or flight),truck,approaching,100m,30km/h,none
+75526,sunny,night,dry,60km/h,100m,truck,20m,none,emergency vehicle,approaching,10m,80km/h,none
+75557,sunny,night,dry,60km/h,100m,truck,20m,none,truck,approaching,100m,50km/h,normal car
+75944,sunny,night,dry,60km/h,150m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+76080,sunny,night,dry,60km/h,150m,truck,20m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+76139,sunny,night,dry,60km/h,150m,truck,20m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+76201,sunny,night,dry,60km/h,150m,truck,20m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+76283,sunny,night,dry,60km/h,150m,truck,20m,none,truck,approaching,10m,50km/h,none
+76598,sunny,night,dry,100km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+76833,sunny,night,dry,100km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+76953,sunny,night,dry,100km/h,100m,truck,20m,none,normal car,approaching,100m,30km/h,none
+77003,sunny,night,dry,100km/h,100m,truck,20m,none,emergency vehicle,approaching,10m,50km/h,emergency vehicle
+77216,sunny,night,dry,100km/h,100m,emergency vehicle,20m,none,normal car,approaching,50m,50km/h,emergency vehicle
+77270,sunny,night,dry,100km/h,100m,emergency vehicle,20m,none,truck,approaching,50m,50km/h,emergency vehicle
+77502,sunny,night,dry,100km/h,150m,normal car,20m,none,truck,approaching,100m,30km/h,normal car
+77692,sunny,night,dry,100km/h,150m,truck,20m,none,normal car,approaching,50m,80km/h,normal car
+77753,sunny,night,dry,100km/h,150m,truck,20m,none,truck,approaching,100m,50km/h,emergency vehicle
+78160,sunny,night,dry,100km/h,200m,normal car,20m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+78356,sunny,night,dry,100km/h,200m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+78436,sunny,night,dry,100km/h,200m,truck,20m,none,emergency vehicle,approaching,100m,80km/h,none
+78502,sunny,night,dry,100km/h,200m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+78771,sunny,night,wet,35km/h,10m,normal car,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+78824,sunny,night,wet,35km/h,10m,normal car,free,hurry (commute or flight),normal car,approaching,100m,50km/h,normal car
+79094,sunny,night,wet,35km/h,10m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+79112,sunny,night,wet,35km/h,10m,truck,free,hurry (commute or flight),truck,approaching,100m,50km/h,none
+79168,sunny,night,wet,35km/h,10m,truck,free,none,emergency vehicle,approaching,50m,80km/h,none
+79183,sunny,night,wet,35km/h,10m,truck,free,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+79305,sunny,night,wet,35km/h,10m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+79346,sunny,night,wet,35km/h,10m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+79349,sunny,night,wet,35km/h,10m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+79557,sunny,night,wet,35km/h,50m,normal car,free,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+79744,sunny,night,wet,35km/h,50m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+79799,sunny,night,wet,35km/h,50m,truck,free,hurry (commute or flight),normal car,approaching,50m,50km/h,normal car
+80071,sunny,night,wet,35km/h,50m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+80505,sunny,night,wet,35km/h,100m,truck,free,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+80541,sunny,night,wet,35km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+80614,sunny,night,wet,35km/h,100m,truck,free,none,normal car,approaching,100m,80km/h,emergency vehicle
+80684,sunny,night,wet,35km/h,100m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,50km/h,none
+80780,sunny,night,wet,35km/h,100m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+80924,sunny,night,wet,60km/h,50m,normal car,free,urgent (to hospital),normal car,approaching,50m,50km/h,none
+80938,sunny,night,wet,60km/h,50m,normal car,free,urgent (to hospital),normal car,approaching,100m,80km/h,emergency vehicle
+81058,sunny,night,wet,60km/h,50m,normal car,free,hurry (commute or flight),truck,approaching,50m,80km/h,none
+81523,sunny,night,wet,60km/h,50m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,normal car
+81539,sunny,night,wet,60km/h,50m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+81632,sunny,night,wet,60km/h,50m,emergency vehicle,free,none,truck,approaching,100m,50km/h,normal car
+81820,sunny,night,wet,60km/h,100m,normal car,free,none,normal car,approaching,100m,80km/h,normal car
+81884,sunny,night,wet,60km/h,100m,normal car,free,none,truck,approaching,100m,50km/h,emergency vehicle
+81954,sunny,night,wet,60km/h,100m,truck,free,urgent (to hospital),truck,approaching,10m,30km/h,none
+81985,sunny,night,wet,60km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+82023,sunny,night,wet,60km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+82044,sunny,night,wet,60km/h,100m,truck,free,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+82060,sunny,night,wet,60km/h,100m,truck,free,none,normal car,approaching,10m,80km/h,none
+82360,sunny,night,wet,60km/h,100m,emergency vehicle,free,none,truck,approaching,100m,80km/h,normal car
+82632,sunny,night,wet,60km/h,150m,truck,free,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+82857,sunny,night,wet,60km/h,150m,truck,free,none,truck,approaching,100m,30km/h,emergency vehicle
+82879,sunny,night,wet,60km/h,150m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,80km/h,normal car
+82976,sunny,night,wet,60km/h,150m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,none
+83100,sunny,night,wet,60km/h,150m,emergency vehicle,free,none,truck,approaching,100m,30km/h,emergency vehicle
+83129,sunny,night,wet,100km/h,100m,normal car,free,urgent (to hospital),normal car,approaching,50m,50km/h,emergency vehicle
+83459,sunny,night,wet,100km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+83478,sunny,night,wet,100km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+83557,sunny,night,wet,100km/h,100m,truck,free,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+83629,sunny,night,wet,100km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+83758,sunny,night,wet,100km/h,100m,emergency vehicle,free,none,normal car,approaching,50m,80km/h,none
+83775,sunny,night,wet,100km/h,100m,emergency vehicle,free,none,normal car,approaching,100m,30km/h,emergency vehicle
+83842,sunny,night,wet,100km/h,150m,normal car,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+84279,sunny,night,wet,100km/h,150m,truck,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+84399,sunny,night,wet,100km/h,150m,emergency vehicle,free,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+84705,sunny,night,wet,100km/h,200m,normal car,free,hurry (commute or flight),truck,approaching,50m,30km/h,none
+84759,sunny,night,wet,100km/h,200m,normal car,free,none,emergency vehicle,approaching,50m,30km/h,none
+84966,sunny,night,wet,100km/h,200m,truck,free,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+85379,sunny,night,wet,35km/h,10m,normal car,100m,hurry (commute or flight),normal car,approaching,50m,50km/h,none
+85577,sunny,night,wet,35km/h,10m,truck,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+85905,sunny,night,wet,35km/h,10m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,normal car
+85984,sunny,night,wet,35km/h,10m,emergency vehicle,100m,none,emergency vehicle,approaching,10m,80km/h,normal car
+86105,sunny,night,wet,35km/h,50m,normal car,100m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+86244,sunny,night,wet,35km/h,50m,normal car,100m,none,truck,approaching,50m,30km/h,none
+86442,sunny,night,wet,35km/h,50m,truck,100m,none,normal car,approaching,50m,30km/h,normal car
+86655,sunny,night,wet,35km/h,50m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+86790,sunny,night,wet,35km/h,100m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+86836,sunny,night,wet,35km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+86965,sunny,night,wet,35km/h,100m,normal car,100m,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+87093,sunny,night,wet,35km/h,100m,truck,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+87210,sunny,night,wet,35km/h,100m,truck,100m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+87217,sunny,night,wet,35km/h,100m,truck,100m,none,truck,approaching,10m,80km/h,none
+87342,sunny,night,wet,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,50m,30km/h,emergency vehicle
+87460,sunny,night,wet,35km/h,100m,emergency vehicle,100m,none,truck,approaching,10m,80km/h,none
+87625,sunny,night,wet,60km/h,50m,normal car,100m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+87798,sunny,night,wet,60km/h,50m,truck,100m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+88046,sunny,night,wet,60km/h,50m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+88245,sunny,night,wet,60km/h,100m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+88255,sunny,night,wet,60km/h,100m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+88493,sunny,night,wet,60km/h,100m,truck,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+88526,sunny,night,wet,60km/h,100m,truck,100m,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+88597,sunny,night,wet,60km/h,100m,truck,100m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+88740,sunny,night,wet,60km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+88815,sunny,night,wet,60km/h,100m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,normal car
+88892,sunny,night,wet,60km/h,100m,emergency vehicle,100m,none,emergency vehicle,approaching,10m,50km/h,none
+88896,sunny,night,wet,60km/h,100m,emergency vehicle,100m,none,emergency vehicle,approaching,100m,30km/h,normal car
+89123,sunny,night,wet,60km/h,150m,normal car,100m,none,normal car,approaching,50m,50km/h,emergency vehicle
+89161,sunny,night,wet,60km/h,150m,normal car,100m,none,truck,approaching,10m,80km/h,none
+89199,sunny,night,wet,60km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+89306,sunny,night,wet,60km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,normal car
+89482,sunny,night,wet,60km/h,150m,emergency vehicle,100m,urgent (to hospital),truck,approaching,50m,80km/h,none
+89666,sunny,night,wet,60km/h,150m,emergency vehicle,100m,none,truck,approaching,10m,50km/h,emergency vehicle
+89776,sunny,night,wet,100km/h,100m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+89881,sunny,night,wet,100km/h,100m,normal car,100m,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+89930,sunny,night,wet,100km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+90040,sunny,night,wet,100km/h,100m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+90079,sunny,night,wet,100km/h,100m,truck,100m,none,normal car,approaching,10m,80km/h,none
+90109,sunny,night,wet,100km/h,100m,truck,100m,none,emergency vehicle,approaching,100m,80km/h,normal car
+90189,sunny,night,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+90661,sunny,night,wet,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+90738,sunny,night,wet,100km/h,150m,truck,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,normal car
+90779,sunny,night,wet,100km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+90797,sunny,night,wet,100km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,50m,50km/h,emergency vehicle
+90885,sunny,night,wet,100km/h,150m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+91202,sunny,night,wet,100km/h,200m,normal car,100m,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+91446,sunny,night,wet,100km/h,200m,truck,100m,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+91525,sunny,night,wet,100km/h,200m,truck,100m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+91537,sunny,night,wet,100km/h,200m,truck,100m,none,normal car,approaching,10m,80km/h,none
+91818,sunny,night,wet,100km/h,200m,emergency vehicle,100m,none,emergency vehicle,approaching,10m,30km/h,normal car
+92024,sunny,night,wet,35km/h,10m,normal car,50m,none,normal car,approaching,10m,50km/h,none
+92281,sunny,night,wet,35km/h,10m,truck,50m,none,normal car,approaching,50m,80km/h,emergency vehicle
+92360,sunny,night,wet,35km/h,10m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+92619,sunny,night,wet,35km/h,50m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+92797,sunny,night,wet,35km/h,50m,normal car,50m,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+93147,sunny,night,wet,35km/h,50m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+93215,sunny,night,wet,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+93337,sunny,night,wet,35km/h,100m,normal car,50m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+93364,sunny,night,wet,35km/h,100m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+93370,sunny,night,wet,35km/h,100m,normal car,50m,urgent (to hospital),truck,approaching,50m,80km/h,none
+93587,sunny,night,wet,35km/h,100m,truck,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,none
+93593,sunny,night,wet,35km/h,100m,truck,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,normal car
+93856,sunny,night,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,80km/h,none
+93867,sunny,night,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+94107,sunny,night,wet,60km/h,50m,normal car,50m,urgent (to hospital),truck,approaching,100m,30km/h,normal car
+94179,sunny,night,wet,60km/h,50m,normal car,50m,hurry (commute or flight),truck,approaching,100m,30km/h,none
+94421,sunny,night,wet,60km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+94482,sunny,night,wet,60km/h,50m,truck,50m,none,emergency vehicle,approaching,10m,30km/h,none
+94695,sunny,night,wet,60km/h,50m,emergency vehicle,50m,none,normal car,approaching,50m,30km/h,none
+94763,sunny,night,wet,60km/h,50m,emergency vehicle,50m,none,truck,approaching,100m,50km/h,emergency vehicle
+94988,sunny,night,wet,60km/h,100m,normal car,50m,none,truck,approaching,100m,50km/h,none
+95089,sunny,night,wet,60km/h,100m,truck,50m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+95110,sunny,night,wet,60km/h,100m,truck,50m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+95394,sunny,night,wet,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,100m,30km/h,none
+95538,sunny,night,wet,60km/h,150m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,normal car
+95664,sunny,night,wet,60km/h,150m,normal car,50m,none,normal car,approaching,100m,30km/h,none
+95667,sunny,night,wet,60km/h,150m,normal car,50m,none,normal car,approaching,50m,30km/h,none
+95862,sunny,night,wet,60km/h,150m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,normal car
+95909,sunny,night,wet,60km/h,150m,truck,50m,none,normal car,approaching,50m,50km/h,none
+95944,sunny,night,wet,60km/h,150m,truck,50m,none,emergency vehicle,approaching,50m,80km/h,normal car
+96137,sunny,night,wet,60km/h,150m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+96175,sunny,night,wet,60km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,80km/h,none
+96190,sunny,night,wet,60km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,10m,80km/h,normal car
+96292,sunny,night,wet,100km/h,100m,normal car,50m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+96416,sunny,night,wet,100km/h,100m,normal car,50m,none,normal car,approaching,10m,50km/h,emergency vehicle
+96552,sunny,night,wet,100km/h,100m,truck,50m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+96964,sunny,night,wet,100km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+97051,sunny,night,wet,100km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,normal car
+97370,sunny,night,wet,100km/h,150m,truck,50m,none,normal car,approaching,10m,50km/h,none
+97378,sunny,night,wet,100km/h,150m,truck,50m,none,normal car,approaching,10m,80km/h,normal car
+97608,sunny,night,wet,100km/h,150m,emergency vehicle,50m,none,normal car,approaching,100m,30km/h,none
+97656,sunny,night,wet,100km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+97746,sunny,night,wet,100km/h,200m,normal car,50m,urgent (to hospital),truck,approaching,50m,30km/h,none
+97809,sunny,night,wet,100km/h,200m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+97878,sunny,night,wet,100km/h,200m,normal car,50m,none,emergency vehicle,approaching,100m,30km/h,none
+97917,sunny,night,wet,100km/h,200m,normal car,50m,none,truck,approaching,50m,30km/h,normal car
+98071,sunny,night,wet,100km/h,200m,truck,50m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+98126,sunny,night,wet,100km/h,200m,truck,50m,none,emergency vehicle,approaching,10m,50km/h,none
+98141,sunny,night,wet,100km/h,200m,truck,50m,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+98144,sunny,night,wet,100km/h,200m,truck,50m,none,emergency vehicle,approaching,10m,50km/h,emergency vehicle
+98462,sunny,night,wet,35km/h,10m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+98496,sunny,night,wet,35km/h,10m,normal car,20m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+98710,sunny,night,wet,35km/h,10m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+98768,sunny,night,wet,35km/h,10m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+98937,sunny,night,wet,35km/h,10m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+98982,sunny,night,wet,35km/h,10m,emergency vehicle,20m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+99020,sunny,night,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+99085,sunny,night,wet,35km/h,10m,emergency vehicle,20m,none,normal car,approaching,50m,80km/h,emergency vehicle
+99147,sunny,night,wet,35km/h,50m,normal car,20m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+99227,sunny,night,wet,35km/h,50m,normal car,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+99463,sunny,night,wet,35km/h,50m,truck,20m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+99506,sunny,night,wet,35km/h,50m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+99538,sunny,night,wet,35km/h,50m,truck,20m,hurry (commute or flight),truck,approaching,10m,80km/h,normal car
+99544,sunny,night,wet,35km/h,50m,truck,20m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+99713,sunny,night,wet,35km/h,50m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+99842,sunny,night,wet,35km/h,50m,emergency vehicle,20m,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+100061,sunny,night,wet,35km/h,100m,normal car,20m,none,normal car,approaching,10m,50km/h,emergency vehicle
+100099,sunny,night,wet,35km/h,100m,normal car,20m,none,truck,approaching,100m,80km/h,normal car
+100173,sunny,night,wet,35km/h,100m,truck,20m,urgent (to hospital),truck,approaching,100m,30km/h,none
+100240,sunny,night,wet,35km/h,100m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+100288,sunny,night,wet,35km/h,100m,truck,20m,none,normal car,approaching,100m,80km/h,normal car
+100304,sunny,night,wet,35km/h,100m,truck,20m,none,normal car,approaching,10m,50km/h,emergency vehicle
+100468,sunny,night,wet,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+100515,sunny,night,wet,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,30km/h,emergency vehicle
+100655,sunny,night,wet,60km/h,50m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+101113,sunny,night,wet,60km/h,50m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+101331,sunny,night,wet,60km/h,50m,emergency vehicle,20m,none,truck,approaching,10m,30km/h,emergency vehicle
+101342,sunny,night,wet,60km/h,100m,normal car,20m,urgent (to hospital),normal car,approaching,100m,50km/h,normal car
+101356,sunny,night,wet,60km/h,100m,normal car,20m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+101586,sunny,night,wet,60km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+101731,sunny,night,wet,60km/h,100m,truck,20m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+101823,sunny,night,wet,60km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,30km/h,none
+102044,sunny,night,wet,60km/h,100m,emergency vehicle,20m,none,truck,approaching,100m,50km/h,normal car
+102375,sunny,night,wet,60km/h,150m,truck,20m,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+102415,sunny,night,wet,60km/h,150m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+102446,sunny,night,wet,60km/h,150m,truck,20m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+102464,sunny,night,wet,60km/h,150m,truck,20m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+102589,sunny,night,wet,60km/h,150m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,normal car
+102685,sunny,night,wet,60km/h,150m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,80km/h,none
+102897,sunny,night,wet,100km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+102915,sunny,night,wet,100km/h,100m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,normal car
+103227,sunny,night,wet,100km/h,100m,truck,20m,none,emergency vehicle,approaching,50m,30km/h,none
+103671,sunny,night,wet,100km/h,150m,normal car,20m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+103980,sunny,night,wet,100km/h,150m,truck,20m,none,truck,approaching,100m,30km/h,none
+104068,sunny,night,wet,100km/h,150m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+104105,sunny,night,wet,100km/h,150m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,emergency vehicle
+104400,sunny,night,wet,100km/h,200m,normal car,20m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+104559,sunny,night,wet,100km/h,200m,truck,20m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+104880,sunny,night,wet,100km/h,200m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+104922,sunny,night,wet,100km/h,200m,emergency vehicle,20m,none,normal car,approaching,10m,30km/h,emergency vehicle
+105126,rainy,day,dry,35km/h,10m,normal car,free,hurry (commute or flight),truck,approaching,50m,30km/h,normal car
+105172,rainy,day,dry,35km/h,10m,normal car,free,none,emergency vehicle,approaching,10m,80km/h,none
+105180,rainy,day,dry,35km/h,10m,normal car,free,none,emergency vehicle,approaching,50m,30km/h,normal car
+105306,rainy,day,dry,35km/h,10m,truck,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+105337,rainy,day,dry,35km/h,10m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,normal car
+105431,rainy,day,dry,35km/h,10m,truck,free,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+105692,rainy,day,dry,35km/h,10m,emergency vehicle,free,none,truck,approaching,50m,50km/h,normal car
+105975,rainy,day,dry,35km/h,50m,truck,free,urgent (to hospital),normal car,approaching,10m,30km/h,emergency vehicle
+106241,rainy,day,dry,35km/h,50m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+106282,rainy,day,dry,35km/h,50m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+106405,rainy,day,dry,35km/h,50m,emergency vehicle,free,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+106502,rainy,day,dry,35km/h,100m,normal car,free,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+107085,rainy,day,dry,35km/h,100m,emergency vehicle,free,none,normal car,approaching,100m,30km/h,none
+107199,rainy,day,dry,60km/h,50m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+107434,rainy,day,dry,60km/h,50m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,none
+107517,rainy,day,dry,60km/h,50m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+107587,rainy,day,dry,60km/h,50m,truck,free,none,normal car,approaching,100m,80km/h,emergency vehicle
+107825,rainy,day,dry,60km/h,50m,emergency vehicle,free,none,normal car,approaching,50m,50km/h,normal car
+107911,rainy,day,dry,60km/h,100m,normal car,free,urgent (to hospital),normal car,approaching,100m,80km/h,emergency vehicle
+107917,rainy,day,dry,60km/h,100m,normal car,free,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+108080,rainy,day,dry,60km/h,100m,normal car,free,none,normal car,approaching,10m,50km/h,emergency vehicle
+108138,rainy,day,dry,60km/h,100m,truck,free,urgent (to hospital),normal car,approaching,100m,30km/h,none
+108219,rainy,day,dry,60km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,100m,30km/h,none
+108222,rainy,day,dry,60km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+108484,rainy,day,dry,60km/h,100m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,80km/h,emergency vehicle
+108623,rainy,day,dry,60km/h,150m,normal car,free,urgent (to hospital),normal car,approaching,100m,50km/h,none
+109139,rainy,day,dry,60km/h,150m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,none
+109202,rainy,day,dry,60km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,50km/h,normal car
+109254,rainy,day,dry,60km/h,150m,emergency vehicle,free,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+109308,rainy,day,dry,60km/h,150m,emergency vehicle,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+109570,rainy,day,dry,100km/h,100m,normal car,free,none,truck,approaching,50m,80km/h,none
+109582,rainy,day,dry,100km/h,100m,normal car,free,none,truck,approaching,10m,80km/h,normal car
+109678,rainy,day,dry,100km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+109843,rainy,day,dry,100km/h,100m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+110097,rainy,day,dry,100km/h,150m,normal car,free,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+110142,rainy,day,dry,100km/h,150m,normal car,free,urgent (to hospital),truck,approaching,10m,30km/h,none
+110439,rainy,day,dry,100km/h,150m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,none
+110514,rainy,day,dry,100km/h,150m,truck,free,none,emergency vehicle,approaching,100m,30km/h,none
+110674,rainy,day,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+110689,rainy,day,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car
+110816,rainy,day,dry,100km/h,200m,normal car,free,urgent (to hospital),normal car,approaching,10m,50km/h,none
+110903,rainy,day,dry,100km/h,200m,normal car,free,hurry (commute or flight),normal car,approaching,50m,50km/h,normal car
+111021,rainy,day,dry,100km/h,200m,normal car,free,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+111102,rainy,day,dry,100km/h,200m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+111155,rainy,day,dry,100km/h,200m,truck,free,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+111225,rainy,day,dry,100km/h,200m,truck,free,none,normal car,approaching,100m,30km/h,normal car
+111245,rainy,day,dry,100km/h,200m,truck,free,none,emergency vehicle,approaching,50m,50km/h,none
+111323,rainy,day,dry,100km/h,200m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+111495,rainy,day,dry,100km/h,200m,emergency vehicle,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+111584,rainy,day,dry,35km/h,10m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+111749,rainy,day,dry,35km/h,10m,normal car,100m,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+111860,rainy,day,dry,35km/h,10m,truck,100m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+111992,rainy,day,dry,35km/h,10m,truck,100m,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+112157,rainy,day,dry,35km/h,10m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+112336,rainy,day,dry,35km/h,50m,normal car,100m,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+112426,rainy,day,dry,35km/h,50m,normal car,100m,hurry (commute or flight),truck,approaching,10m,80km/h,emergency vehicle
+112680,rainy,day,dry,35km/h,50m,truck,100m,none,normal car,approaching,10m,30km/h,none
+112772,rainy,day,dry,35km/h,50m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+112990,rainy,day,dry,35km/h,50m,emergency vehicle,100m,none,truck,approaching,50m,80km/h,emergency vehicle
+113457,rainy,day,dry,35km/h,100m,truck,100m,none,truck,approaching,100m,30km/h,none
+113589,rainy,day,dry,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+113751,rainy,day,dry,60km/h,50m,normal car,100m,urgent (to hospital),normal car,approaching,10m,30km/h,emergency vehicle
+113833,rainy,day,dry,60km/h,50m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+114108,rainy,day,dry,60km/h,50m,truck,100m,hurry (commute or flight),truck,approaching,50m,30km/h,none
+114246,rainy,day,dry,60km/h,50m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+114515,rainy,day,dry,60km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,10m,50km/h,none
+114658,rainy,day,dry,60km/h,100m,normal car,100m,none,emergency vehicle,approaching,10m,80km/h,normal car
+115123,rainy,day,dry,60km/h,100m,emergency vehicle,100m,none,normal car,approaching,50m,80km/h,emergency vehicle
+115126,rainy,day,dry,60km/h,100m,emergency vehicle,100m,none,normal car,approaching,10m,80km/h,emergency vehicle
+115203,rainy,day,dry,60km/h,150m,normal car,100m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+115616,rainy,day,dry,60km/h,150m,truck,100m,none,emergency vehicle,approaching,100m,50km/h,none
+115639,rainy,day,dry,60km/h,150m,truck,100m,none,emergency vehicle,approaching,10m,80km/h,emergency vehicle
+116195,rainy,day,dry,100km/h,100m,truck,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+116467,rainy,day,dry,100km/h,100m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+116710,rainy,day,dry,100km/h,150m,normal car,100m,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+116779,rainy,day,dry,100km/h,150m,normal car,100m,hurry (commute or flight),truck,approaching,50m,80km/h,none
+116893,rainy,day,dry,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,100m,80km/h,normal car
+116903,rainy,day,dry,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+116996,rainy,day,dry,100km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,none
+117107,rainy,day,dry,100km/h,150m,truck,100m,none,truck,approaching,10m,50km/h,none
+117170,rainy,day,dry,100km/h,150m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+117260,rainy,day,dry,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+117326,rainy,day,dry,100km/h,150m,emergency vehicle,100m,none,emergency vehicle,approaching,100m,50km/h,normal car
+117506,rainy,day,dry,100km/h,200m,normal car,100m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+117574,rainy,day,dry,100km/h,200m,normal car,100m,none,emergency vehicle,approaching,10m,80km/h,normal car
+117625,rainy,day,dry,100km/h,200m,truck,100m,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+117637,rainy,day,dry,100km/h,200m,truck,100m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+117643,rainy,day,dry,100km/h,200m,truck,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+118139,rainy,day,dry,35km/h,10m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+118420,rainy,day,dry,35km/h,10m,truck,50m,urgent (to hospital),truck,approaching,10m,80km/h,emergency vehicle
+118775,rainy,day,dry,35km/h,10m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,50km/h,none
+118853,rainy,day,dry,35km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+118930,rainy,day,dry,35km/h,50m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,emergency vehicle
+119056,rainy,day,dry,35km/h,50m,normal car,50m,none,truck,approaching,50m,80km/h,normal car
+119117,rainy,day,dry,35km/h,50m,truck,50m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+119207,rainy,day,dry,35km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+119227,rainy,day,dry,35km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+119254,rainy,day,dry,35km/h,50m,truck,50m,none,normal car,approaching,50m,80km/h,emergency vehicle
+119324,rainy,day,dry,35km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,50km/h,normal car
+119334,rainy,day,dry,35km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+119354,rainy,day,dry,35km/h,50m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+119377,rainy,day,dry,35km/h,50m,emergency vehicle,50m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+119709,rainy,day,dry,35km/h,100m,normal car,50m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+119793,rainy,day,dry,35km/h,100m,normal car,50m,none,truck,approaching,100m,30km/h,emergency vehicle
+119911,rainy,day,dry,35km/h,100m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+119983,rainy,day,dry,35km/h,100m,truck,50m,none,normal car,approaching,50m,80km/h,emergency vehicle
+120292,rainy,day,dry,60km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+120436,rainy,day,dry,60km/h,50m,normal car,50m,hurry (commute or flight),truck,approaching,10m,80km/h,normal car
+120696,rainy,day,dry,60km/h,50m,truck,50m,none,normal car,approaching,50m,30km/h,none
+120724,rainy,day,dry,60km/h,50m,truck,50m,none,emergency vehicle,approaching,10m,80km/h,none
+120772,rainy,day,dry,60km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+120811,rainy,day,dry,60km/h,50m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,normal car
+120867,rainy,day,dry,60km/h,50m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+120941,rainy,day,dry,60km/h,50m,emergency vehicle,50m,none,normal car,approaching,10m,50km/h,none
+121221,rainy,day,dry,60km/h,100m,normal car,50m,none,emergency vehicle,approaching,10m,30km/h,normal car
+121556,rainy,day,dry,60km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,100m,50km/h,none
+121612,rainy,day,dry,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+121623,rainy,day,dry,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+121694,rainy,day,dry,60km/h,100m,emergency vehicle,50m,none,emergency vehicle,approaching,50m,50km/h,none
+121742,rainy,day,dry,60km/h,100m,emergency vehicle,50m,none,truck,approaching,10m,50km/h,emergency vehicle
+121815,rainy,day,dry,60km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+121829,rainy,day,dry,60km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,50km/h,none
+121929,rainy,day,dry,60km/h,150m,normal car,50m,none,normal car,approaching,50m,30km/h,emergency vehicle
+122075,rainy,day,dry,60km/h,150m,truck,50m,hurry (commute or flight),normal car,approaching,10m,50km/h,none
+122199,rainy,day,dry,60km/h,150m,truck,50m,none,emergency vehicle,approaching,50m,30km/h,emergency vehicle
+122247,rainy,day,dry,60km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+122555,rainy,day,dry,100km/h,100m,normal car,50m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+122629,rainy,day,dry,100km/h,100m,normal car,50m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+122697,rainy,day,dry,100km/h,100m,normal car,50m,none,truck,approaching,10m,30km/h,none
+122827,rainy,day,dry,100km/h,100m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+123033,rainy,day,dry,100km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+123066,rainy,day,dry,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+123227,rainy,day,dry,100km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+123507,rainy,day,dry,100km/h,150m,truck,50m,urgent (to hospital),truck,approaching,10m,30km/h,none
+123535,rainy,day,dry,100km/h,150m,truck,50m,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+123701,rainy,day,dry,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,50km/h,normal car
+123823,rainy,day,dry,100km/h,150m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,100m,80km/h,none
+123842,rainy,day,dry,100km/h,150m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+123889,rainy,day,dry,100km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,50m,80km/h,normal car
+123921,rainy,day,dry,100km/h,150m,emergency vehicle,50m,none,truck,approaching,10m,30km/h,normal car
+123931,rainy,day,dry,100km/h,200m,normal car,50m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+123947,rainy,day,dry,100km/h,200m,normal car,50m,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+124146,rainy,day,dry,100km/h,200m,normal car,50m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+124248,rainy,day,dry,100km/h,200m,truck,50m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+124611,rainy,day,dry,100km/h,200m,emergency vehicle,50m,none,emergency vehicle,approaching,50m,30km/h,none
+124654,rainy,day,dry,100km/h,200m,emergency vehicle,50m,none,truck,approaching,50m,80km/h,emergency vehicle
+124953,rainy,day,dry,35km/h,10m,truck,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+125036,rainy,day,dry,35km/h,10m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+125247,rainy,day,dry,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+125274,rainy,day,dry,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+125345,rainy,day,dry,35km/h,10m,emergency vehicle,20m,none,emergency vehicle,approaching,100m,50km/h,normal car
+125360,rainy,day,dry,35km/h,10m,emergency vehicle,20m,none,emergency vehicle,approaching,10m,50km/h,emergency vehicle
+125716,rainy,day,dry,35km/h,50m,truck,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+125761,rainy,day,dry,35km/h,50m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+125838,rainy,day,dry,35km/h,50m,truck,20m,none,emergency vehicle,approaching,10m,30km/h,normal car
+125920,rainy,day,dry,35km/h,50m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+126461,rainy,day,dry,35km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,emergency vehicle
+126837,rainy,day,dry,35km/h,100m,emergency vehicle,20m,none,truck,approaching,10m,30km/h,normal car
+126883,rainy,day,dry,60km/h,50m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+127366,rainy,day,dry,60km/h,50m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+127454,rainy,day,dry,60km/h,50m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,normal car
+127503,rainy,day,dry,60km/h,50m,emergency vehicle,20m,none,normal car,approaching,10m,30km/h,none
+127655,rainy,day,dry,60km/h,100m,normal car,20m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+127726,rainy,day,dry,60km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,10m,80km/h,normal car
+128010,rainy,day,dry,60km/h,100m,truck,20m,none,emergency vehicle,approaching,100m,30km/h,none
+128056,rainy,day,dry,60km/h,100m,truck,20m,none,truck,approaching,50m,80km/h,emergency vehicle
+128419,rainy,day,dry,60km/h,150m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+128449,rainy,day,dry,60km/h,150m,normal car,20m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+128619,rainy,day,dry,60km/h,150m,truck,20m,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+128986,rainy,day,dry,60km/h,150m,emergency vehicle,20m,none,emergency vehicle,approaching,10m,80km/h,none
+129011,rainy,day,dry,60km/h,150m,emergency vehicle,20m,none,truck,approaching,50m,50km/h,none
+129104,rainy,day,dry,100km/h,100m,normal car,20m,urgent (to hospital),truck,approaching,10m,50km/h,normal car
+129196,rainy,day,dry,100km/h,100m,normal car,20m,none,normal car,approaching,100m,80km/h,none
+129541,rainy,day,dry,100km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+129727,rainy,day,dry,100km/h,100m,emergency vehicle,20m,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+129761,rainy,day,dry,100km/h,100m,emergency vehicle,20m,none,truck,approaching,10m,50km/h,emergency vehicle
+129954,rainy,day,dry,100km/h,150m,normal car,20m,none,emergency vehicle,approaching,100m,30km/h,none
+129996,rainy,day,dry,100km/h,150m,normal car,20m,none,truck,approaching,10m,30km/h,normal car
+130213,rainy,day,dry,100km/h,150m,truck,20m,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+130369,rainy,day,dry,100km/h,150m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,normal car
+130507,rainy,day,dry,100km/h,200m,normal car,20m,urgent (to hospital),normal car,approaching,10m,80km/h,normal car
+130601,rainy,day,dry,100km/h,200m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+131080,rainy,day,dry,100km/h,200m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,emergency vehicle
+131176,rainy,day,dry,100km/h,200m,emergency vehicle,20m,none,emergency vehicle,approaching,100m,80km/h,normal car
+131247,rainy,day,wet,35km/h,10m,normal car,free,urgent (to hospital),normal car,approaching,10m,30km/h,emergency vehicle
+131287,rainy,day,wet,35km/h,10m,normal car,free,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+131443,rainy,day,wet,35km/h,10m,normal car,free,none,truck,approaching,10m,80km/h,none
+131527,rainy,day,wet,35km/h,10m,truck,free,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+131724,rainy,day,wet,35km/h,10m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+131789,rainy,day,wet,35km/h,10m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+132060,rainy,day,wet,35km/h,50m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+132241,rainy,day,wet,35km/h,50m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+132338,rainy,day,wet,35km/h,50m,truck,free,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+132350,rainy,day,wet,35km/h,50m,truck,free,hurry (commute or flight),truck,approaching,50m,50km/h,emergency vehicle
+132537,rainy,day,wet,35km/h,50m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+132554,rainy,day,wet,35km/h,50m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+132616,rainy,day,wet,35km/h,50m,emergency vehicle,free,none,normal car,approaching,100m,80km/h,emergency vehicle
+133094,rainy,day,wet,35km/h,100m,truck,free,none,normal car,approaching,100m,50km/h,normal car
+133494,rainy,day,wet,60km/h,50m,normal car,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+133695,rainy,day,wet,60km/h,50m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+133900,rainy,day,wet,60km/h,50m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+134074,rainy,day,wet,60km/h,50m,emergency vehicle,free,none,normal car,approaching,100m,80km/h,emergency vehicle
+134156,rainy,day,wet,60km/h,100m,normal car,free,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+134161,rainy,day,wet,60km/h,100m,normal car,free,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+134180,rainy,day,wet,60km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+134300,rainy,day,wet,60km/h,100m,normal car,free,none,normal car,approaching,100m,50km/h,none
+134457,rainy,day,wet,60km/h,100m,truck,free,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+134549,rainy,day,wet,60km/h,100m,truck,free,none,normal car,approaching,10m,50km/h,none
+134657,rainy,day,wet,60km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,none
+134720,rainy,day,wet,60km/h,100m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+134740,rainy,day,wet,60km/h,100m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,normal car
+134768,rainy,day,wet,60km/h,100m,emergency vehicle,free,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+135094,rainy,day,wet,60km/h,150m,normal car,free,none,truck,approaching,50m,80km/h,normal car
+135099,rainy,day,wet,60km/h,150m,normal car,free,none,truck,approaching,10m,30km/h,normal car
+135115,rainy,day,wet,60km/h,150m,truck,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+135421,rainy,day,wet,60km/h,150m,emergency vehicle,free,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+135581,rainy,day,wet,60km/h,150m,emergency vehicle,free,none,truck,approaching,50m,50km/h,normal car
+135746,rainy,day,wet,100km/h,100m,normal car,free,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+135846,rainy,day,wet,100km/h,100m,truck,free,urgent (to hospital),normal car,approaching,10m,30km/h,none
+135979,rainy,day,wet,100km/h,100m,truck,free,hurry (commute or flight),truck,approaching,10m,80km/h,none
+136054,rainy,day,wet,100km/h,100m,truck,free,none,truck,approaching,100m,80km/h,none
+136104,rainy,day,wet,100km/h,100m,emergency vehicle,free,urgent (to hospital),normal car,approaching,50m,30km/h,emergency vehicle
+136229,rainy,day,wet,100km/h,100m,emergency vehicle,free,hurry (commute or flight),truck,approaching,50m,50km/h,normal car
+136388,rainy,day,wet,100km/h,150m,normal car,free,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+136410,rainy,day,wet,100km/h,150m,normal car,free,hurry (commute or flight),normal car,approaching,50m,30km/h,none
+136501,rainy,day,wet,100km/h,150m,normal car,free,none,normal car,approaching,10m,80km/h,normal car
+136592,rainy,day,wet,100km/h,150m,truck,free,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+136610,rainy,day,wet,100km/h,150m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+136806,rainy,day,wet,100km/h,150m,truck,free,none,truck,approaching,50m,30km/h,emergency vehicle
+136821,rainy,day,wet,100km/h,150m,emergency vehicle,free,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+137207,rainy,day,wet,100km/h,200m,normal car,free,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+137269,rainy,day,wet,100km/h,200m,normal car,free,none,truck,approaching,100m,80km/h,none
+137326,rainy,day,wet,100km/h,200m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+137347,rainy,day,wet,100km/h,200m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+137782,rainy,day,wet,35km/h,10m,normal car,100m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+137920,rainy,day,wet,35km/h,10m,normal car,100m,hurry (commute or flight),truck,approaching,50m,80km/h,none
+138110,rainy,day,wet,35km/h,10m,truck,100m,hurry (commute or flight),normal car,approaching,50m,50km/h,none
+138126,rainy,day,wet,35km/h,10m,truck,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+138322,rainy,day,wet,35km/h,10m,emergency vehicle,100m,urgent (to hospital),truck,approaching,100m,80km/h,none
+138608,rainy,day,wet,35km/h,50m,normal car,100m,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+138730,rainy,day,wet,35km/h,50m,normal car,100m,none,truck,approaching,50m,80km/h,none
+139438,rainy,day,wet,35km/h,100m,normal car,100m,none,emergency vehicle,approaching,100m,80km/h,normal car
+139497,rainy,day,wet,35km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+140024,rainy,day,wet,60km/h,50m,normal car,100m,urgent (to hospital),truck,approaching,100m,50km/h,none
+140155,rainy,day,wet,60km/h,50m,normal car,100m,none,normal car,approaching,10m,80km/h,emergency vehicle
+140308,rainy,day,wet,60km/h,50m,truck,100m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+140427,rainy,day,wet,60km/h,50m,truck,100m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+140569,rainy,day,wet,60km/h,50m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+140598,rainy,day,wet,60km/h,50m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,30km/h,none
+140634,rainy,day,wet,60km/h,50m,emergency vehicle,100m,none,normal car,approaching,10m,30km/h,normal car
+140665,rainy,day,wet,60km/h,50m,emergency vehicle,100m,none,emergency vehicle,approaching,50m,80km/h,emergency vehicle
+140714,rainy,day,wet,60km/h,100m,normal car,100m,urgent (to hospital),normal car,approaching,10m,50km/h,normal car
+140732,rainy,day,wet,60km/h,100m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,none
+140800,rainy,day,wet,60km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,50m,80km/h,emergency vehicle
+140969,rainy,day,wet,60km/h,100m,truck,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+141115,rainy,day,wet,60km/h,100m,truck,100m,none,normal car,approaching,50m,80km/h,normal car
+141205,rainy,day,wet,60km/h,100m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+141335,rainy,day,wet,60km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+141495,rainy,day,wet,60km/h,150m,normal car,100m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+141512,rainy,day,wet,60km/h,150m,normal car,100m,hurry (commute or flight),normal car,approaching,50m,50km/h,none
+141783,rainy,day,wet,60km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,none
+142173,rainy,day,wet,100km/h,100m,normal car,100m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+142235,rainy,day,wet,100km/h,100m,normal car,100m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+142338,rainy,day,wet,100km/h,100m,normal car,100m,none,normal car,approaching,100m,30km/h,emergency vehicle
+142349,rainy,day,wet,100km/h,100m,normal car,100m,none,emergency vehicle,approaching,50m,50km/h,none
+142385,rainy,day,wet,100km/h,100m,normal car,100m,none,truck,approaching,50m,50km/h,normal car
+142409,rainy,day,wet,100km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,100m,50km/h,normal car
+142434,rainy,day,wet,100km/h,100m,truck,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+142672,rainy,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+142721,rainy,day,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,50km/h,emergency vehicle
+142859,rainy,day,wet,100km/h,100m,emergency vehicle,100m,none,truck,approaching,100m,50km/h,none
+142910,rainy,day,wet,100km/h,150m,normal car,100m,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+143048,rainy,day,wet,100km/h,150m,normal car,100m,none,normal car,approaching,100m,50km/h,none
+143137,rainy,day,wet,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,100m,80km/h,normal car
+143152,rainy,day,wet,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+143614,rainy,day,wet,100km/h,200m,normal car,100m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+143765,rainy,day,wet,100km/h,200m,normal car,100m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+143766,rainy,day,wet,100km/h,200m,normal car,100m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+143815,rainy,day,wet,100km/h,200m,normal car,100m,none,emergency vehicle,approaching,50m,80km/h,normal car
+144042,rainy,day,wet,100km/h,200m,truck,100m,none,normal car,approaching,50m,30km/h,emergency vehicle
+144068,rainy,day,wet,100km/h,200m,truck,100m,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+144266,rainy,day,wet,100km/h,200m,emergency vehicle,100m,none,normal car,approaching,50m,50km/h,none
+144316,rainy,day,wet,100km/h,200m,emergency vehicle,100m,none,truck,approaching,100m,80km/h,none
+144340,rainy,day,wet,100km/h,200m,emergency vehicle,100m,none,truck,approaching,10m,80km/h,emergency vehicle
+144553,rainy,day,wet,35km/h,10m,normal car,50m,none,emergency vehicle,approaching,50m,80km/h,emergency vehicle
+144613,rainy,day,wet,35km/h,10m,truck,50m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,none
+144619,rainy,day,wet,35km/h,10m,truck,50m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+144697,rainy,day,wet,35km/h,10m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,none
+144938,rainy,day,wet,35km/h,10m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+145581,rainy,day,wet,35km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,30km/h,emergency vehicle
+145670,rainy,day,wet,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,none
+145679,rainy,day,wet,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,normal car
+145968,rainy,day,wet,35km/h,100m,normal car,50m,none,normal car,approaching,50m,30km/h,none
+145989,rainy,day,wet,35km/h,100m,normal car,50m,none,normal car,approaching,10m,30km/h,emergency vehicle
+146229,rainy,day,wet,35km/h,100m,truck,50m,none,normal car,approaching,50m,30km/h,emergency vehicle
+146428,rainy,day,wet,35km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+146532,rainy,day,wet,60km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+146737,rainy,day,wet,60km/h,50m,normal car,50m,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+146915,rainy,day,wet,60km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+146976,rainy,day,wet,60km/h,50m,truck,50m,none,emergency vehicle,approaching,50m,30km/h,normal car
+147018,rainy,day,wet,60km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+147304,rainy,day,wet,60km/h,100m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+147366,rainy,day,wet,60km/h,100m,normal car,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+147687,rainy,day,wet,60km/h,100m,truck,50m,none,normal car,approaching,50m,30km/h,emergency vehicle
+147693,rainy,day,wet,60km/h,100m,truck,50m,none,emergency vehicle,approaching,100m,30km/h,none
+147695,rainy,day,wet,60km/h,100m,truck,50m,none,emergency vehicle,approaching,50m,50km/h,none
+147745,rainy,day,wet,60km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+147992,rainy,day,wet,60km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,50m,50km/h,none
+148089,rainy,day,wet,60km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+148243,rainy,day,wet,60km/h,150m,truck,50m,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+148551,rainy,day,wet,60km/h,150m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+148571,rainy,day,wet,60km/h,150m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,50km/h,normal car
+148582,rainy,day,wet,60km/h,150m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+148596,rainy,day,wet,60km/h,150m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+148697,rainy,day,wet,60km/h,150m,emergency vehicle,50m,none,truck,approaching,10m,50km/h,none
+148839,rainy,day,wet,100km/h,100m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+148971,rainy,day,wet,100km/h,100m,truck,50m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+149049,rainy,day,wet,100km/h,100m,truck,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,none
+149223,rainy,day,wet,100km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+149245,rainy,day,wet,100km/h,100m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,normal car
+149281,rainy,day,wet,100km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,10m,80km/h,emergency vehicle
+149293,rainy,day,wet,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+149355,rainy,day,wet,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+149617,rainy,day,wet,100km/h,150m,normal car,50m,none,normal car,approaching,100m,80km/h,normal car
+149636,rainy,day,wet,100km/h,150m,normal car,50m,none,emergency vehicle,approaching,100m,50km/h,none
+149789,rainy,day,wet,100km/h,150m,truck,50m,hurry (commute or flight),normal car,approaching,100m,50km/h,emergency vehicle
+149937,rainy,day,wet,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,30km/h,none
+149952,rainy,day,wet,100km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+150033,rainy,day,wet,100km/h,150m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+150130,rainy,day,wet,100km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,80km/h,normal car
+150138,rainy,day,wet,100km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,10m,30km/h,normal car
+150287,rainy,day,wet,100km/h,200m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,none
+150389,rainy,day,wet,100km/h,200m,normal car,50m,none,emergency vehicle,approaching,10m,50km/h,emergency vehicle
+150410,rainy,day,wet,100km/h,200m,normal car,50m,none,truck,approaching,100m,50km/h,emergency vehicle
+150767,rainy,day,wet,100km/h,200m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,50km/h,emergency vehicle
+150962,rainy,day,wet,35km/h,10m,normal car,20m,urgent (to hospital),truck,approaching,50m,50km/h,none
+150992,rainy,day,wet,35km/h,10m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,50km/h,none
+150998,rainy,day,wet,35km/h,10m,normal car,20m,hurry (commute or flight),normal car,approaching,50m,50km/h,normal car
+151021,rainy,day,wet,35km/h,10m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,normal car
+151211,rainy,day,wet,35km/h,10m,truck,20m,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+151431,rainy,day,wet,35km/h,10m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+151537,rainy,day,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,80km/h,normal car
+151661,rainy,day,wet,35km/h,50m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+151842,rainy,day,wet,35km/h,50m,normal car,20m,none,emergency vehicle,approaching,100m,30km/h,emergency vehicle
+152034,rainy,day,wet,35km/h,50m,truck,20m,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+152096,rainy,day,wet,35km/h,50m,truck,20m,none,truck,approaching,50m,50km/h,none
+152128,rainy,day,wet,35km/h,50m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,100m,80km/h,normal car
+152177,rainy,day,wet,35km/h,50m,emergency vehicle,20m,urgent (to hospital),truck,approaching,50m,50km/h,none
+152373,rainy,day,wet,35km/h,100m,normal car,20m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+152437,rainy,day,wet,35km/h,100m,normal car,20m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+152450,rainy,day,wet,35km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,50km/h,none
+152472,rainy,day,wet,35km/h,100m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+152972,rainy,day,wet,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,normal car
+153040,rainy,day,wet,35km/h,100m,emergency vehicle,20m,none,emergency vehicle,approaching,50m,80km/h,none
+153157,rainy,day,wet,60km/h,50m,normal car,20m,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+153384,rainy,day,wet,60km/h,50m,truck,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+153456,rainy,day,wet,60km/h,50m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+153476,rainy,day,wet,60km/h,50m,truck,20m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+153600,rainy,day,wet,60km/h,50m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,30km/h,emergency vehicle
+153652,rainy,day,wet,60km/h,50m,emergency vehicle,20m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+153758,rainy,day,wet,60km/h,50m,emergency vehicle,20m,none,normal car,approaching,100m,50km/h,emergency vehicle
+153837,rainy,day,wet,60km/h,100m,normal car,20m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+153925,rainy,day,wet,60km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,emergency vehicle
+153928,rainy,day,wet,60km/h,100m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+153959,rainy,day,wet,60km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+154093,rainy,day,wet,60km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+154199,rainy,day,wet,60km/h,100m,truck,20m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+154402,rainy,day,wet,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+154409,rainy,day,wet,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+154443,rainy,day,wet,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,30km/h,none
+154562,rainy,day,wet,60km/h,150m,normal car,20m,urgent (to hospital),normal car,approaching,50m,50km/h,normal car
+154705,rainy,day,wet,60km/h,150m,normal car,20m,hurry (commute or flight),truck,approaching,50m,80km/h,emergency vehicle
+154739,rainy,day,wet,60km/h,150m,normal car,20m,none,emergency vehicle,approaching,100m,50km/h,none
+154972,rainy,day,wet,60km/h,150m,truck,20m,none,normal car,approaching,100m,80km/h,emergency vehicle
+154989,rainy,day,wet,60km/h,150m,truck,20m,none,emergency vehicle,approaching,10m,30km/h,none
+155189,rainy,day,wet,60km/h,150m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+155252,rainy,day,wet,60km/h,150m,emergency vehicle,20m,none,truck,approaching,100m,50km/h,none
+155283,rainy,day,wet,100km/h,100m,normal car,20m,urgent (to hospital),normal car,approaching,50m,30km/h,none
+155373,rainy,day,wet,100km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+155437,rainy,day,wet,100km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,10m,80km/h,emergency vehicle
+155785,rainy,day,wet,100km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+155810,rainy,day,wet,100km/h,100m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+155816,rainy,day,wet,100km/h,100m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+155924,rainy,day,wet,100km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,10m,50km/h,emergency vehicle
+156127,rainy,day,wet,100km/h,150m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,normal car
+156843,rainy,day,wet,100km/h,200m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+156945,rainy,day,wet,100km/h,200m,normal car,20m,none,emergency vehicle,approaching,100m,30km/h,emergency vehicle
+157097,rainy,day,wet,100km/h,200m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+157318,rainy,day,wet,100km/h,200m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+157751,rainy,night,dry,35km/h,10m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+157847,rainy,night,dry,35km/h,10m,truck,free,hurry (commute or flight),truck,approaching,50m,50km/h,none
+157850,rainy,night,dry,35km/h,10m,truck,free,hurry (commute or flight),truck,approaching,10m,50km/h,none
+157949,rainy,night,dry,35km/h,10m,truck,free,none,truck,approaching,10m,50km/h,emergency vehicle
+158162,rainy,night,dry,35km/h,10m,emergency vehicle,free,none,emergency vehicle,approaching,50m,50km/h,emergency vehicle
+158220,rainy,night,dry,35km/h,50m,normal car,free,urgent (to hospital),normal car,approaching,10m,30km/h,emergency vehicle
+158496,rainy,night,dry,35km/h,50m,truck,free,urgent (to hospital),truck,approaching,50m,30km/h,none
+158524,rainy,night,dry,35km/h,50m,truck,free,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+158539,rainy,night,dry,35km/h,50m,truck,free,hurry (commute or flight),normal car,approaching,50m,80km/h,emergency vehicle
+158686,rainy,night,dry,35km/h,50m,emergency vehicle,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+158813,rainy,night,dry,35km/h,50m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+158867,rainy,night,dry,35km/h,50m,emergency vehicle,free,none,normal car,approaching,10m,50km/h,emergency vehicle
+159052,rainy,night,dry,35km/h,100m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+159178,rainy,night,dry,35km/h,100m,truck,free,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+159519,rainy,night,dry,35km/h,100m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+159582,rainy,night,dry,35km/h,100m,emergency vehicle,free,none,normal car,approaching,100m,30km/h,normal car
+159660,rainy,night,dry,60km/h,50m,normal car,free,urgent (to hospital),normal car,approaching,10m,30km/h,none
+159848,rainy,night,dry,60km/h,50m,normal car,free,none,emergency vehicle,approaching,10m,50km/h,none
+159897,rainy,night,dry,60km/h,50m,truck,free,urgent (to hospital),normal car,approaching,100m,30km/h,none
+160012,rainy,night,dry,60km/h,50m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,normal car
+160017,rainy,night,dry,60km/h,50m,truck,free,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+160085,rainy,night,dry,60km/h,50m,truck,free,none,emergency vehicle,approaching,100m,50km/h,none
+160179,rainy,night,dry,60km/h,50m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+160362,rainy,night,dry,60km/h,50m,emergency vehicle,free,none,truck,approaching,10m,30km/h,none
+160376,rainy,night,dry,60km/h,50m,emergency vehicle,free,none,truck,approaching,50m,50km/h,emergency vehicle
+160378,rainy,night,dry,60km/h,50m,emergency vehicle,free,none,truck,approaching,10m,80km/h,emergency vehicle
+160514,rainy,night,dry,60km/h,100m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+160612,rainy,night,dry,60km/h,100m,normal car,free,none,truck,approaching,10m,80km/h,normal car
+160690,rainy,night,dry,60km/h,100m,truck,free,urgent (to hospital),truck,approaching,50m,80km/h,normal car
+160824,rainy,night,dry,60km/h,100m,truck,free,none,emergency vehicle,approaching,100m,30km/h,normal car
+160915,rainy,night,dry,60km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+160927,rainy,night,dry,60km/h,100m,emergency vehicle,free,urgent (to hospital),truck,approaching,10m,80km/h,none
+160985,rainy,night,dry,60km/h,100m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+161037,rainy,night,dry,60km/h,100m,emergency vehicle,free,none,normal car,approaching,10m,30km/h,none
+161200,rainy,night,dry,60km/h,150m,normal car,free,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+161400,rainy,night,dry,60km/h,150m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+161518,rainy,night,dry,60km/h,150m,truck,free,none,normal car,approaching,50m,80km/h,none
+161557,rainy,night,dry,60km/h,150m,truck,free,none,emergency vehicle,approaching,10m,80km/h,normal car
+161935,rainy,night,dry,100km/h,100m,normal car,free,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+162111,rainy,night,dry,100km/h,100m,truck,free,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,none
+162157,rainy,night,dry,100km/h,100m,truck,free,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+162251,rainy,night,dry,100km/h,100m,truck,free,none,normal car,approaching,10m,50km/h,none
+162420,rainy,night,dry,100km/h,100m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,50m,30km/h,normal car
+162486,rainy,night,dry,100km/h,100m,emergency vehicle,free,hurry (commute or flight),truck,approaching,10m,30km/h,emergency vehicle
+162502,rainy,night,dry,100km/h,100m,emergency vehicle,free,none,normal car,approaching,10m,80km/h,normal car
+162517,rainy,night,dry,100km/h,100m,emergency vehicle,free,none,emergency vehicle,approaching,50m,80km/h,none
+162734,rainy,night,dry,100km/h,150m,normal car,free,none,normal car,approaching,50m,50km/h,none
+162876,rainy,night,dry,100km/h,150m,truck,free,urgent (to hospital),truck,approaching,100m,30km/h,normal car
+163127,rainy,night,dry,100km/h,150m,emergency vehicle,free,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+163160,rainy,night,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),normal car,approaching,10m,50km/h,emergency vehicle
+163182,rainy,night,dry,100km/h,150m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+163236,rainy,night,dry,100km/h,150m,emergency vehicle,free,none,normal car,approaching,100m,30km/h,emergency vehicle
+163693,rainy,night,dry,100km/h,200m,truck,free,hurry (commute or flight),truck,approaching,100m,80km/h,emergency vehicle
+163775,rainy,night,dry,100km/h,200m,truck,free,none,truck,approaching,100m,50km/h,emergency vehicle
+163915,rainy,night,dry,100km/h,200m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+164520,rainy,night,dry,35km/h,10m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,10m,30km/h,none
+164901,rainy,night,dry,35km/h,50m,normal car,100m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+165001,rainy,night,dry,35km/h,50m,truck,100m,urgent (to hospital),normal car,approaching,50m,80km/h,none
+165456,rainy,night,dry,35km/h,50m,emergency vehicle,100m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+165629,rainy,night,dry,35km/h,100m,normal car,100m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+165714,rainy,night,dry,35km/h,100m,normal car,100m,none,truck,approaching,50m,30km/h,normal car
+166096,rainy,night,dry,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+166385,rainy,night,dry,60km/h,50m,normal car,100m,none,normal car,approaching,100m,50km/h,normal car
+166503,rainy,night,dry,60km/h,50m,truck,100m,urgent (to hospital),emergency vehicle,approaching,100m,30km/h,emergency vehicle
+166654,rainy,night,dry,60km/h,50m,truck,100m,none,emergency vehicle,approaching,100m,80km/h,normal car
+166661,rainy,night,dry,60km/h,50m,truck,100m,none,emergency vehicle,approaching,10m,50km/h,normal car
+166940,rainy,night,dry,60km/h,50m,emergency vehicle,100m,none,truck,approaching,10m,50km/h,emergency vehicle
+167270,rainy,night,dry,60km/h,100m,truck,100m,hurry (commute or flight),normal car,approaching,50m,50km/h,none
+167315,rainy,night,dry,60km/h,100m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+167373,rainy,night,dry,60km/h,100m,truck,100m,none,normal car,approaching,10m,30km/h,emergency vehicle
+167573,rainy,night,dry,60km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+167589,rainy,night,dry,60km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,30km/h,emergency vehicle
+167724,rainy,night,dry,60km/h,150m,normal car,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+167910,rainy,night,dry,60km/h,150m,normal car,100m,none,truck,approaching,50m,30km/h,emergency vehicle
+167939,rainy,night,dry,60km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,10m,50km/h,emergency vehicle
+168385,rainy,night,dry,60km/h,150m,emergency vehicle,100m,none,truck,approaching,50m,80km/h,normal car
+168507,rainy,night,dry,100km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+168929,rainy,night,dry,100km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+168936,rainy,night,dry,100km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+168978,rainy,night,dry,100km/h,100m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,normal car
+169136,rainy,night,dry,100km/h,150m,normal car,100m,urgent (to hospital),normal car,approaching,10m,50km/h,none
+169191,rainy,night,dry,100km/h,150m,normal car,100m,urgent (to hospital),truck,approaching,10m,30km/h,none
+169396,rainy,night,dry,100km/h,150m,truck,100m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+169403,rainy,night,dry,100km/h,150m,truck,100m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,none
+169498,rainy,night,dry,100km/h,150m,truck,100m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+169610,rainy,night,dry,100km/h,150m,truck,100m,none,truck,approaching,50m,50km/h,emergency vehicle
+169689,rainy,night,dry,100km/h,150m,emergency vehicle,100m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+169724,rainy,night,dry,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,none
+169761,rainy,night,dry,100km/h,150m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+170030,rainy,night,dry,100km/h,200m,normal car,100m,none,normal car,approaching,100m,50km/h,normal car
+170047,rainy,night,dry,100km/h,200m,normal car,100m,none,emergency vehicle,approaching,100m,80km/h,none
+170292,rainy,night,dry,100km/h,200m,truck,100m,none,emergency vehicle,approaching,100m,30km/h,none
+170397,rainy,night,dry,100km/h,200m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+170713,rainy,night,dry,35km/h,10m,normal car,50m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+170736,rainy,night,dry,35km/h,10m,normal car,50m,hurry (commute or flight),truck,approaching,50m,30km/h,normal car
+171095,rainy,night,dry,35km/h,10m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,50km/h,emergency vehicle
+171143,rainy,night,dry,35km/h,10m,emergency vehicle,50m,urgent (to hospital),truck,approaching,10m,50km/h,normal car
+171420,rainy,night,dry,35km/h,50m,normal car,50m,hurry (commute or flight),normal car,approaching,50m,30km/h,emergency vehicle
+171536,rainy,night,dry,35km/h,50m,normal car,50m,none,truck,approaching,50m,50km/h,none
+171622,rainy,night,dry,35km/h,50m,truck,50m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+171704,rainy,night,dry,35km/h,50m,truck,50m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+171908,rainy,night,dry,35km/h,50m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,50km/h,emergency vehicle
+172095,rainy,night,dry,35km/h,100m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+172403,rainy,night,dry,35km/h,100m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,none
+172449,rainy,night,dry,35km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,10m,30km/h,emergency vehicle
+172793,rainy,night,dry,60km/h,50m,normal car,50m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+172836,rainy,night,dry,60km/h,50m,normal car,50m,urgent (to hospital),truck,approaching,10m,30km/h,none
+172875,rainy,night,dry,60km/h,50m,normal car,50m,hurry (commute or flight),normal car,approaching,100m,30km/h,emergency vehicle
+173028,rainy,night,dry,60km/h,50m,truck,50m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+173047,rainy,night,dry,60km/h,50m,truck,50m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+173686,rainy,night,dry,60km/h,100m,normal car,50m,none,normal car,approaching,50m,80km/h,emergency vehicle
+173888,rainy,night,dry,60km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+173939,rainy,night,dry,60km/h,100m,truck,50m,none,emergency vehicle,approaching,50m,50km/h,none
+173987,rainy,night,dry,60km/h,100m,truck,50m,none,truck,approaching,10m,50km/h,emergency vehicle
+174085,rainy,night,dry,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+174600,rainy,night,dry,60km/h,150m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,normal car
+174617,rainy,night,dry,60km/h,150m,truck,50m,hurry (commute or flight),truck,approaching,10m,50km/h,none
+174917,rainy,night,dry,60km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,100m,50km/h,normal car
+175531,rainy,night,dry,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+175569,rainy,night,dry,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+175685,rainy,night,dry,100km/h,100m,emergency vehicle,50m,none,truck,approaching,50m,50km/h,emergency vehicle
+175701,rainy,night,dry,100km/h,150m,normal car,50m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+175743,rainy,night,dry,100km/h,150m,normal car,50m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+175772,rainy,night,dry,100km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+175925,rainy,night,dry,100km/h,150m,normal car,50m,none,truck,approaching,100m,50km/h,emergency vehicle
+176001,rainy,night,dry,100km/h,150m,truck,50m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+176391,rainy,night,dry,100km/h,150m,emergency vehicle,50m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+176392,rainy,night,dry,100km/h,150m,emergency vehicle,50m,none,truck,approaching,100m,80km/h,none
+176566,rainy,night,dry,100km/h,200m,normal car,50m,hurry (commute or flight),truck,approaching,50m,80km/h,normal car
+176730,rainy,night,dry,100km/h,200m,truck,50m,urgent (to hospital),truck,approaching,50m,30km/h,normal car
+176743,rainy,night,dry,100km/h,200m,truck,50m,hurry (commute or flight),normal car,approaching,100m,80km/h,none
+176898,rainy,night,dry,100km/h,200m,truck,50m,none,truck,approaching,100m,30km/h,emergency vehicle
+176901,rainy,night,dry,100km/h,200m,truck,50m,none,truck,approaching,50m,30km/h,emergency vehicle
+176961,rainy,night,dry,100km/h,200m,emergency vehicle,50m,urgent (to hospital),truck,approaching,100m,30km/h,none
+177015,rainy,night,dry,100km/h,200m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+177109,rainy,night,dry,100km/h,200m,emergency vehicle,50m,none,emergency vehicle,approaching,10m,80km/h,normal car
+177225,rainy,night,dry,35km/h,10m,normal car,20m,urgent (to hospital),truck,approaching,50m,30km/h,emergency vehicle
+177419,rainy,night,dry,35km/h,10m,truck,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+177517,rainy,night,dry,35km/h,10m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,emergency vehicle
+177666,rainy,night,dry,35km/h,10m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,none
+177807,rainy,night,dry,35km/h,10m,emergency vehicle,20m,none,normal car,approaching,100m,30km/h,normal car
+178029,rainy,night,dry,35km/h,50m,normal car,20m,hurry (commute or flight),truck,approaching,10m,30km/h,normal car
+178393,rainy,night,dry,35km/h,50m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+178677,rainy,night,dry,35km/h,100m,normal car,20m,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+178870,rainy,night,dry,35km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,50m,80km/h,emergency vehicle
+179092,rainy,night,dry,35km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,100m,80km/h,none
+179231,rainy,night,dry,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+179233,rainy,night,dry,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,10m,80km/h,none
+179236,rainy,night,dry,35km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+179387,rainy,night,dry,60km/h,50m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+179736,rainy,night,dry,60km/h,50m,truck,20m,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+179747,rainy,night,dry,60km/h,50m,truck,20m,none,normal car,approaching,10m,50km/h,none
+179893,rainy,night,dry,60km/h,50m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,80km/h,emergency vehicle
+180108,rainy,night,dry,60km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+180208,rainy,night,dry,60km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+180305,rainy,night,dry,60km/h,100m,normal car,20m,none,truck,approaching,10m,50km/h,emergency vehicle
+180464,rainy,night,dry,60km/h,100m,truck,20m,hurry (commute or flight),truck,approaching,50m,50km/h,emergency vehicle
+180695,rainy,night,dry,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+180855,rainy,night,dry,60km/h,150m,normal car,20m,urgent (to hospital),truck,approaching,10m,30km/h,none
+180860,rainy,night,dry,60km/h,150m,normal car,20m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+180875,rainy,night,dry,60km/h,150m,normal car,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+180901,rainy,night,dry,60km/h,150m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,80km/h,none
+181014,rainy,night,dry,60km/h,150m,normal car,20m,none,truck,approaching,50m,30km/h,none
+181257,rainy,night,dry,60km/h,150m,truck,20m,none,truck,approaching,50m,30km/h,none
+181570,rainy,night,dry,100km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+181618,rainy,night,dry,100km/h,100m,normal car,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,normal car
+181667,rainy,night,dry,100km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,100m,50km/h,normal car
+181849,rainy,night,dry,100km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+181852,rainy,night,dry,100km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+181868,rainy,night,dry,100km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,50m,50km/h,emergency vehicle
+182041,rainy,night,dry,100km/h,100m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+182099,rainy,night,dry,100km/h,100m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,normal car
+182717,rainy,night,dry,100km/h,150m,truck,20m,none,truck,approaching,10m,50km/h,none
+182801,rainy,night,dry,100km/h,150m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,50km/h,normal car
+182912,rainy,night,dry,100km/h,150m,emergency vehicle,20m,none,normal car,approaching,50m,50km/h,normal car
+183142,rainy,night,dry,100km/h,200m,normal car,20m,none,normal car,approaching,100m,80km/h,none
+183303,rainy,night,dry,100km/h,200m,truck,20m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+183520,rainy,night,dry,100km/h,200m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,80km/h,none
+183628,rainy,night,dry,100km/h,200m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,none
+183663,rainy,night,dry,100km/h,200m,emergency vehicle,20m,none,emergency vehicle,approaching,10m,30km/h,none
+183823,rainy,night,wet,35km/h,10m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+184143,rainy,night,wet,35km/h,10m,truck,free,none,emergency vehicle,approaching,100m,30km/h,none
+184402,rainy,night,wet,35km/h,10m,emergency vehicle,free,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+184659,rainy,night,wet,35km/h,50m,normal car,free,none,truck,approaching,50m,30km/h,none
+184666,rainy,night,wet,35km/h,50m,normal car,free,none,truck,approaching,50m,80km/h,normal car
+184692,rainy,night,wet,35km/h,50m,truck,free,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+185117,rainy,night,wet,35km/h,50m,emergency vehicle,free,none,emergency vehicle,approaching,50m,50km/h,none
+185481,rainy,night,wet,35km/h,100m,truck,free,urgent (to hospital),truck,approaching,10m,30km/h,normal car
+185639,rainy,night,wet,35km/h,100m,truck,free,none,truck,approaching,50m,50km/h,normal car
+185706,rainy,night,wet,35km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+185720,rainy,night,wet,35km/h,100m,emergency vehicle,free,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+185774,rainy,night,wet,35km/h,100m,emergency vehicle,free,hurry (commute or flight),emergency vehicle,approaching,50m,50km/h,normal car
+186035,rainy,night,wet,60km/h,50m,normal car,free,hurry (commute or flight),truck,approaching,50m,50km/h,none
+186739,rainy,night,wet,60km/h,100m,normal car,free,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+186827,rainy,night,wet,60km/h,100m,normal car,free,none,emergency vehicle,approaching,50m,50km/h,normal car
+186849,rainy,night,wet,60km/h,100m,normal car,free,none,truck,approaching,10m,30km/h,none
+186901,rainy,night,wet,60km/h,100m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+186909,rainy,night,wet,60km/h,100m,truck,free,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+187002,rainy,night,wet,60km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+187034,rainy,night,wet,60km/h,100m,truck,free,none,normal car,approaching,50m,50km/h,none
+187090,rainy,night,wet,60km/h,100m,truck,free,none,truck,approaching,10m,80km/h,none
+187154,rainy,night,wet,60km/h,100m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,normal car
+187359,rainy,night,wet,60km/h,150m,normal car,free,urgent (to hospital),normal car,approaching,50m,30km/h,none
+187530,rainy,night,wet,60km/h,150m,normal car,free,none,normal car,approaching,50m,30km/h,normal car
+187641,rainy,night,wet,60km/h,150m,truck,free,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+187716,rainy,night,wet,60km/h,150m,truck,free,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,normal car
+187755,rainy,night,wet,60km/h,150m,truck,free,hurry (commute or flight),truck,approaching,50m,30km/h,emergency vehicle
+188134,rainy,night,wet,100km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+188135,rainy,night,wet,100km/h,100m,normal car,free,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+188413,rainy,night,wet,100km/h,100m,truck,free,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+188460,rainy,night,wet,100km/h,100m,truck,free,hurry (commute or flight),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+188527,rainy,night,wet,100km/h,100m,truck,free,none,emergency vehicle,approaching,50m,80km/h,normal car
+188741,rainy,night,wet,100km/h,100m,emergency vehicle,free,none,normal car,approaching,100m,50km/h,normal car
+188950,rainy,night,wet,100km/h,150m,normal car,free,hurry (commute or flight),truck,approaching,50m,80km/h,none
+189445,rainy,night,wet,100km/h,150m,emergency vehicle,free,hurry (commute or flight),truck,approaching,50m,80km/h,normal car
+189506,rainy,night,wet,100km/h,150m,emergency vehicle,free,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+189547,rainy,night,wet,100km/h,200m,normal car,free,urgent (to hospital),normal car,approaching,10m,80km/h,none
+189603,rainy,night,wet,100km/h,200m,normal car,free,urgent (to hospital),truck,approaching,10m,30km/h,none
+189614,rainy,night,wet,100km/h,200m,normal car,free,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+190057,rainy,night,wet,100km/h,200m,emergency vehicle,free,urgent (to hospital),emergency vehicle,approaching,50m,80km/h,none
+190228,rainy,night,wet,100km/h,200m,emergency vehicle,free,none,emergency vehicle,approaching,50m,80km/h,normal car
+190258,rainy,night,wet,100km/h,200m,emergency vehicle,free,none,truck,approaching,10m,80km/h,normal car
+190586,rainy,night,wet,35km/h,10m,truck,100m,urgent (to hospital),truck,approaching,100m,50km/h,emergency vehicle
+190657,rainy,night,wet,35km/h,10m,truck,100m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+190721,rainy,night,wet,35km/h,10m,truck,100m,none,emergency vehicle,approaching,100m,50km/h,emergency vehicle
+190880,rainy,night,wet,35km/h,10m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,normal car
+190958,rainy,night,wet,35km/h,10m,emergency vehicle,100m,none,emergency vehicle,approaching,50m,50km/h,normal car
+191149,rainy,night,wet,35km/h,50m,normal car,100m,hurry (commute or flight),truck,approaching,10m,80km/h,normal car
+191260,rainy,night,wet,35km/h,50m,truck,100m,urgent (to hospital),normal car,approaching,100m,80km/h,emergency vehicle
+191512,rainy,night,wet,35km/h,50m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,none
+191565,rainy,night,wet,35km/h,50m,emergency vehicle,100m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+191567,rainy,night,wet,35km/h,50m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+191882,rainy,night,wet,35km/h,100m,normal car,100m,hurry (commute or flight),truck,approaching,100m,50km/h,emergency vehicle
+191991,rainy,night,wet,35km/h,100m,truck,100m,urgent (to hospital),normal car,approaching,100m,30km/h,emergency vehicle
+192054,rainy,night,wet,35km/h,100m,truck,100m,hurry (commute or flight),normal car,approaching,100m,30km/h,none
+192281,rainy,night,wet,35km/h,100m,emergency vehicle,100m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+192365,rainy,night,wet,35km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+192379,rainy,night,wet,35km/h,100m,emergency vehicle,100m,none,normal car,approaching,50m,80km/h,none
+192407,rainy,night,wet,35km/h,100m,emergency vehicle,100m,none,emergency vehicle,approaching,50m,50km/h,none
+192450,rainy,night,wet,35km/h,100m,emergency vehicle,100m,none,truck,approaching,100m,30km/h,emergency vehicle
+192588,rainy,night,wet,60km/h,50m,normal car,100m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+192650,rainy,night,wet,60km/h,50m,normal car,100m,none,emergency vehicle,approaching,50m,50km/h,none
+192864,rainy,night,wet,60km/h,50m,truck,100m,none,normal car,approaching,100m,30km/h,none
+192906,rainy,night,wet,60km/h,50m,truck,100m,none,emergency vehicle,approaching,10m,30km/h,normal car
+193053,rainy,night,wet,60km/h,50m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,100m,30km/h,none
+193648,rainy,night,wet,60km/h,100m,truck,100m,none,truck,approaching,50m,80km/h,none
+193657,rainy,night,wet,60km/h,100m,truck,100m,none,truck,approaching,50m,80km/h,normal car
+193718,rainy,night,wet,60km/h,100m,emergency vehicle,100m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+194068,rainy,night,wet,60km/h,150m,normal car,100m,hurry (commute or flight),truck,approaching,100m,80km/h,emergency vehicle
+194234,rainy,night,wet,60km/h,150m,truck,100m,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+194663,rainy,night,wet,100km/h,100m,normal car,100m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+194749,rainy,night,wet,100km/h,100m,normal car,100m,hurry (commute or flight),normal car,approaching,10m,80km/h,emergency vehicle
+194829,rainy,night,wet,100km/h,100m,normal car,100m,none,normal car,approaching,50m,30km/h,emergency vehicle
+195132,rainy,night,wet,100km/h,100m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,100m,30km/h,none
+195257,rainy,night,wet,100km/h,100m,emergency vehicle,100m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+195280,rainy,night,wet,100km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,80km/h,normal car
+195281,rainy,night,wet,100km/h,100m,emergency vehicle,100m,hurry (commute or flight),truck,approaching,10m,50km/h,normal car
+195771,rainy,night,wet,100km/h,150m,truck,100m,hurry (commute or flight),truck,approaching,100m,30km/h,emergency vehicle
+195809,rainy,night,wet,100km/h,150m,truck,100m,none,emergency vehicle,approaching,50m,50km/h,none
+195873,rainy,night,wet,100km/h,150m,emergency vehicle,100m,urgent (to hospital),normal car,approaching,50m,30km/h,normal car
+195934,rainy,night,wet,100km/h,150m,emergency vehicle,100m,urgent (to hospital),truck,approaching,50m,80km/h,emergency vehicle
+196080,rainy,night,wet,100km/h,150m,emergency vehicle,100m,none,truck,approaching,50m,30km/h,none
+196419,rainy,night,wet,100km/h,200m,truck,100m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+196678,rainy,night,wet,100km/h,200m,emergency vehicle,100m,hurry (commute or flight),normal car,approaching,100m,80km/h,normal car
+196795,rainy,night,wet,100km/h,200m,emergency vehicle,100m,none,emergency vehicle,approaching,100m,80km/h,emergency vehicle
+197297,rainy,night,wet,35km/h,10m,truck,50m,none,truck,approaching,10m,50km/h,none
+197312,rainy,night,wet,35km/h,10m,truck,50m,none,truck,approaching,50m,50km/h,emergency vehicle
+197782,rainy,night,wet,35km/h,50m,normal car,50m,none,truck,approaching,10m,80km/h,none
+198678,rainy,night,wet,35km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+198681,rainy,night,wet,35km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,50m,30km/h,normal car
+198766,rainy,night,wet,35km/h,100m,truck,50m,none,truck,approaching,100m,80km/h,emergency vehicle
+198779,rainy,night,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,50m,50km/h,none
+198794,rainy,night,wet,35km/h,100m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,50km/h,emergency vehicle
+199376,rainy,night,wet,60km/h,50m,truck,50m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,none
+199528,rainy,night,wet,60km/h,50m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,10m,80km/h,emergency vehicle
+199635,rainy,night,wet,60km/h,50m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,emergency vehicle
+200134,rainy,night,wet,60km/h,100m,truck,50m,hurry (commute or flight),truck,approaching,100m,80km/h,normal car
+200212,rainy,night,wet,60km/h,100m,truck,50m,none,truck,approaching,10m,80km/h,none
+200300,rainy,night,wet,60km/h,100m,emergency vehicle,50m,urgent (to hospital),truck,approaching,50m,50km/h,normal car
+200347,rainy,night,wet,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,none
+200386,rainy,night,wet,60km/h,100m,emergency vehicle,50m,hurry (commute or flight),truck,approaching,100m,80km/h,emergency vehicle
+200425,rainy,night,wet,60km/h,100m,emergency vehicle,50m,none,emergency vehicle,approaching,50m,80km/h,none
+200583,rainy,night,wet,60km/h,150m,normal car,50m,hurry (commute or flight),normal car,approaching,10m,30km/h,emergency vehicle
+200718,rainy,night,wet,60km/h,150m,normal car,50m,none,truck,approaching,10m,30km/h,emergency vehicle
+200793,rainy,night,wet,60km/h,150m,truck,50m,urgent (to hospital),truck,approaching,100m,30km/h,emergency vehicle
+200971,rainy,night,wet,60km/h,150m,emergency vehicle,50m,urgent (to hospital),normal car,approaching,100m,80km/h,normal car
+201015,rainy,night,wet,60km/h,150m,emergency vehicle,50m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+201136,rainy,night,wet,60km/h,150m,emergency vehicle,50m,none,normal car,approaching,50m,80km/h,normal car
+201637,rainy,night,wet,100km/h,100m,truck,50m,none,emergency vehicle,approaching,100m,80km/h,none
+201778,rainy,night,wet,100km/h,100m,emergency vehicle,50m,hurry (commute or flight),normal car,approaching,10m,80km/h,none
+201996,rainy,night,wet,100km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,10m,30km/h,none
+202003,rainy,night,wet,100km/h,150m,normal car,50m,urgent (to hospital),truck,approaching,10m,80km/h,normal car
+202257,rainy,night,wet,100km/h,150m,truck,50m,urgent (to hospital),truck,approaching,10m,30km/h,emergency vehicle
+202352,rainy,night,wet,100km/h,150m,truck,50m,none,normal car,approaching,50m,50km/h,normal car
+202827,rainy,night,wet,100km/h,200m,normal car,50m,none,normal car,approaching,100m,30km/h,none
+203121,rainy,night,wet,100km/h,200m,truck,50m,none,emergency vehicle,approaching,10m,30km/h,emergency vehicle
+203278,rainy,night,wet,100km/h,200m,emergency vehicle,50m,hurry (commute or flight),emergency vehicle,approaching,50m,80km/h,emergency vehicle
+203404,rainy,night,wet,35km/h,10m,normal car,20m,urgent (to hospital),normal car,approaching,50m,80km/h,normal car
+203455,rainy,night,wet,35km/h,10m,normal car,20m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+203468,rainy,night,wet,35km/h,10m,normal car,20m,urgent (to hospital),truck,approaching,50m,50km/h,emergency vehicle
+203474,rainy,night,wet,35km/h,10m,normal car,20m,hurry (commute or flight),normal car,approaching,100m,50km/h,none
+203541,rainy,night,wet,35km/h,10m,normal car,20m,hurry (commute or flight),truck,approaching,50m,30km/h,normal car
+203671,rainy,night,wet,35km/h,10m,truck,20m,urgent (to hospital),emergency vehicle,approaching,100m,80km/h,normal car
+203759,rainy,night,wet,35km/h,10m,truck,20m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,normal car
+204005,rainy,night,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,emergency vehicle
+204016,rainy,night,wet,35km/h,10m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,50m,80km/h,none
+204161,rainy,night,wet,35km/h,50m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,normal car
+204289,rainy,night,wet,35km/h,50m,normal car,20m,none,normal car,approaching,10m,80km/h,none
+204311,rainy,night,wet,35km/h,50m,normal car,20m,none,emergency vehicle,approaching,100m,50km/h,none
+204591,rainy,night,wet,35km/h,50m,truck,20m,none,truck,approaching,100m,30km/h,normal car
+204656,rainy,night,wet,35km/h,50m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,50m,50km/h,emergency vehicle
+204720,rainy,night,wet,35km/h,50m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,none
+204740,rainy,night,wet,35km/h,50m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,10m,50km/h,emergency vehicle
+204809,rainy,night,wet,35km/h,50m,emergency vehicle,20m,none,emergency vehicle,approaching,50m,50km/h,normal car
+204885,rainy,night,wet,35km/h,100m,normal car,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,none
+205099,rainy,night,wet,35km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,10m,80km/h,none
+205110,rainy,night,wet,35km/h,100m,truck,20m,urgent (to hospital),normal car,approaching,10m,30km/h,normal car
+205127,rainy,night,wet,35km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,50km/h,none
+205148,rainy,night,wet,35km/h,100m,truck,20m,urgent (to hospital),truck,approaching,100m,50km/h,none
+205347,rainy,night,wet,35km/h,100m,emergency vehicle,20m,urgent (to hospital),normal car,approaching,100m,30km/h,normal car
+205399,rainy,night,wet,35km/h,100m,emergency vehicle,20m,urgent (to hospital),truck,approaching,100m,80km/h,normal car
+205498,rainy,night,wet,35km/h,100m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,none
+205529,rainy,night,wet,35km/h,100m,emergency vehicle,20m,none,emergency vehicle,approaching,50m,50km/h,none
+205718,rainy,night,wet,60km/h,50m,normal car,20m,hurry (commute or flight),truck,approaching,50m,50km/h,none
+206149,rainy,night,wet,60km/h,50m,emergency vehicle,20m,hurry (commute or flight),normal car,approaching,50m,80km/h,none
+206197,rainy,night,wet,60km/h,50m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,emergency vehicle
+206465,rainy,night,wet,60km/h,100m,normal car,20m,hurry (commute or flight),truck,approaching,50m,50km/h,emergency vehicle
+206639,rainy,night,wet,60km/h,100m,truck,20m,hurry (commute or flight),normal car,approaching,10m,50km/h,none
+206930,rainy,night,wet,60km/h,100m,emergency vehicle,20m,hurry (commute or flight),truck,approaching,100m,50km/h,none
+207339,rainy,night,wet,60km/h,150m,truck,20m,urgent (to hospital),truck,approaching,50m,30km/h,none
+207551,rainy,night,wet,60km/h,150m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+207645,rainy,night,wet,60km/h,150m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,50m,30km/h,normal car
+207884,rainy,night,wet,100km/h,100m,normal car,20m,hurry (commute or flight),emergency vehicle,approaching,100m,50km/h,normal car
+208053,rainy,night,wet,100km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,normal car
+208062,rainy,night,wet,100km/h,100m,truck,20m,urgent (to hospital),emergency vehicle,approaching,10m,30km/h,emergency vehicle
+208423,rainy,night,wet,100km/h,100m,emergency vehicle,20m,none,normal car,approaching,100m,80km/h,normal car
+208944,rainy,night,wet,100km/h,150m,truck,20m,none,emergency vehicle,approaching,10m,30km/h,normal car
+209014,rainy,night,wet,100km/h,150m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,10m,80km/h,none
+209613,rainy,night,wet,100km/h,200m,truck,20m,hurry (commute or flight),truck,approaching,100m,30km/h,normal car
+209738,rainy,night,wet,100km/h,200m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,100m,50km/h,none
+209751,rainy,night,wet,100km/h,200m,emergency vehicle,20m,urgent (to hospital),emergency vehicle,approaching,50m,30km/h,normal car
+209833,rainy,night,wet,100km/h,200m,emergency vehicle,20m,hurry (commute or flight),emergency vehicle,approaching,10m,80km/h,normal car

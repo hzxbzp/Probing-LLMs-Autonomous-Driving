@@ -38,3 +38,9 @@ desktop.ini
 
 # Environment
 .env
+
+# API keys: copy config.example.yaml to config.yaml and never commit it
+config.yaml
+
+# Pipeline outputs
+results/

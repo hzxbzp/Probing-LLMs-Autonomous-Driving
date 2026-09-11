@@ -1,0 +1,1501 @@
+﻿id,Météo,Moment de la journée,État de la route,Vitesse du véhicule en insertion,Distance du véhicule en insertion,Type de véhicule en insertion,Espace devant sur la voie principale,Besoin du passager,Rôle du véhicule ego,État du véhicule ego,Distance du véhicule ego,Vitesse du véhicule ego,Véhicule suiveur
+124,ensoleillé,jour,sec,35 km/h,10 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+273,ensoleillé,jour,sec,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+309,ensoleillé,jour,sec,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,voiture
+484,ensoleillé,jour,sec,35 km/h,10 m,camion,libre,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+598,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+669,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+796,ensoleillé,jour,sec,35 km/h,50 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+810,ensoleillé,jour,sec,35 km/h,50 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+948,ensoleillé,jour,sec,35 km/h,50 m,voiture,libre,aucune,camion,en approche,100 m,30 km/h,aucun
+1037,ensoleillé,jour,sec,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+1070,ensoleillé,jour,sec,35 km/h,50 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+1091,ensoleillé,jour,sec,35 km/h,50 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+1412,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+1660,ensoleillé,jour,sec,35 km/h,100 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+1765,ensoleillé,jour,sec,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+1854,ensoleillé,jour,sec,35 km/h,100 m,camion,libre,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+1902,ensoleillé,jour,sec,35 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+1924,ensoleillé,jour,sec,35 km/h,100 m,camion,libre,aucune,camion,en approche,10 m,80 km/h,aucun
+2000,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+2114,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,50 km/h,aucun
+2260,ensoleillé,jour,sec,60 km/h,50 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,véhicule prioritaire
+2539,ensoleillé,jour,sec,60 km/h,50 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+2628,ensoleillé,jour,sec,60 km/h,50 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+2696,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+2761,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+2842,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,80 km/h,aucun
+3124,ensoleillé,jour,sec,60 km/h,100 m,voiture,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+3234,ensoleillé,jour,sec,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+3292,ensoleillé,jour,sec,60 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+3554,ensoleillé,jour,sec,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+3816,ensoleillé,jour,sec,60 km/h,150 m,voiture,libre,aucune,voiture,en approche,10 m,30 km/h,aucun
+3947,ensoleillé,jour,sec,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+4104,ensoleillé,jour,sec,60 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+4233,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+4271,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+4418,ensoleillé,jour,sec,100 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+4679,ensoleillé,jour,sec,100 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+4753,ensoleillé,jour,sec,100 km/h,100 m,camion,libre,pressé (travail ou vol),camion,en approche,100 m,80 km/h,aucun
+4860,ensoleillé,jour,sec,100 km/h,100 m,camion,libre,aucune,camion,en approche,10 m,30 km/h,véhicule prioritaire
+4875,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+4980,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+5059,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+5132,ensoleillé,jour,sec,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+5134,ensoleillé,jour,sec,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+5309,ensoleillé,jour,sec,100 km/h,150 m,voiture,libre,aucune,véhicule prioritaire,en approche,10 m,50 km/h,voiture
+5501,ensoleillé,jour,sec,100 km/h,150 m,camion,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+5596,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+5694,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+5760,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,30 km/h,aucun
+5859,ensoleillé,jour,sec,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+6059,ensoleillé,jour,sec,100 km/h,200 m,voiture,libre,aucune,camion,en approche,100 m,50 km/h,voiture
+6173,ensoleillé,jour,sec,100 km/h,200 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+6214,ensoleillé,jour,sec,100 km/h,200 m,camion,libre,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+6316,ensoleillé,jour,sec,100 km/h,200 m,camion,libre,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+6383,ensoleillé,jour,sec,100 km/h,200 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+6822,ensoleillé,jour,sec,35 km/h,10 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+7073,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+7078,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+7096,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+7525,ensoleillé,jour,sec,35 km/h,50 m,voiture,100 m,aucune,camion,en approche,100 m,80 km/h,véhicule prioritaire
+7585,ensoleillé,jour,sec,35 km/h,50 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+7644,ensoleillé,jour,sec,35 km/h,50 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+7816,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+7911,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+8115,ensoleillé,jour,sec,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+8263,ensoleillé,jour,sec,35 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+8267,ensoleillé,jour,sec,35 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,aucun
+8534,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+8599,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+8749,ensoleillé,jour,sec,60 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+8932,ensoleillé,jour,sec,60 km/h,50 m,voiture,100 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+9062,ensoleillé,jour,sec,60 km/h,50 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,voiture
+9254,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+9498,ensoleillé,jour,sec,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+9656,ensoleillé,jour,sec,60 km/h,100 m,voiture,100 m,aucune,voiture,en approche,10 m,50 km/h,voiture
+9787,ensoleillé,jour,sec,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+9788,ensoleillé,jour,sec,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+9956,ensoleillé,jour,sec,60 km/h,100 m,camion,100 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+10107,ensoleillé,jour,sec,60 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,aucun
+10366,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,véhicule prioritaire
+10384,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,10 m,80 km/h,voiture
+10390,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+10399,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,aucun
+10415,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+10423,ensoleillé,jour,sec,60 km/h,150 m,voiture,100 m,aucune,camion,en approche,100 m,80 km/h,aucun
+10593,ensoleillé,jour,sec,60 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,aucun
+10650,ensoleillé,jour,sec,60 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+10747,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,aucun
+10796,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+10829,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+11687,ensoleillé,jour,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+11714,ensoleillé,jour,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+11859,ensoleillé,jour,sec,100 km/h,150 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,aucun
+11988,ensoleillé,jour,sec,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+12170,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+12284,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+12538,ensoleillé,jour,sec,100 km/h,200 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+12582,ensoleillé,jour,sec,100 km/h,200 m,voiture,100 m,aucune,voiture,en approche,10 m,30 km/h,véhicule prioritaire
+12622,ensoleillé,jour,sec,100 km/h,200 m,voiture,100 m,aucune,camion,en approche,50 m,80 km/h,voiture
+12790,ensoleillé,jour,sec,100 km/h,200 m,camion,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,véhicule prioritaire
+13038,ensoleillé,jour,sec,100 km/h,200 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+13126,ensoleillé,jour,sec,35 km/h,10 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,aucun
+13397,ensoleillé,jour,sec,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+13498,ensoleillé,jour,sec,35 km/h,10 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+13543,ensoleillé,jour,sec,35 km/h,10 m,camion,50 m,aucune,voiture,en approche,10 m,80 km/h,voiture
+13565,ensoleillé,jour,sec,35 km/h,10 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+13638,ensoleillé,jour,sec,35 km/h,10 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+13872,ensoleillé,jour,sec,35 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+14092,ensoleillé,jour,sec,35 km/h,50 m,voiture,50 m,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+14179,ensoleillé,jour,sec,35 km/h,50 m,camion,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+14425,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+14454,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+15738,ensoleillé,jour,sec,60 km/h,50 m,camion,50 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+15978,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+15982,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,aucune,voiture,en approche,10 m,80 km/h,véhicule prioritaire
+16013,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,aucune,camion,en approche,100 m,50 km/h,aucun
+16213,ensoleillé,jour,sec,60 km/h,100 m,voiture,50 m,aucune,voiture,en approche,50 m,80 km/h,voiture
+16281,ensoleillé,jour,sec,60 km/h,100 m,voiture,50 m,aucune,camion,en approche,10 m,30 km/h,véhicule prioritaire
+16464,ensoleillé,jour,sec,60 km/h,100 m,camion,50 m,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+16593,ensoleillé,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+16755,ensoleillé,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,aucune,camion,en approche,50 m,30 km/h,voiture
+16781,ensoleillé,jour,sec,60 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,voiture
+17050,ensoleillé,jour,sec,60 km/h,150 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+17300,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+17439,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,50 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+17472,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,50 m,aucune,camion,en approche,100 m,30 km/h,aucun
+17525,ensoleillé,jour,sec,100 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+17811,ensoleillé,jour,sec,100 km/h,100 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+17819,ensoleillé,jour,sec,100 km/h,100 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+17873,ensoleillé,jour,sec,100 km/h,100 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+17997,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+18122,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+18304,ensoleillé,jour,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,véhicule prioritaire
+18306,ensoleillé,jour,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+18572,ensoleillé,jour,sec,100 km/h,150 m,camion,50 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+18678,ensoleillé,jour,sec,100 km/h,150 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+18718,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+18732,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+18802,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+18960,ensoleillé,jour,sec,100 km/h,200 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+19287,ensoleillé,jour,sec,100 km/h,200 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,aucun
+19551,ensoleillé,jour,sec,100 km/h,200 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+19898,ensoleillé,jour,sec,35 km/h,10 m,voiture,20 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+19903,ensoleillé,jour,sec,35 km/h,10 m,voiture,20 m,aucune,camion,en approche,50 m,80 km/h,aucun
+20022,ensoleillé,jour,sec,35 km/h,10 m,camion,20 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+20035,ensoleillé,jour,sec,35 km/h,10 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+20547,ensoleillé,jour,sec,35 km/h,50 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+20575,ensoleillé,jour,sec,35 km/h,50 m,voiture,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+20957,ensoleillé,jour,sec,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+21290,ensoleillé,jour,sec,35 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,voiture
+21649,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+21701,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+21763,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,aucun
+21823,ensoleillé,jour,sec,35 km/h,100 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,aucun
+22176,ensoleillé,jour,sec,60 km/h,50 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+22378,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+22519,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+22528,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+22546,ensoleillé,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+23884,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+24034,ensoleillé,jour,sec,60 km/h,150 m,véhicule prioritaire,20 m,aucune,camion,en approche,50 m,80 km/h,aucun
+24290,ensoleillé,jour,sec,100 km/h,100 m,voiture,20 m,aucune,camion,en approche,10 m,50 km/h,voiture
+24444,ensoleillé,jour,sec,100 km/h,100 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,aucun
+24550,ensoleillé,jour,sec,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+24807,ensoleillé,jour,sec,100 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+25279,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+25372,ensoleillé,jour,sec,100 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,véhicule prioritaire
+25579,ensoleillé,jour,sec,100 km/h,200 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+25680,ensoleillé,jour,sec,100 km/h,200 m,voiture,20 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+25775,ensoleillé,jour,sec,100 km/h,200 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+25800,ensoleillé,jour,sec,100 km/h,200 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+26306,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+26323,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,véhicule prioritaire
+26358,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+26611,ensoleillé,jour,mouillé,35 km/h,10 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+26622,ensoleillé,jour,mouillé,35 km/h,10 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+27019,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+27324,ensoleillé,jour,mouillé,35 km/h,50 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+27472,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+27544,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+27694,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,aucune,camion,en approche,100 m,80 km/h,véhicule prioritaire
+27747,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+28132,ensoleillé,jour,mouillé,35 km/h,100 m,camion,libre,aucune,voiture,en approche,10 m,80 km/h,véhicule prioritaire
+28150,ensoleillé,jour,mouillé,35 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+28151,ensoleillé,jour,mouillé,35 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,50 km/h,voiture
+28194,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+28552,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+28908,ensoleillé,jour,mouillé,60 km/h,50 m,camion,libre,aucune,camion,en approche,10 m,30 km/h,voiture
+28953,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+28959,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+28991,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+29227,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+29240,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+29621,ensoleillé,jour,mouillé,60 km/h,100 m,camion,libre,aucune,camion,en approche,100 m,50 km/h,aucun
+29676,ensoleillé,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+29691,ensoleillé,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+30117,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,libre,aucune,camion,en approche,100 m,30 km/h,voiture
+30124,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,libre,aucune,camion,en approche,100 m,80 km/h,véhicule prioritaire
+30175,ensoleillé,jour,mouillé,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+30330,ensoleillé,jour,mouillé,60 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+30482,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+30490,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+30793,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,libre,aucune,voiture,en approche,50 m,80 km/h,voiture
+30878,ensoleillé,jour,mouillé,100 km/h,100 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+30952,ensoleillé,jour,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+31409,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+31425,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+31474,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+31521,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,aucune,voiture,en approche,100 m,30 km/h,voiture
+31541,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+31558,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+31941,ensoleillé,jour,mouillé,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+32156,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+32396,ensoleillé,jour,mouillé,100 km/h,200 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+32630,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+32693,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+32951,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+32972,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,100 m,aucune,voiture,en approche,50 m,50 km/h,aucun
+33195,ensoleillé,jour,mouillé,35 km/h,10 m,camion,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+33219,ensoleillé,jour,mouillé,35 km/h,10 m,camion,100 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+33644,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+33655,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+33903,ensoleillé,jour,mouillé,35 km/h,50 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+33918,ensoleillé,jour,mouillé,35 km/h,50 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,aucun
+33936,ensoleillé,jour,mouillé,35 km/h,50 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+34110,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,aucun
+34210,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+34320,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,aucun
+34347,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,aucun
+34887,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,aucun
+34988,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+35026,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+35046,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+35193,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+35251,ensoleillé,jour,mouillé,60 km/h,50 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,voiture
+35350,ensoleillé,jour,mouillé,60 km/h,50 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+35592,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+35988,ensoleillé,jour,mouillé,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+36162,ensoleillé,jour,mouillé,60 km/h,100 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+36497,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+36543,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,voiture
+36573,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+36633,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+36718,ensoleillé,jour,mouillé,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+36730,ensoleillé,jour,mouillé,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+36757,ensoleillé,jour,mouillé,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+37023,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+37164,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,100 m,aucune,camion,en approche,100 m,30 km/h,voiture
+37355,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,100 m,aucune,voiture,en approche,50 m,50 km/h,voiture
+37689,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+37696,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+37727,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+37741,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+37814,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,voiture
+37964,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+38094,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,100 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+38113,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+38286,ensoleillé,jour,mouillé,100 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+38362,ensoleillé,jour,mouillé,100 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+38373,ensoleillé,jour,mouillé,100 km/h,150 m,camion,100 m,aucune,camion,en approche,50 m,30 km/h,aucun
+38536,ensoleillé,jour,mouillé,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+38669,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+38972,ensoleillé,jour,mouillé,100 km/h,200 m,camion,100 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,voiture
+38995,ensoleillé,jour,mouillé,100 km/h,200 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+39010,ensoleillé,jour,mouillé,100 km/h,200 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+39077,ensoleillé,jour,mouillé,100 km/h,200 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+39135,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+39153,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+39161,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+39475,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+39495,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+39509,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+39560,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,50 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+39668,ensoleillé,jour,mouillé,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+39696,ensoleillé,jour,mouillé,35 km/h,10 m,camion,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+39780,ensoleillé,jour,mouillé,35 km/h,10 m,camion,50 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+39952,ensoleillé,jour,mouillé,35 km/h,10 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,véhicule prioritaire
+40142,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+40267,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,50 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+40304,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+40351,ensoleillé,jour,mouillé,35 km/h,50 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+40571,ensoleillé,jour,mouillé,35 km/h,50 m,camion,50 m,aucune,camion,en approche,10 m,50 km/h,voiture
+40610,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+40887,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+40920,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+41163,ensoleillé,jour,mouillé,35 km/h,100 m,camion,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+41345,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+41360,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+41387,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+41502,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+41652,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+41668,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+41710,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+41713,ensoleillé,jour,mouillé,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,véhicule prioritaire
+41895,ensoleillé,jour,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+41905,ensoleillé,jour,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+41935,ensoleillé,jour,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+42335,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+42350,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+42404,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+42488,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,voiture
+42507,ensoleillé,jour,mouillé,60 km/h,100 m,voiture,50 m,aucune,camion,en approche,10 m,30 km/h,aucun
+42661,ensoleillé,jour,mouillé,60 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,aucun
+43009,ensoleillé,jour,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+43105,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+43116,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+43139,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+43279,ensoleillé,jour,mouillé,60 km/h,150 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+43415,ensoleillé,jour,mouillé,60 km/h,150 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+43467,ensoleillé,jour,mouillé,60 km/h,150 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+43501,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,aucun
+43694,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+43935,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,aucun
+44112,ensoleillé,jour,mouillé,100 km/h,100 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+44244,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+44288,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+44333,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+44337,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+44417,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+44471,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,aucun
+44619,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,50 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,voiture
+44683,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+44692,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,50 m,aucune,camion,en approche,10 m,80 km/h,aucun
+44762,ensoleillé,jour,mouillé,100 km/h,150 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+44791,ensoleillé,jour,mouillé,100 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,véhicule prioritaire
+45294,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+45297,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+45430,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,50 m,aucune,camion,en approche,10 m,80 km/h,voiture
+45582,ensoleillé,jour,mouillé,100 km/h,200 m,camion,50 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,aucun
+45706,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+45893,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+45932,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,aucun
+46043,ensoleillé,jour,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+46323,ensoleillé,jour,mouillé,35 km/h,10 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+46431,ensoleillé,jour,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+46519,ensoleillé,jour,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+46565,ensoleillé,jour,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+46856,ensoleillé,jour,mouillé,35 km/h,50 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+47073,ensoleillé,jour,mouillé,35 km/h,50 m,camion,20 m,aucune,voiture,en approche,100 m,30 km/h,voiture
+47273,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+47361,ensoleillé,jour,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,aucune,camion,en approche,100 m,30 km/h,aucun
+47488,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+47598,ensoleillé,jour,mouillé,35 km/h,100 m,voiture,20 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+47709,ensoleillé,jour,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+47850,ensoleillé,jour,mouillé,35 km/h,100 m,camion,20 m,aucune,camion,en approche,50 m,30 km/h,aucun
+47905,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+47947,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+47995,ensoleillé,jour,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+48522,ensoleillé,jour,mouillé,60 km/h,50 m,camion,20 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+48593,ensoleillé,jour,mouillé,60 km/h,50 m,camion,20 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+48740,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+48773,ensoleillé,jour,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,50 km/h,voiture
+49100,ensoleillé,jour,mouillé,60 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,voiture
+49129,ensoleillé,jour,mouillé,60 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+49205,ensoleillé,jour,mouillé,60 km/h,100 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+49459,ensoleillé,jour,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+49501,ensoleillé,jour,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+49670,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+49777,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,20 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+49785,ensoleillé,jour,mouillé,60 km/h,150 m,voiture,20 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+49830,ensoleillé,jour,mouillé,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+49909,ensoleillé,jour,mouillé,60 km/h,150 m,camion,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+50199,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,aucun
+50298,ensoleillé,jour,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,aucune,camion,en approche,50 m,30 km/h,véhicule prioritaire
+50340,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+50352,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+50443,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+50505,ensoleillé,jour,mouillé,100 km/h,100 m,voiture,20 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,voiture
+50789,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,aucun
+50882,ensoleillé,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,voiture
+51038,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,aucun
+51111,ensoleillé,jour,mouillé,100 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+51301,ensoleillé,jour,mouillé,100 km/h,150 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+51594,ensoleillé,jour,mouillé,100 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+51801,ensoleillé,jour,mouillé,100 km/h,200 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+52248,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+52464,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,aucune,camion,en approche,100 m,30 km/h,aucun
+52468,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,aucune,camion,en approche,10 m,80 km/h,aucun
+52478,ensoleillé,jour,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,aucune,camion,en approche,10 m,50 km/h,voiture
+52490,ensoleillé,nuit,sec,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,aucun
+52491,ensoleillé,nuit,sec,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+52572,ensoleillé,nuit,sec,35 km/h,10 m,voiture,libre,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,aucun
+52778,ensoleillé,nuit,sec,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+52786,ensoleillé,nuit,sec,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,aucun
+52847,ensoleillé,nuit,sec,35 km/h,10 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+52913,ensoleillé,nuit,sec,35 km/h,10 m,camion,libre,aucune,voiture,en approche,100 m,50 km/h,véhicule prioritaire
+53183,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+53262,ensoleillé,nuit,sec,35 km/h,50 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+53638,ensoleillé,nuit,sec,35 km/h,50 m,camion,libre,aucune,voiture,en approche,10 m,80 km/h,voiture
+53643,ensoleillé,nuit,sec,35 km/h,50 m,camion,libre,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+53987,ensoleillé,nuit,sec,35 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+53996,ensoleillé,nuit,sec,35 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+54201,ensoleillé,nuit,sec,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+54230,ensoleillé,nuit,sec,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+54321,ensoleillé,nuit,sec,35 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+54418,ensoleillé,nuit,sec,35 km/h,100 m,camion,libre,aucune,camion,en approche,50 m,80 km/h,voiture
+54469,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+54579,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+54633,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+55182,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+55225,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+55498,ensoleillé,nuit,sec,60 km/h,100 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+55508,ensoleillé,nuit,sec,60 km/h,100 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+55686,ensoleillé,nuit,sec,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+55729,ensoleillé,nuit,sec,60 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,aucun
+56166,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+56195,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+56254,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+56259,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+56268,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+56288,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+56368,ensoleillé,nuit,sec,60 km/h,150 m,voiture,libre,aucune,camion,en approche,100 m,80 km/h,véhicule prioritaire
+56488,ensoleillé,nuit,sec,60 km/h,150 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+57070,ensoleillé,nuit,sec,100 km/h,100 m,voiture,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+57094,ensoleillé,nuit,sec,100 km/h,100 m,voiture,libre,aucune,camion,en approche,10 m,80 km/h,voiture
+57322,ensoleillé,nuit,sec,100 km/h,100 m,camion,libre,aucune,camion,en approche,100 m,80 km/h,aucun
+57681,ensoleillé,nuit,sec,100 km/h,150 m,voiture,libre,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,aucun
+57810,ensoleillé,nuit,sec,100 km/h,150 m,voiture,libre,aucune,camion,en approche,100 m,30 km/h,aucun
+57871,ensoleillé,nuit,sec,100 km/h,150 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+58024,ensoleillé,nuit,sec,100 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+58178,ensoleillé,nuit,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+58407,ensoleillé,nuit,sec,100 km/h,200 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+58507,ensoleillé,nuit,sec,100 km/h,200 m,voiture,libre,aucune,voiture,en approche,10 m,80 km/h,véhicule prioritaire
+58526,ensoleillé,nuit,sec,100 km/h,200 m,voiture,libre,aucune,véhicule prioritaire,en approche,10 m,50 km/h,voiture
+58548,ensoleillé,nuit,sec,100 km/h,200 m,voiture,libre,aucune,camion,en approche,100 m,30 km/h,voiture
+58611,ensoleillé,nuit,sec,100 km/h,200 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+58687,ensoleillé,nuit,sec,100 km/h,200 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+58920,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+59008,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+59126,ensoleillé,nuit,sec,35 km/h,10 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+59191,ensoleillé,nuit,sec,35 km/h,10 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+59350,ensoleillé,nuit,sec,35 km/h,10 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,aucun
+59407,ensoleillé,nuit,sec,35 km/h,10 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+59525,ensoleillé,nuit,sec,35 km/h,10 m,camion,100 m,aucune,camion,en approche,10 m,50 km/h,voiture
+59550,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+59670,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+59729,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+59760,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,100 m,aucune,camion,en approche,10 m,30 km/h,aucun
+59894,ensoleillé,nuit,sec,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+59961,ensoleillé,nuit,sec,35 km/h,50 m,voiture,100 m,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+59986,ensoleillé,nuit,sec,35 km/h,50 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+60181,ensoleillé,nuit,sec,35 km/h,50 m,camion,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,véhicule prioritaire
+60285,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+60312,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+60435,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,100 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+60450,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,100 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+60649,ensoleillé,nuit,sec,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+60678,ensoleillé,nuit,sec,35 km/h,100 m,voiture,100 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+60680,ensoleillé,nuit,sec,35 km/h,100 m,voiture,100 m,aucune,voiture,en approche,100 m,50 km/h,voiture
+60961,ensoleillé,nuit,sec,35 km/h,100 m,camion,100 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+61222,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,80 km/h,voiture
+61232,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+61326,ensoleillé,nuit,sec,60 km/h,50 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,aucun
+61393,ensoleillé,nuit,sec,60 km/h,50 m,voiture,100 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+61594,ensoleillé,nuit,sec,60 km/h,50 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+61820,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+61890,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,100 m,aucune,voiture,en approche,50 m,30 km/h,aucun
+62021,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+62030,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+62039,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+62058,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,voiture
+62066,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+62126,ensoleillé,nuit,sec,60 km/h,100 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+62351,ensoleillé,nuit,sec,60 km/h,100 m,camion,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+62461,ensoleillé,nuit,sec,60 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,voiture
+62491,ensoleillé,nuit,sec,60 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+62863,ensoleillé,nuit,sec,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,10 m,80 km/h,aucun
+62873,ensoleillé,nuit,sec,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,10 m,50 km/h,voiture
+62921,ensoleillé,nuit,sec,60 km/h,150 m,voiture,100 m,aucune,camion,en approche,100 m,50 km/h,voiture
+63031,ensoleillé,nuit,sec,60 km/h,150 m,camion,100 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+63067,ensoleillé,nuit,sec,60 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+63098,ensoleillé,nuit,sec,60 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+63117,ensoleillé,nuit,sec,60 km/h,150 m,camion,100 m,aucune,voiture,en approche,10 m,30 km/h,voiture
+63153,ensoleillé,nuit,sec,60 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+63192,ensoleillé,nuit,sec,60 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+63220,ensoleillé,nuit,sec,60 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+63602,ensoleillé,nuit,sec,100 km/h,100 m,voiture,100 m,aucune,voiture,en approche,10 m,50 km/h,voiture
+63776,ensoleillé,nuit,sec,100 km/h,100 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+63843,ensoleillé,nuit,sec,100 km/h,100 m,camion,100 m,aucune,voiture,en approche,50 m,30 km/h,voiture
+64185,ensoleillé,nuit,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+64245,ensoleillé,nuit,sec,100 km/h,150 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,voiture
+64552,ensoleillé,nuit,sec,100 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+64719,ensoleillé,nuit,sec,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+64769,ensoleillé,nuit,sec,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+64936,ensoleillé,nuit,sec,100 km/h,200 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,aucun
+65081,ensoleillé,nuit,sec,100 km/h,200 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+65115,ensoleillé,nuit,sec,100 km/h,200 m,voiture,100 m,aucune,camion,en approche,10 m,30 km/h,voiture
+65221,ensoleillé,nuit,sec,100 km/h,200 m,camion,100 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+65529,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,véhicule prioritaire
+65633,ensoleillé,nuit,sec,35 km/h,10 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+65647,ensoleillé,nuit,sec,35 km/h,10 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+65855,ensoleillé,nuit,sec,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,aucun
+65915,ensoleillé,nuit,sec,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+65990,ensoleillé,nuit,sec,35 km/h,10 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+66044,ensoleillé,nuit,sec,35 km/h,10 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+66110,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,voiture
+66211,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+66423,ensoleillé,nuit,sec,35 km/h,50 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,aucun
+66508,ensoleillé,nuit,sec,35 km/h,50 m,voiture,50 m,aucune,voiture,en approche,10 m,80 km/h,aucun
+66881,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+67162,ensoleillé,nuit,sec,35 km/h,100 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+67328,ensoleillé,nuit,sec,35 km/h,100 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+67349,ensoleillé,nuit,sec,35 km/h,100 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+67474,ensoleillé,nuit,sec,35 km/h,100 m,camion,50 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+67596,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+67717,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,50 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+67808,ensoleillé,nuit,sec,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,voiture
+67827,ensoleillé,nuit,sec,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+68024,ensoleillé,nuit,sec,60 km/h,50 m,voiture,50 m,aucune,camion,en approche,100 m,50 km/h,voiture
+68395,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+69064,ensoleillé,nuit,sec,60 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+69243,ensoleillé,nuit,sec,60 km/h,100 m,véhicule prioritaire,50 m,aucune,camion,en approche,50 m,30 km/h,voiture
+69276,ensoleillé,nuit,sec,60 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+69559,ensoleillé,nuit,sec,60 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,aucun
+69595,ensoleillé,nuit,sec,60 km/h,150 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+70264,ensoleillé,nuit,sec,100 km/h,100 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+70402,ensoleillé,nuit,sec,100 km/h,100 m,camion,50 m,aucune,voiture,en approche,50 m,80 km/h,voiture
+70407,ensoleillé,nuit,sec,100 km/h,100 m,camion,50 m,aucune,voiture,en approche,10 m,30 km/h,voiture
+70437,ensoleillé,nuit,sec,100 km/h,100 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+70627,ensoleillé,nuit,sec,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+70642,ensoleillé,nuit,sec,100 km/h,100 m,véhicule prioritaire,50 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+70778,ensoleillé,nuit,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+70883,ensoleillé,nuit,sec,100 km/h,150 m,voiture,50 m,aucune,voiture,en approche,10 m,50 km/h,aucun
+71206,ensoleillé,nuit,sec,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+71573,ensoleillé,nuit,sec,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+71604,ensoleillé,nuit,sec,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,véhicule prioritaire
+71970,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+72030,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+72172,ensoleillé,nuit,sec,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+72409,ensoleillé,nuit,sec,35 km/h,10 m,voiture,20 m,aucune,camion,en approche,50 m,80 km/h,véhicule prioritaire
+72431,ensoleillé,nuit,sec,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+72870,ensoleillé,nuit,sec,35 km/h,10 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+72959,ensoleillé,nuit,sec,35 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+73116,ensoleillé,nuit,sec,35 km/h,50 m,voiture,20 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+73477,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+73585,ensoleillé,nuit,sec,35 km/h,50 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+73971,ensoleillé,nuit,sec,35 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+73983,ensoleillé,nuit,sec,35 km/h,100 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+74225,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+74280,ensoleillé,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+74426,ensoleillé,nuit,sec,60 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+74811,ensoleillé,nuit,sec,60 km/h,50 m,camion,20 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+74883,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+75005,ensoleillé,nuit,sec,60 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+75200,ensoleillé,nuit,sec,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+75338,ensoleillé,nuit,sec,60 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,aucun
+75462,ensoleillé,nuit,sec,60 km/h,100 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+75468,ensoleillé,nuit,sec,60 km/h,100 m,camion,20 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,aucun
+75526,ensoleillé,nuit,sec,60 km/h,100 m,camion,20 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,aucun
+75557,ensoleillé,nuit,sec,60 km/h,100 m,camion,20 m,aucune,camion,en approche,100 m,50 km/h,voiture
+75944,ensoleillé,nuit,sec,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+76080,ensoleillé,nuit,sec,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+76139,ensoleillé,nuit,sec,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+76201,ensoleillé,nuit,sec,60 km/h,150 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+76283,ensoleillé,nuit,sec,60 km/h,150 m,camion,20 m,aucune,camion,en approche,10 m,50 km/h,aucun
+76598,ensoleillé,nuit,sec,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+76833,ensoleillé,nuit,sec,100 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+76953,ensoleillé,nuit,sec,100 km/h,100 m,camion,20 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+77003,ensoleillé,nuit,sec,100 km/h,100 m,camion,20 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+77216,ensoleillé,nuit,sec,100 km/h,100 m,véhicule prioritaire,20 m,aucune,voiture,en approche,50 m,50 km/h,véhicule prioritaire
+77270,ensoleillé,nuit,sec,100 km/h,100 m,véhicule prioritaire,20 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+77502,ensoleillé,nuit,sec,100 km/h,150 m,voiture,20 m,aucune,camion,en approche,100 m,30 km/h,voiture
+77692,ensoleillé,nuit,sec,100 km/h,150 m,camion,20 m,aucune,voiture,en approche,50 m,80 km/h,voiture
+77753,ensoleillé,nuit,sec,100 km/h,150 m,camion,20 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+78160,ensoleillé,nuit,sec,100 km/h,200 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+78356,ensoleillé,nuit,sec,100 km/h,200 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+78436,ensoleillé,nuit,sec,100 km/h,200 m,camion,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+78502,ensoleillé,nuit,sec,100 km/h,200 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+78771,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+78824,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,libre,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,voiture
+79094,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+79112,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+79168,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,aucun
+79183,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+79305,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+79346,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+79349,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+79557,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+79744,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+79799,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,voiture
+80071,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+80505,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+80541,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+80614,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,libre,aucune,voiture,en approche,100 m,80 km/h,véhicule prioritaire
+80684,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,aucun
+80780,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+80924,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,aucun
+80938,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,véhicule prioritaire
+81058,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,libre,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+81523,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+81539,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+81632,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,libre,aucune,camion,en approche,100 m,50 km/h,voiture
+81820,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,libre,aucune,voiture,en approche,100 m,80 km/h,voiture
+81884,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,libre,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+81954,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+81985,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+82023,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+82044,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,libre,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+82060,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,libre,aucune,voiture,en approche,10 m,80 km/h,aucun
+82360,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,libre,aucune,camion,en approche,100 m,80 km/h,voiture
+82632,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+82857,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,libre,aucune,camion,en approche,100 m,30 km/h,véhicule prioritaire
+82879,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,voiture
+82976,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+83100,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,libre,aucune,camion,en approche,100 m,30 km/h,véhicule prioritaire
+83129,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+83459,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+83478,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+83557,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+83629,ensoleillé,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+83758,ensoleillé,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,50 m,80 km/h,aucun
+83775,ensoleillé,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+83842,ensoleillé,nuit,mouillé,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+84279,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+84399,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+84705,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,libre,pressé (travail ou vol),camion,en approche,50 m,30 km/h,aucun
+84759,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,30 km/h,aucun
+84966,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,libre,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+85379,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,aucun
+85577,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+85905,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+85984,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+86105,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+86244,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,100 m,aucune,camion,en approche,50 m,30 km/h,aucun
+86442,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,100 m,aucune,voiture,en approche,50 m,30 km/h,voiture
+86655,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+86790,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+86836,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+86965,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+87093,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+87210,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+87217,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,100 m,aucune,camion,en approche,10 m,80 km/h,aucun
+87342,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+87460,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,10 m,80 km/h,aucun
+87625,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+87798,ensoleillé,nuit,mouillé,60 km/h,50 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+88046,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+88245,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+88255,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+88493,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+88526,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+88597,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+88740,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+88815,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+88892,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+88896,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+89123,ensoleillé,nuit,mouillé,60 km/h,150 m,voiture,100 m,aucune,voiture,en approche,50 m,50 km/h,véhicule prioritaire
+89161,ensoleillé,nuit,mouillé,60 km/h,150 m,voiture,100 m,aucune,camion,en approche,10 m,80 km/h,aucun
+89199,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+89306,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+89482,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,aucun
+89666,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,100 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+89776,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+89881,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+89930,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+90040,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+90079,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,100 m,aucune,voiture,en approche,10 m,80 km/h,aucun
+90109,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+90189,ensoleillé,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+90661,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+90738,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,voiture
+90779,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+90797,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,véhicule prioritaire
+90885,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+91202,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+91446,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+91525,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+91537,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,100 m,aucune,voiture,en approche,10 m,80 km/h,aucun
+91818,ensoleillé,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+92024,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,50 m,aucune,voiture,en approche,10 m,50 km/h,aucun
+92281,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,50 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+92360,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+92619,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+92797,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+93147,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+93215,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+93337,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+93364,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+93370,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,aucun
+93587,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+93593,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+93856,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,aucun
+93867,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+94107,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,voiture
+94179,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,aucun
+94421,ensoleillé,nuit,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+94482,ensoleillé,nuit,mouillé,60 km/h,50 m,camion,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+94695,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,50 m,aucune,voiture,en approche,50 m,30 km/h,aucun
+94763,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,50 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+94988,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,50 m,aucune,camion,en approche,100 m,50 km/h,aucun
+95089,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+95110,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+95394,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,aucun
+95538,ensoleillé,nuit,mouillé,60 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+95664,ensoleillé,nuit,mouillé,60 km/h,150 m,voiture,50 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+95667,ensoleillé,nuit,mouillé,60 km/h,150 m,voiture,50 m,aucune,voiture,en approche,50 m,30 km/h,aucun
+95862,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+95909,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,50 m,aucune,voiture,en approche,50 m,50 km/h,aucun
+95944,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+96137,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+96175,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+96190,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+96292,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+96416,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,50 m,aucune,voiture,en approche,10 m,50 km/h,véhicule prioritaire
+96552,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+96964,ensoleillé,nuit,mouillé,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+97051,ensoleillé,nuit,mouillé,100 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,voiture
+97370,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,50 m,aucune,voiture,en approche,10 m,50 km/h,aucun
+97378,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,50 m,aucune,voiture,en approche,10 m,80 km/h,voiture
+97608,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+97656,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+97746,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,aucun
+97809,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+97878,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,50 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+97917,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,50 m,aucune,camion,en approche,50 m,30 km/h,voiture
+98071,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+98126,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,50 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+98141,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+98144,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,50 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+98462,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+98496,ensoleillé,nuit,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+98710,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+98768,ensoleillé,nuit,mouillé,35 km/h,10 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+98937,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+98982,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+99020,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+99085,ensoleillé,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+99147,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+99227,ensoleillé,nuit,mouillé,35 km/h,50 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+99463,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+99506,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+99538,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,voiture
+99544,ensoleillé,nuit,mouillé,35 km/h,50 m,camion,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+99713,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+99842,ensoleillé,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+100061,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,20 m,aucune,voiture,en approche,10 m,50 km/h,véhicule prioritaire
+100099,ensoleillé,nuit,mouillé,35 km/h,100 m,voiture,20 m,aucune,camion,en approche,100 m,80 km/h,voiture
+100173,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,aucun
+100240,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+100288,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,20 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+100304,ensoleillé,nuit,mouillé,35 km/h,100 m,camion,20 m,aucune,voiture,en approche,10 m,50 km/h,véhicule prioritaire
+100468,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+100515,ensoleillé,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,véhicule prioritaire
+100655,ensoleillé,nuit,mouillé,60 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+101113,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+101331,ensoleillé,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,aucune,camion,en approche,10 m,30 km/h,véhicule prioritaire
+101342,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,voiture
+101356,ensoleillé,nuit,mouillé,60 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+101586,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+101731,ensoleillé,nuit,mouillé,60 km/h,100 m,camion,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+101823,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+102044,ensoleillé,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,aucune,camion,en approche,100 m,50 km/h,voiture
+102375,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+102415,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+102446,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+102464,ensoleillé,nuit,mouillé,60 km/h,150 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+102589,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+102685,ensoleillé,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+102897,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+102915,ensoleillé,nuit,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+103227,ensoleillé,nuit,mouillé,100 km/h,100 m,camion,20 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,aucun
+103671,ensoleillé,nuit,mouillé,100 km/h,150 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+103980,ensoleillé,nuit,mouillé,100 km/h,150 m,camion,20 m,aucune,camion,en approche,100 m,30 km/h,aucun
+104068,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+104105,ensoleillé,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+104400,ensoleillé,nuit,mouillé,100 km/h,200 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+104559,ensoleillé,nuit,mouillé,100 km/h,200 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+104880,ensoleillé,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+104922,ensoleillé,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,aucune,voiture,en approche,10 m,30 km/h,véhicule prioritaire
+105126,pluvieux,jour,sec,35 km/h,10 m,voiture,libre,pressé (travail ou vol),camion,en approche,50 m,30 km/h,voiture
+105172,pluvieux,jour,sec,35 km/h,10 m,voiture,libre,aucune,véhicule prioritaire,en approche,10 m,80 km/h,aucun
+105180,pluvieux,jour,sec,35 km/h,10 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,30 km/h,voiture
+105306,pluvieux,jour,sec,35 km/h,10 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+105337,pluvieux,jour,sec,35 km/h,10 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+105431,pluvieux,jour,sec,35 km/h,10 m,camion,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+105692,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,libre,aucune,camion,en approche,50 m,50 km/h,voiture
+105975,pluvieux,jour,sec,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+106241,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+106282,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+106405,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+106502,pluvieux,jour,sec,35 km/h,100 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+107085,pluvieux,jour,sec,35 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,30 km/h,aucun
+107199,pluvieux,jour,sec,60 km/h,50 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+107434,pluvieux,jour,sec,60 km/h,50 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+107517,pluvieux,jour,sec,60 km/h,50 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+107587,pluvieux,jour,sec,60 km/h,50 m,camion,libre,aucune,voiture,en approche,100 m,80 km/h,véhicule prioritaire
+107825,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,libre,aucune,voiture,en approche,50 m,50 km/h,voiture
+107911,pluvieux,jour,sec,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,véhicule prioritaire
+107917,pluvieux,jour,sec,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+108080,pluvieux,jour,sec,60 km/h,100 m,voiture,libre,aucune,voiture,en approche,10 m,50 km/h,véhicule prioritaire
+108138,pluvieux,jour,sec,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+108219,pluvieux,jour,sec,60 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,aucun
+108222,pluvieux,jour,sec,60 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+108484,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+108623,pluvieux,jour,sec,60 km/h,150 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,aucun
+109139,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+109202,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,voiture
+109254,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+109308,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+109570,pluvieux,jour,sec,100 km/h,100 m,voiture,libre,aucune,camion,en approche,50 m,80 km/h,aucun
+109582,pluvieux,jour,sec,100 km/h,100 m,voiture,libre,aucune,camion,en approche,10 m,80 km/h,voiture
+109678,pluvieux,jour,sec,100 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+109843,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+110097,pluvieux,jour,sec,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+110142,pluvieux,jour,sec,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+110439,pluvieux,jour,sec,100 km/h,150 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+110514,pluvieux,jour,sec,100 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+110674,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+110689,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+110816,pluvieux,jour,sec,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,aucun
+110903,pluvieux,jour,sec,100 km/h,200 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,voiture
+111021,pluvieux,jour,sec,100 km/h,200 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+111102,pluvieux,jour,sec,100 km/h,200 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+111155,pluvieux,jour,sec,100 km/h,200 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+111225,pluvieux,jour,sec,100 km/h,200 m,camion,libre,aucune,voiture,en approche,100 m,30 km/h,voiture
+111245,pluvieux,jour,sec,100 km/h,200 m,camion,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+111323,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+111495,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+111584,pluvieux,jour,sec,35 km/h,10 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+111749,pluvieux,jour,sec,35 km/h,10 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+111860,pluvieux,jour,sec,35 km/h,10 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+111992,pluvieux,jour,sec,35 km/h,10 m,camion,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+112157,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+112336,pluvieux,jour,sec,35 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+112426,pluvieux,jour,sec,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,véhicule prioritaire
+112680,pluvieux,jour,sec,35 km/h,50 m,camion,100 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+112772,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+112990,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,80 km/h,véhicule prioritaire
+113457,pluvieux,jour,sec,35 km/h,100 m,camion,100 m,aucune,camion,en approche,100 m,30 km/h,aucun
+113589,pluvieux,jour,sec,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+113751,pluvieux,jour,sec,60 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+113833,pluvieux,jour,sec,60 km/h,50 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+114108,pluvieux,jour,sec,60 km/h,50 m,camion,100 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,aucun
+114246,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+114515,pluvieux,jour,sec,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,aucun
+114658,pluvieux,jour,sec,60 km/h,100 m,voiture,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+115123,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,100 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+115126,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,100 m,aucune,voiture,en approche,10 m,80 km/h,véhicule prioritaire
+115203,pluvieux,jour,sec,60 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+115616,pluvieux,jour,sec,60 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+115639,pluvieux,jour,sec,60 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+116195,pluvieux,jour,sec,100 km/h,100 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+116467,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+116710,pluvieux,jour,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+116779,pluvieux,jour,sec,100 km/h,150 m,voiture,100 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+116893,pluvieux,jour,sec,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,voiture
+116903,pluvieux,jour,sec,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+116996,pluvieux,jour,sec,100 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+117107,pluvieux,jour,sec,100 km/h,150 m,camion,100 m,aucune,camion,en approche,10 m,50 km/h,aucun
+117170,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+117260,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+117326,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+117506,pluvieux,jour,sec,100 km/h,200 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+117574,pluvieux,jour,sec,100 km/h,200 m,voiture,100 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+117625,pluvieux,jour,sec,100 km/h,200 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+117637,pluvieux,jour,sec,100 km/h,200 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+117643,pluvieux,jour,sec,100 km/h,200 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+118139,pluvieux,jour,sec,35 km/h,10 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+118420,pluvieux,jour,sec,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,véhicule prioritaire
+118775,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+118853,pluvieux,jour,sec,35 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+118930,pluvieux,jour,sec,35 km/h,50 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+119056,pluvieux,jour,sec,35 km/h,50 m,voiture,50 m,aucune,camion,en approche,50 m,80 km/h,voiture
+119117,pluvieux,jour,sec,35 km/h,50 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+119207,pluvieux,jour,sec,35 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+119227,pluvieux,jour,sec,35 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+119254,pluvieux,jour,sec,35 km/h,50 m,camion,50 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+119324,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,voiture
+119334,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+119354,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+119377,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+119709,pluvieux,jour,sec,35 km/h,100 m,voiture,50 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+119793,pluvieux,jour,sec,35 km/h,100 m,voiture,50 m,aucune,camion,en approche,100 m,30 km/h,véhicule prioritaire
+119911,pluvieux,jour,sec,35 km/h,100 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+119983,pluvieux,jour,sec,35 km/h,100 m,camion,50 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+120292,pluvieux,jour,sec,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+120436,pluvieux,jour,sec,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,voiture
+120696,pluvieux,jour,sec,60 km/h,50 m,camion,50 m,aucune,voiture,en approche,50 m,30 km/h,aucun
+120724,pluvieux,jour,sec,60 km/h,50 m,camion,50 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,aucun
+120772,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+120811,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+120867,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+120941,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,50 m,aucune,voiture,en approche,10 m,50 km/h,aucun
+121221,pluvieux,jour,sec,60 km/h,100 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+121556,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+121612,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+121623,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+121694,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+121742,pluvieux,jour,sec,60 km/h,100 m,véhicule prioritaire,50 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+121815,pluvieux,jour,sec,60 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+121829,pluvieux,jour,sec,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,aucun
+121929,pluvieux,jour,sec,60 km/h,150 m,voiture,50 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+122075,pluvieux,jour,sec,60 km/h,150 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,aucun
+122199,pluvieux,jour,sec,60 km/h,150 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+122247,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+122555,pluvieux,jour,sec,100 km/h,100 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+122629,pluvieux,jour,sec,100 km/h,100 m,voiture,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+122697,pluvieux,jour,sec,100 km/h,100 m,voiture,50 m,aucune,camion,en approche,10 m,30 km/h,aucun
+122827,pluvieux,jour,sec,100 km/h,100 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+123033,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+123066,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+123227,pluvieux,jour,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+123507,pluvieux,jour,sec,100 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+123535,pluvieux,jour,sec,100 km/h,150 m,camion,50 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+123701,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,voiture
+123823,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,aucun
+123842,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+123889,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+123921,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,50 m,aucune,camion,en approche,10 m,30 km/h,voiture
+123931,pluvieux,jour,sec,100 km/h,200 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+123947,pluvieux,jour,sec,100 km/h,200 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+124146,pluvieux,jour,sec,100 km/h,200 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+124248,pluvieux,jour,sec,100 km/h,200 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+124611,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,aucun
+124654,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,50 m,aucune,camion,en approche,50 m,80 km/h,véhicule prioritaire
+124953,pluvieux,jour,sec,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+125036,pluvieux,jour,sec,35 km/h,10 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+125247,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+125274,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+125345,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+125360,pluvieux,jour,sec,35 km/h,10 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+125716,pluvieux,jour,sec,35 km/h,50 m,camion,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+125761,pluvieux,jour,sec,35 km/h,50 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+125838,pluvieux,jour,sec,35 km/h,50 m,camion,20 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+125920,pluvieux,jour,sec,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+126461,pluvieux,jour,sec,35 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+126837,pluvieux,jour,sec,35 km/h,100 m,véhicule prioritaire,20 m,aucune,camion,en approche,10 m,30 km/h,voiture
+126883,pluvieux,jour,sec,60 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+127366,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+127454,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+127503,pluvieux,jour,sec,60 km/h,50 m,véhicule prioritaire,20 m,aucune,voiture,en approche,10 m,30 km/h,aucun
+127655,pluvieux,jour,sec,60 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+127726,pluvieux,jour,sec,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,voiture
+128010,pluvieux,jour,sec,60 km/h,100 m,camion,20 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+128056,pluvieux,jour,sec,60 km/h,100 m,camion,20 m,aucune,camion,en approche,50 m,80 km/h,véhicule prioritaire
+128419,pluvieux,jour,sec,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+128449,pluvieux,jour,sec,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+128619,pluvieux,jour,sec,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+128986,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,aucun
+129011,pluvieux,jour,sec,60 km/h,150 m,véhicule prioritaire,20 m,aucune,camion,en approche,50 m,50 km/h,aucun
+129104,pluvieux,jour,sec,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,voiture
+129196,pluvieux,jour,sec,100 km/h,100 m,voiture,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+129541,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+129727,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+129761,pluvieux,jour,sec,100 km/h,100 m,véhicule prioritaire,20 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+129954,pluvieux,jour,sec,100 km/h,150 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+129996,pluvieux,jour,sec,100 km/h,150 m,voiture,20 m,aucune,camion,en approche,10 m,30 km/h,voiture
+130213,pluvieux,jour,sec,100 km/h,150 m,camion,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+130369,pluvieux,jour,sec,100 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+130507,pluvieux,jour,sec,100 km/h,200 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,voiture
+130601,pluvieux,jour,sec,100 km/h,200 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+131080,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+131176,pluvieux,jour,sec,100 km/h,200 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+131247,pluvieux,jour,mouillé,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+131287,pluvieux,jour,mouillé,35 km/h,10 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+131443,pluvieux,jour,mouillé,35 km/h,10 m,voiture,libre,aucune,camion,en approche,10 m,80 km/h,aucun
+131527,pluvieux,jour,mouillé,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+131724,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+131789,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+132060,pluvieux,jour,mouillé,35 km/h,50 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+132241,pluvieux,jour,mouillé,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+132338,pluvieux,jour,mouillé,35 km/h,50 m,camion,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+132350,pluvieux,jour,mouillé,35 km/h,50 m,camion,libre,pressé (travail ou vol),camion,en approche,50 m,50 km/h,véhicule prioritaire
+132537,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+132554,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+132616,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,80 km/h,véhicule prioritaire
+133094,pluvieux,jour,mouillé,35 km/h,100 m,camion,libre,aucune,voiture,en approche,100 m,50 km/h,voiture
+133494,pluvieux,jour,mouillé,60 km/h,50 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+133695,pluvieux,jour,mouillé,60 km/h,50 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+133900,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+134074,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,80 km/h,véhicule prioritaire
+134156,pluvieux,jour,mouillé,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+134161,pluvieux,jour,mouillé,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+134180,pluvieux,jour,mouillé,60 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+134300,pluvieux,jour,mouillé,60 km/h,100 m,voiture,libre,aucune,voiture,en approche,100 m,50 km/h,aucun
+134457,pluvieux,jour,mouillé,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+134549,pluvieux,jour,mouillé,60 km/h,100 m,camion,libre,aucune,voiture,en approche,10 m,50 km/h,aucun
+134657,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+134720,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+134740,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+134768,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+135094,pluvieux,jour,mouillé,60 km/h,150 m,voiture,libre,aucune,camion,en approche,50 m,80 km/h,voiture
+135099,pluvieux,jour,mouillé,60 km/h,150 m,voiture,libre,aucune,camion,en approche,10 m,30 km/h,voiture
+135115,pluvieux,jour,mouillé,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+135421,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+135581,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,libre,aucune,camion,en approche,50 m,50 km/h,voiture
+135746,pluvieux,jour,mouillé,100 km/h,100 m,voiture,libre,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+135846,pluvieux,jour,mouillé,100 km/h,100 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,aucun
+135979,pluvieux,jour,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+136054,pluvieux,jour,mouillé,100 km/h,100 m,camion,libre,aucune,camion,en approche,100 m,80 km/h,aucun
+136104,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+136229,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,50 m,50 km/h,voiture
+136388,pluvieux,jour,mouillé,100 km/h,150 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+136410,pluvieux,jour,mouillé,100 km/h,150 m,voiture,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,aucun
+136501,pluvieux,jour,mouillé,100 km/h,150 m,voiture,libre,aucune,voiture,en approche,10 m,80 km/h,voiture
+136592,pluvieux,jour,mouillé,100 km/h,150 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+136610,pluvieux,jour,mouillé,100 km/h,150 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+136806,pluvieux,jour,mouillé,100 km/h,150 m,camion,libre,aucune,camion,en approche,50 m,30 km/h,véhicule prioritaire
+136821,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+137207,pluvieux,jour,mouillé,100 km/h,200 m,voiture,libre,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+137269,pluvieux,jour,mouillé,100 km/h,200 m,voiture,libre,aucune,camion,en approche,100 m,80 km/h,aucun
+137326,pluvieux,jour,mouillé,100 km/h,200 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+137347,pluvieux,jour,mouillé,100 km/h,200 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+137782,pluvieux,jour,mouillé,35 km/h,10 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+137920,pluvieux,jour,mouillé,35 km/h,10 m,voiture,100 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+138110,pluvieux,jour,mouillé,35 km/h,10 m,camion,100 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,aucun
+138126,pluvieux,jour,mouillé,35 km/h,10 m,camion,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+138322,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,aucun
+138608,pluvieux,jour,mouillé,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+138730,pluvieux,jour,mouillé,35 km/h,50 m,voiture,100 m,aucune,camion,en approche,50 m,80 km/h,aucun
+139438,pluvieux,jour,mouillé,35 km/h,100 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+139497,pluvieux,jour,mouillé,35 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+140024,pluvieux,jour,mouillé,60 km/h,50 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+140155,pluvieux,jour,mouillé,60 km/h,50 m,voiture,100 m,aucune,voiture,en approche,10 m,80 km/h,véhicule prioritaire
+140308,pluvieux,jour,mouillé,60 km/h,50 m,camion,100 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+140427,pluvieux,jour,mouillé,60 km/h,50 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+140569,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+140598,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,aucun
+140634,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,aucune,voiture,en approche,10 m,30 km/h,voiture
+140665,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+140714,pluvieux,jour,mouillé,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,voiture
+140732,pluvieux,jour,mouillé,60 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+140800,pluvieux,jour,mouillé,60 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+140969,pluvieux,jour,mouillé,60 km/h,100 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+141115,pluvieux,jour,mouillé,60 km/h,100 m,camion,100 m,aucune,voiture,en approche,50 m,80 km/h,voiture
+141205,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+141335,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+141495,pluvieux,jour,mouillé,60 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+141512,pluvieux,jour,mouillé,60 km/h,150 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,aucun
+141783,pluvieux,jour,mouillé,60 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+142173,pluvieux,jour,mouillé,100 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+142235,pluvieux,jour,mouillé,100 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+142338,pluvieux,jour,mouillé,100 km/h,100 m,voiture,100 m,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+142349,pluvieux,jour,mouillé,100 km/h,100 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+142385,pluvieux,jour,mouillé,100 km/h,100 m,voiture,100 m,aucune,camion,en approche,50 m,50 km/h,voiture
+142409,pluvieux,jour,mouillé,100 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,voiture
+142434,pluvieux,jour,mouillé,100 km/h,100 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+142672,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+142721,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,véhicule prioritaire
+142859,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,100 m,50 km/h,aucun
+142910,pluvieux,jour,mouillé,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+143048,pluvieux,jour,mouillé,100 km/h,150 m,voiture,100 m,aucune,voiture,en approche,100 m,50 km/h,aucun
+143137,pluvieux,jour,mouillé,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,voiture
+143152,pluvieux,jour,mouillé,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+143614,pluvieux,jour,mouillé,100 km/h,200 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+143765,pluvieux,jour,mouillé,100 km/h,200 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+143766,pluvieux,jour,mouillé,100 km/h,200 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+143815,pluvieux,jour,mouillé,100 km/h,200 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+144042,pluvieux,jour,mouillé,100 km/h,200 m,camion,100 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+144068,pluvieux,jour,mouillé,100 km/h,200 m,camion,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+144266,pluvieux,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,aucune,voiture,en approche,50 m,50 km/h,aucun
+144316,pluvieux,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,aucune,camion,en approche,100 m,80 km/h,aucun
+144340,pluvieux,jour,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+144553,pluvieux,jour,mouillé,35 km/h,10 m,voiture,50 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+144613,pluvieux,jour,mouillé,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+144619,pluvieux,jour,mouillé,35 km/h,10 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+144697,pluvieux,jour,mouillé,35 km/h,10 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+144938,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+145581,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+145670,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+145679,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+145968,pluvieux,jour,mouillé,35 km/h,100 m,voiture,50 m,aucune,voiture,en approche,50 m,30 km/h,aucun
+145989,pluvieux,jour,mouillé,35 km/h,100 m,voiture,50 m,aucune,voiture,en approche,10 m,30 km/h,véhicule prioritaire
+146229,pluvieux,jour,mouillé,35 km/h,100 m,camion,50 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+146428,pluvieux,jour,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+146532,pluvieux,jour,mouillé,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+146737,pluvieux,jour,mouillé,60 km/h,50 m,voiture,50 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+146915,pluvieux,jour,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+146976,pluvieux,jour,mouillé,60 km/h,50 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,30 km/h,voiture
+147018,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+147304,pluvieux,jour,mouillé,60 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+147366,pluvieux,jour,mouillé,60 km/h,100 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+147687,pluvieux,jour,mouillé,60 km/h,100 m,camion,50 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+147693,pluvieux,jour,mouillé,60 km/h,100 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+147695,pluvieux,jour,mouillé,60 km/h,100 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+147745,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+147992,pluvieux,jour,mouillé,60 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,aucun
+148089,pluvieux,jour,mouillé,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+148243,pluvieux,jour,mouillé,60 km/h,150 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+148551,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+148571,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,voiture
+148582,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+148596,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+148697,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,aucune,camion,en approche,10 m,50 km/h,aucun
+148839,pluvieux,jour,mouillé,100 km/h,100 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+148971,pluvieux,jour,mouillé,100 km/h,100 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+149049,pluvieux,jour,mouillé,100 km/h,100 m,camion,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,aucun
+149223,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+149245,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,voiture
+149281,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,véhicule prioritaire
+149293,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+149355,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+149617,pluvieux,jour,mouillé,100 km/h,150 m,voiture,50 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+149636,pluvieux,jour,mouillé,100 km/h,150 m,voiture,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+149789,pluvieux,jour,mouillé,100 km/h,150 m,camion,50 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+149937,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+149952,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+150033,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+150130,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+150138,pluvieux,jour,mouillé,100 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+150287,pluvieux,jour,mouillé,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+150389,pluvieux,jour,mouillé,100 km/h,200 m,voiture,50 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+150410,pluvieux,jour,mouillé,100 km/h,200 m,voiture,50 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+150767,pluvieux,jour,mouillé,100 km/h,200 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+150962,pluvieux,jour,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+150992,pluvieux,jour,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,aucun
+150998,pluvieux,jour,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,voiture
+151021,pluvieux,jour,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+151211,pluvieux,jour,mouillé,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+151431,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+151537,pluvieux,jour,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,voiture
+151661,pluvieux,jour,mouillé,35 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+151842,pluvieux,jour,mouillé,35 km/h,50 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+152034,pluvieux,jour,mouillé,35 km/h,50 m,camion,20 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+152096,pluvieux,jour,mouillé,35 km/h,50 m,camion,20 m,aucune,camion,en approche,50 m,50 km/h,aucun
+152128,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,voiture
+152177,pluvieux,jour,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,aucun
+152373,pluvieux,jour,mouillé,35 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+152437,pluvieux,jour,mouillé,35 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+152450,pluvieux,jour,mouillé,35 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,aucun
+152472,pluvieux,jour,mouillé,35 km/h,100 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+152972,pluvieux,jour,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+153040,pluvieux,jour,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,aucun
+153157,pluvieux,jour,mouillé,60 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+153384,pluvieux,jour,mouillé,60 km/h,50 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+153456,pluvieux,jour,mouillé,60 km/h,50 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+153476,pluvieux,jour,mouillé,60 km/h,50 m,camion,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+153600,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+153652,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+153758,pluvieux,jour,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,50 km/h,véhicule prioritaire
+153837,pluvieux,jour,mouillé,60 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+153925,pluvieux,jour,mouillé,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+153928,pluvieux,jour,mouillé,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+153959,pluvieux,jour,mouillé,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+154093,pluvieux,jour,mouillé,60 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+154199,pluvieux,jour,mouillé,60 km/h,100 m,camion,20 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+154402,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+154409,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+154443,pluvieux,jour,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,aucun
+154562,pluvieux,jour,mouillé,60 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,voiture
+154705,pluvieux,jour,mouillé,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,véhicule prioritaire
+154739,pluvieux,jour,mouillé,60 km/h,150 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+154972,pluvieux,jour,mouillé,60 km/h,150 m,camion,20 m,aucune,voiture,en approche,100 m,80 km/h,véhicule prioritaire
+154989,pluvieux,jour,mouillé,60 km/h,150 m,camion,20 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+155189,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+155252,pluvieux,jour,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,aucune,camion,en approche,100 m,50 km/h,aucun
+155283,pluvieux,jour,mouillé,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+155373,pluvieux,jour,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+155437,pluvieux,jour,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,véhicule prioritaire
+155785,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+155810,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+155816,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+155924,pluvieux,jour,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,véhicule prioritaire
+156127,pluvieux,jour,mouillé,100 km/h,150 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,voiture
+156843,pluvieux,jour,mouillé,100 km/h,200 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+156945,pluvieux,jour,mouillé,100 km/h,200 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+157097,pluvieux,jour,mouillé,100 km/h,200 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+157318,pluvieux,jour,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+157751,pluvieux,nuit,sec,35 km/h,10 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+157847,pluvieux,nuit,sec,35 km/h,10 m,camion,libre,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+157850,pluvieux,nuit,sec,35 km/h,10 m,camion,libre,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+157949,pluvieux,nuit,sec,35 km/h,10 m,camion,libre,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+158162,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+158220,pluvieux,nuit,sec,35 km/h,50 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+158496,pluvieux,nuit,sec,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,aucun
+158524,pluvieux,nuit,sec,35 km/h,50 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+158539,pluvieux,nuit,sec,35 km/h,50 m,camion,libre,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+158686,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+158813,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+158867,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,50 km/h,véhicule prioritaire
+159052,pluvieux,nuit,sec,35 km/h,100 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+159178,pluvieux,nuit,sec,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+159519,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+159582,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,30 km/h,voiture
+159660,pluvieux,nuit,sec,60 km/h,50 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,aucun
+159848,pluvieux,nuit,sec,60 km/h,50 m,voiture,libre,aucune,véhicule prioritaire,en approche,10 m,50 km/h,aucun
+159897,pluvieux,nuit,sec,60 km/h,50 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+160012,pluvieux,nuit,sec,60 km/h,50 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+160017,pluvieux,nuit,sec,60 km/h,50 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+160085,pluvieux,nuit,sec,60 km/h,50 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+160179,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+160362,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,aucune,camion,en approche,10 m,30 km/h,aucun
+160376,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+160378,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,libre,aucune,camion,en approche,10 m,80 km/h,véhicule prioritaire
+160514,pluvieux,nuit,sec,60 km/h,100 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+160612,pluvieux,nuit,sec,60 km/h,100 m,voiture,libre,aucune,camion,en approche,10 m,80 km/h,voiture
+160690,pluvieux,nuit,sec,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,voiture
+160824,pluvieux,nuit,sec,60 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,voiture
+160915,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+160927,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,aucun
+160985,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+161037,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,30 km/h,aucun
+161200,pluvieux,nuit,sec,60 km/h,150 m,voiture,libre,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+161400,pluvieux,nuit,sec,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+161518,pluvieux,nuit,sec,60 km/h,150 m,camion,libre,aucune,voiture,en approche,50 m,80 km/h,aucun
+161557,pluvieux,nuit,sec,60 km/h,150 m,camion,libre,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+161935,pluvieux,nuit,sec,100 km/h,100 m,voiture,libre,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+162111,pluvieux,nuit,sec,100 km/h,100 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+162157,pluvieux,nuit,sec,100 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+162251,pluvieux,nuit,sec,100 km/h,100 m,camion,libre,aucune,voiture,en approche,10 m,50 km/h,aucun
+162420,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,voiture
+162486,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,10 m,30 km/h,véhicule prioritaire
+162502,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,10 m,80 km/h,voiture
+162517,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,aucun
+162734,pluvieux,nuit,sec,100 km/h,150 m,voiture,libre,aucune,voiture,en approche,50 m,50 km/h,aucun
+162876,pluvieux,nuit,sec,100 km/h,150 m,camion,libre,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,voiture
+163127,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+163160,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+163182,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+163236,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,30 km/h,véhicule prioritaire
+163693,pluvieux,nuit,sec,100 km/h,200 m,camion,libre,pressé (travail ou vol),camion,en approche,100 m,80 km/h,véhicule prioritaire
+163775,pluvieux,nuit,sec,100 km/h,200 m,camion,libre,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+163915,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+164520,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,aucun
+164901,pluvieux,nuit,sec,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+165001,pluvieux,nuit,sec,35 km/h,50 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,aucun
+165456,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+165629,pluvieux,nuit,sec,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+165714,pluvieux,nuit,sec,35 km/h,100 m,voiture,100 m,aucune,camion,en approche,50 m,30 km/h,voiture
+166096,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+166385,pluvieux,nuit,sec,60 km/h,50 m,voiture,100 m,aucune,voiture,en approche,100 m,50 km/h,voiture
+166503,pluvieux,nuit,sec,60 km/h,50 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,30 km/h,véhicule prioritaire
+166654,pluvieux,nuit,sec,60 km/h,50 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,voiture
+166661,pluvieux,nuit,sec,60 km/h,50 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,50 km/h,voiture
+166940,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,100 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+167270,pluvieux,nuit,sec,60 km/h,100 m,camion,100 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,aucun
+167315,pluvieux,nuit,sec,60 km/h,100 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+167373,pluvieux,nuit,sec,60 km/h,100 m,camion,100 m,aucune,voiture,en approche,10 m,30 km/h,véhicule prioritaire
+167573,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+167589,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,véhicule prioritaire
+167724,pluvieux,nuit,sec,60 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+167910,pluvieux,nuit,sec,60 km/h,150 m,voiture,100 m,aucune,camion,en approche,50 m,30 km/h,véhicule prioritaire
+167939,pluvieux,nuit,sec,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+168385,pluvieux,nuit,sec,60 km/h,150 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,80 km/h,voiture
+168507,pluvieux,nuit,sec,100 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+168929,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+168936,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+168978,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,voiture
+169136,pluvieux,nuit,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,50 km/h,aucun
+169191,pluvieux,nuit,sec,100 km/h,150 m,voiture,100 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+169396,pluvieux,nuit,sec,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+169403,pluvieux,nuit,sec,100 km/h,150 m,camion,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,aucun
+169498,pluvieux,nuit,sec,100 km/h,150 m,camion,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+169610,pluvieux,nuit,sec,100 km/h,150 m,camion,100 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+169689,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+169724,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+169761,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+170030,pluvieux,nuit,sec,100 km/h,200 m,voiture,100 m,aucune,voiture,en approche,100 m,50 km/h,voiture
+170047,pluvieux,nuit,sec,100 km/h,200 m,voiture,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+170292,pluvieux,nuit,sec,100 km/h,200 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+170397,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+170713,pluvieux,nuit,sec,35 km/h,10 m,voiture,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+170736,pluvieux,nuit,sec,35 km/h,10 m,voiture,50 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,voiture
+171095,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+171143,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,10 m,50 km/h,voiture
+171420,pluvieux,nuit,sec,35 km/h,50 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,50 m,30 km/h,véhicule prioritaire
+171536,pluvieux,nuit,sec,35 km/h,50 m,voiture,50 m,aucune,camion,en approche,50 m,50 km/h,aucun
+171622,pluvieux,nuit,sec,35 km/h,50 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+171704,pluvieux,nuit,sec,35 km/h,50 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+171908,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,véhicule prioritaire
+172095,pluvieux,nuit,sec,35 km/h,100 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+172403,pluvieux,nuit,sec,35 km/h,100 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+172449,pluvieux,nuit,sec,35 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,véhicule prioritaire
+172793,pluvieux,nuit,sec,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+172836,pluvieux,nuit,sec,60 km/h,50 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+172875,pluvieux,nuit,sec,60 km/h,50 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+173028,pluvieux,nuit,sec,60 km/h,50 m,camion,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+173047,pluvieux,nuit,sec,60 km/h,50 m,camion,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+173686,pluvieux,nuit,sec,60 km/h,100 m,voiture,50 m,aucune,voiture,en approche,50 m,80 km/h,véhicule prioritaire
+173888,pluvieux,nuit,sec,60 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+173939,pluvieux,nuit,sec,60 km/h,100 m,camion,50 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+173987,pluvieux,nuit,sec,60 km/h,100 m,camion,50 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+174085,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+174600,pluvieux,nuit,sec,60 km/h,150 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+174617,pluvieux,nuit,sec,60 km/h,150 m,camion,50 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,aucun
+174917,pluvieux,nuit,sec,60 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,voiture
+175531,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+175569,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+175685,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,50 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+175701,pluvieux,nuit,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+175743,pluvieux,nuit,sec,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+175772,pluvieux,nuit,sec,100 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+175925,pluvieux,nuit,sec,100 km/h,150 m,voiture,50 m,aucune,camion,en approche,100 m,50 km/h,véhicule prioritaire
+176001,pluvieux,nuit,sec,100 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+176391,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+176392,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,50 m,aucune,camion,en approche,100 m,80 km/h,aucun
+176566,pluvieux,nuit,sec,100 km/h,200 m,voiture,50 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,voiture
+176730,pluvieux,nuit,sec,100 km/h,200 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,voiture
+176743,pluvieux,nuit,sec,100 km/h,200 m,camion,50 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,aucun
+176898,pluvieux,nuit,sec,100 km/h,200 m,camion,50 m,aucune,camion,en approche,100 m,30 km/h,véhicule prioritaire
+176901,pluvieux,nuit,sec,100 km/h,200 m,camion,50 m,aucune,camion,en approche,50 m,30 km/h,véhicule prioritaire
+176961,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,aucun
+177015,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+177109,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,10 m,80 km/h,voiture
+177225,pluvieux,nuit,sec,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,véhicule prioritaire
+177419,pluvieux,nuit,sec,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+177517,pluvieux,nuit,sec,35 km/h,10 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+177666,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+177807,pluvieux,nuit,sec,35 km/h,10 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,30 km/h,voiture
+178029,pluvieux,nuit,sec,35 km/h,50 m,voiture,20 m,pressé (travail ou vol),camion,en approche,10 m,30 km/h,voiture
+178393,pluvieux,nuit,sec,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+178677,pluvieux,nuit,sec,35 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+178870,pluvieux,nuit,sec,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,véhicule prioritaire
+179092,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,aucun
+179231,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+179233,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,aucun
+179236,pluvieux,nuit,sec,35 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+179387,pluvieux,nuit,sec,60 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+179736,pluvieux,nuit,sec,60 km/h,50 m,camion,20 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+179747,pluvieux,nuit,sec,60 km/h,50 m,camion,20 m,aucune,voiture,en approche,10 m,50 km/h,aucun
+179893,pluvieux,nuit,sec,60 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,véhicule prioritaire
+180108,pluvieux,nuit,sec,60 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+180208,pluvieux,nuit,sec,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+180305,pluvieux,nuit,sec,60 km/h,100 m,voiture,20 m,aucune,camion,en approche,10 m,50 km/h,véhicule prioritaire
+180464,pluvieux,nuit,sec,60 km/h,100 m,camion,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,véhicule prioritaire
+180695,pluvieux,nuit,sec,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+180855,pluvieux,nuit,sec,60 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+180860,pluvieux,nuit,sec,60 km/h,150 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+180875,pluvieux,nuit,sec,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+180901,pluvieux,nuit,sec,60 km/h,150 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+181014,pluvieux,nuit,sec,60 km/h,150 m,voiture,20 m,aucune,camion,en approche,50 m,30 km/h,aucun
+181257,pluvieux,nuit,sec,60 km/h,150 m,camion,20 m,aucune,camion,en approche,50 m,30 km/h,aucun
+181570,pluvieux,nuit,sec,100 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+181618,pluvieux,nuit,sec,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,voiture
+181667,pluvieux,nuit,sec,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,voiture
+181849,pluvieux,nuit,sec,100 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+181852,pluvieux,nuit,sec,100 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+181868,pluvieux,nuit,sec,100 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,50 m,50 km/h,véhicule prioritaire
+182041,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+182099,pluvieux,nuit,sec,100 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,voiture
+182717,pluvieux,nuit,sec,100 km/h,150 m,camion,20 m,aucune,camion,en approche,10 m,50 km/h,aucun
+182801,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,voiture
+182912,pluvieux,nuit,sec,100 km/h,150 m,véhicule prioritaire,20 m,aucune,voiture,en approche,50 m,50 km/h,voiture
+183142,pluvieux,nuit,sec,100 km/h,200 m,voiture,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+183303,pluvieux,nuit,sec,100 km/h,200 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+183520,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,aucun
+183628,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+183663,pluvieux,nuit,sec,100 km/h,200 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,aucun
+183823,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+184143,pluvieux,nuit,mouillé,35 km/h,10 m,camion,libre,aucune,véhicule prioritaire,en approche,100 m,30 km/h,aucun
+184402,pluvieux,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+184659,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,libre,aucune,camion,en approche,50 m,30 km/h,aucun
+184666,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,libre,aucune,camion,en approche,50 m,80 km/h,voiture
+184692,pluvieux,nuit,mouillé,35 km/h,50 m,camion,libre,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+185117,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+185481,pluvieux,nuit,mouillé,35 km/h,100 m,camion,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,voiture
+185639,pluvieux,nuit,mouillé,35 km/h,100 m,camion,libre,aucune,camion,en approche,50 m,50 km/h,voiture
+185706,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+185720,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+185774,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,libre,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+186035,pluvieux,nuit,mouillé,60 km/h,50 m,voiture,libre,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+186739,pluvieux,nuit,mouillé,60 km/h,100 m,voiture,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+186827,pluvieux,nuit,mouillé,60 km/h,100 m,voiture,libre,aucune,véhicule prioritaire,en approche,50 m,50 km/h,voiture
+186849,pluvieux,nuit,mouillé,60 km/h,100 m,voiture,libre,aucune,camion,en approche,10 m,30 km/h,aucun
+186901,pluvieux,nuit,mouillé,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+186909,pluvieux,nuit,mouillé,60 km/h,100 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+187002,pluvieux,nuit,mouillé,60 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+187034,pluvieux,nuit,mouillé,60 km/h,100 m,camion,libre,aucune,voiture,en approche,50 m,50 km/h,aucun
+187090,pluvieux,nuit,mouillé,60 km/h,100 m,camion,libre,aucune,camion,en approche,10 m,80 km/h,aucun
+187154,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+187359,pluvieux,nuit,mouillé,60 km/h,150 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,aucun
+187530,pluvieux,nuit,mouillé,60 km/h,150 m,voiture,libre,aucune,voiture,en approche,50 m,30 km/h,voiture
+187641,pluvieux,nuit,mouillé,60 km/h,150 m,camion,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+187716,pluvieux,nuit,mouillé,60 km/h,150 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,voiture
+187755,pluvieux,nuit,mouillé,60 km/h,150 m,camion,libre,pressé (travail ou vol),camion,en approche,50 m,30 km/h,véhicule prioritaire
+188134,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+188135,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+188413,pluvieux,nuit,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+188460,pluvieux,nuit,mouillé,100 km/h,100 m,camion,libre,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+188527,pluvieux,nuit,mouillé,100 km/h,100 m,camion,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+188741,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,libre,aucune,voiture,en approche,100 m,50 km/h,voiture
+188950,pluvieux,nuit,mouillé,100 km/h,150 m,voiture,libre,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+189445,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,libre,pressé (travail ou vol),camion,en approche,50 m,80 km/h,voiture
+189506,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+189547,pluvieux,nuit,mouillé,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+189603,pluvieux,nuit,mouillé,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+189614,pluvieux,nuit,mouillé,100 km/h,200 m,voiture,libre,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+190057,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,libre,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,80 km/h,aucun
+190228,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,libre,aucune,véhicule prioritaire,en approche,50 m,80 km/h,voiture
+190258,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,libre,aucune,camion,en approche,10 m,80 km/h,voiture
+190586,pluvieux,nuit,mouillé,35 km/h,10 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,véhicule prioritaire
+190657,pluvieux,nuit,mouillé,35 km/h,10 m,camion,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+190721,pluvieux,nuit,mouillé,35 km/h,10 m,camion,100 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+190880,pluvieux,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+190958,pluvieux,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,voiture
+191149,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,voiture
+191260,pluvieux,nuit,mouillé,35 km/h,50 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,véhicule prioritaire
+191512,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,aucun
+191565,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+191567,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+191882,pluvieux,nuit,mouillé,35 km/h,100 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,véhicule prioritaire
+191991,pluvieux,nuit,mouillé,35 km/h,100 m,camion,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,véhicule prioritaire
+192054,pluvieux,nuit,mouillé,35 km/h,100 m,camion,100 m,pressé (travail ou vol),voiture,en approche,100 m,30 km/h,aucun
+192281,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+192365,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+192379,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,aucune,voiture,en approche,50 m,80 km/h,aucun
+192407,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+192450,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,100 m,aucune,camion,en approche,100 m,30 km/h,véhicule prioritaire
+192588,pluvieux,nuit,mouillé,60 km/h,50 m,voiture,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+192650,pluvieux,nuit,mouillé,60 km/h,50 m,voiture,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+192864,pluvieux,nuit,mouillé,60 km/h,50 m,camion,100 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+192906,pluvieux,nuit,mouillé,60 km/h,50 m,camion,100 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+193053,pluvieux,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,30 km/h,aucun
+193648,pluvieux,nuit,mouillé,60 km/h,100 m,camion,100 m,aucune,camion,en approche,50 m,80 km/h,aucun
+193657,pluvieux,nuit,mouillé,60 km/h,100 m,camion,100 m,aucune,camion,en approche,50 m,80 km/h,voiture
+193718,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+194068,pluvieux,nuit,mouillé,60 km/h,150 m,voiture,100 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,véhicule prioritaire
+194234,pluvieux,nuit,mouillé,60 km/h,150 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+194663,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+194749,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,100 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+194829,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,100 m,aucune,voiture,en approche,50 m,30 km/h,véhicule prioritaire
+195132,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,aucun
+195257,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+195280,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,80 km/h,voiture
+195281,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,100 m,pressé (travail ou vol),camion,en approche,10 m,50 km/h,voiture
+195771,pluvieux,nuit,mouillé,100 km/h,150 m,camion,100 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,véhicule prioritaire
+195809,pluvieux,nuit,mouillé,100 km/h,150 m,camion,100 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+195873,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),voiture,en approche,50 m,30 km/h,voiture
+195934,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,100 m,urgence (vers l'hôpital),camion,en approche,50 m,80 km/h,véhicule prioritaire
+196080,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,100 m,aucune,camion,en approche,50 m,30 km/h,aucun
+196419,pluvieux,nuit,mouillé,100 km/h,200 m,camion,100 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+196678,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,pressé (travail ou vol),voiture,en approche,100 m,80 km/h,voiture
+196795,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,100 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,véhicule prioritaire
+197297,pluvieux,nuit,mouillé,35 km/h,10 m,camion,50 m,aucune,camion,en approche,10 m,50 km/h,aucun
+197312,pluvieux,nuit,mouillé,35 km/h,10 m,camion,50 m,aucune,camion,en approche,50 m,50 km/h,véhicule prioritaire
+197782,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,50 m,aucune,camion,en approche,10 m,80 km/h,aucun
+198678,pluvieux,nuit,mouillé,35 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+198681,pluvieux,nuit,mouillé,35 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,voiture
+198766,pluvieux,nuit,mouillé,35 km/h,100 m,camion,50 m,aucune,camion,en approche,100 m,80 km/h,véhicule prioritaire
+198779,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,50 m,50 km/h,aucun
+198794,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,50 km/h,véhicule prioritaire
+199376,pluvieux,nuit,mouillé,60 km/h,50 m,camion,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+199528,pluvieux,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,véhicule prioritaire
+199635,pluvieux,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,véhicule prioritaire
+200134,pluvieux,nuit,mouillé,60 km/h,100 m,camion,50 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,voiture
+200212,pluvieux,nuit,mouillé,60 km/h,100 m,camion,50 m,aucune,camion,en approche,10 m,80 km/h,aucun
+200300,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,voiture
+200347,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+200386,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),camion,en approche,100 m,80 km/h,véhicule prioritaire
+200425,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,50 m,aucune,véhicule prioritaire,en approche,50 m,80 km/h,aucun
+200583,pluvieux,nuit,mouillé,60 km/h,150 m,voiture,50 m,pressé (travail ou vol),voiture,en approche,10 m,30 km/h,véhicule prioritaire
+200718,pluvieux,nuit,mouillé,60 km/h,150 m,voiture,50 m,aucune,camion,en approche,10 m,30 km/h,véhicule prioritaire
+200793,pluvieux,nuit,mouillé,60 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,100 m,30 km/h,véhicule prioritaire
+200971,pluvieux,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),voiture,en approche,100 m,80 km/h,voiture
+201015,pluvieux,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+201136,pluvieux,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,50 m,aucune,voiture,en approche,50 m,80 km/h,voiture
+201637,pluvieux,nuit,mouillé,100 km/h,100 m,camion,50 m,aucune,véhicule prioritaire,en approche,100 m,80 km/h,aucun
+201778,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,50 m,pressé (travail ou vol),voiture,en approche,10 m,80 km/h,aucun
+201996,pluvieux,nuit,mouillé,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,aucun
+202003,pluvieux,nuit,mouillé,100 km/h,150 m,voiture,50 m,urgence (vers l'hôpital),camion,en approche,10 m,80 km/h,voiture
+202257,pluvieux,nuit,mouillé,100 km/h,150 m,camion,50 m,urgence (vers l'hôpital),camion,en approche,10 m,30 km/h,véhicule prioritaire
+202352,pluvieux,nuit,mouillé,100 km/h,150 m,camion,50 m,aucune,voiture,en approche,50 m,50 km/h,voiture
+202827,pluvieux,nuit,mouillé,100 km/h,200 m,voiture,50 m,aucune,voiture,en approche,100 m,30 km/h,aucun
+203121,pluvieux,nuit,mouillé,100 km/h,200 m,camion,50 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+203278,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,50 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,80 km/h,véhicule prioritaire
+203404,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),voiture,en approche,50 m,80 km/h,voiture
+203455,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+203468,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,20 m,urgence (vers l'hôpital),camion,en approche,50 m,50 km/h,véhicule prioritaire
+203474,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),voiture,en approche,100 m,50 km/h,aucun
+203541,pluvieux,nuit,mouillé,35 km/h,10 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,30 km/h,voiture
+203671,pluvieux,nuit,mouillé,35 km/h,10 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,80 km/h,voiture
+203759,pluvieux,nuit,mouillé,35 km/h,10 m,camion,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,voiture
+204005,pluvieux,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,véhicule prioritaire
+204016,pluvieux,nuit,mouillé,35 km/h,10 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,50 m,80 km/h,aucun
+204161,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,voiture
+204289,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,20 m,aucune,voiture,en approche,10 m,80 km/h,aucun
+204311,pluvieux,nuit,mouillé,35 km/h,50 m,voiture,20 m,aucune,véhicule prioritaire,en approche,100 m,50 km/h,aucun
+204591,pluvieux,nuit,mouillé,35 km/h,50 m,camion,20 m,aucune,camion,en approche,100 m,30 km/h,voiture
+204656,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,50 km/h,véhicule prioritaire
+204720,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,aucun
+204740,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,50 km/h,véhicule prioritaire
+204809,pluvieux,nuit,mouillé,35 km/h,50 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,voiture
+204885,pluvieux,nuit,mouillé,35 km/h,100 m,voiture,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,aucun
+205099,pluvieux,nuit,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,80 km/h,aucun
+205110,pluvieux,nuit,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),voiture,en approche,10 m,30 km/h,voiture
+205127,pluvieux,nuit,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,50 km/h,aucun
+205148,pluvieux,nuit,mouillé,35 km/h,100 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,100 m,50 km/h,aucun
+205347,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),voiture,en approche,100 m,30 km/h,voiture
+205399,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),camion,en approche,100 m,80 km/h,voiture
+205498,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,aucun
+205529,pluvieux,nuit,mouillé,35 km/h,100 m,véhicule prioritaire,20 m,aucune,véhicule prioritaire,en approche,50 m,50 km/h,aucun
+205718,pluvieux,nuit,mouillé,60 km/h,50 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,aucun
+206149,pluvieux,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),voiture,en approche,50 m,80 km/h,aucun
+206197,pluvieux,nuit,mouillé,60 km/h,50 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,véhicule prioritaire
+206465,pluvieux,nuit,mouillé,60 km/h,100 m,voiture,20 m,pressé (travail ou vol),camion,en approche,50 m,50 km/h,véhicule prioritaire
+206639,pluvieux,nuit,mouillé,60 km/h,100 m,camion,20 m,pressé (travail ou vol),voiture,en approche,10 m,50 km/h,aucun
+206930,pluvieux,nuit,mouillé,60 km/h,100 m,véhicule prioritaire,20 m,pressé (travail ou vol),camion,en approche,100 m,50 km/h,aucun
+207339,pluvieux,nuit,mouillé,60 km/h,150 m,camion,20 m,urgence (vers l'hôpital),camion,en approche,50 m,30 km/h,aucun
+207551,pluvieux,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+207645,pluvieux,nuit,mouillé,60 km/h,150 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+207884,pluvieux,nuit,mouillé,100 km/h,100 m,voiture,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,100 m,50 km/h,voiture
+208053,pluvieux,nuit,mouillé,100 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,voiture
+208062,pluvieux,nuit,mouillé,100 km/h,100 m,camion,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,30 km/h,véhicule prioritaire
+208423,pluvieux,nuit,mouillé,100 km/h,100 m,véhicule prioritaire,20 m,aucune,voiture,en approche,100 m,80 km/h,voiture
+208944,pluvieux,nuit,mouillé,100 km/h,150 m,camion,20 m,aucune,véhicule prioritaire,en approche,10 m,30 km/h,voiture
+209014,pluvieux,nuit,mouillé,100 km/h,150 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,10 m,80 km/h,aucun
+209613,pluvieux,nuit,mouillé,100 km/h,200 m,camion,20 m,pressé (travail ou vol),camion,en approche,100 m,30 km/h,voiture
+209738,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,100 m,50 km/h,aucun
+209751,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,urgence (vers l'hôpital),véhicule prioritaire,en approche,50 m,30 km/h,voiture
+209833,pluvieux,nuit,mouillé,100 km/h,200 m,véhicule prioritaire,20 m,pressé (travail ou vol),véhicule prioritaire,en approche,10 m,80 km/h,voiture

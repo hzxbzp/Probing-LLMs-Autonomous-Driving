@@ -1,0 +1,6 @@
+# Copy this file to config.yaml (same folder) and insert your own API keys.
+# config.yaml is read by the scripts in code/2_llm_queries/. Never commit or share it.
+OPENAI_API_TYPE: 'openai'
+OPENAI_KEY: 'sk-...'                 # OpenAI API key (GPT-4o, Batch API)
+DEEPSEEK_KEY: 'sk-...'               # DeepSeek API key (https://api.deepseek.com, model deepseek-chat = DeepSeek-V3-0324 at the time of the study)
+LLAMA3_LLMAPI_KEY: '...'             # Lambda Inference API key (https://api.lambda.ai/v1, model llama3.1-405b)
