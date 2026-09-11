@@ -242,7 +242,6 @@ python code/5_thematic_analysis/radar_S4_handling_pedestrian_crossing.py
 │       ├── all_scenarios_{en,cn,fr}.csv    full factorial design
 │       └── sample_1500_{en,cn,fr}.csv      the 1,500 cases used in the experiment
 ├── prompts/                      human-readable prompt set, 4 scenarios × 3 languages
-├── paper/Appendix.pdf            supplementary appendices A1–A4
 ├── Replication Explanatory File for Journal-Associated Data.docx
 ├── config.example.yaml           API-key template for step 2
 ├── pipeline.png                  Fig. 1
@@ -255,7 +254,6 @@ python code/5_thematic_analysis/radar_S4_handling_pedestrian_crossing.py
 
 | File | Contents |
 | --- | --- |
-| [`paper/Appendix.pdf`](paper/Appendix.pdf) | **A1** Translation artifacts in the multilingual prompts (back-translation, semantic similarity, tone and framing) · **A2** Open-ended response analysis for the pedestrian-crossing scenario · **A3** Robustness check of the independence assumption of the ordered logit model · **A4** Multicollinearity diagnostics |
 | [`Replication Explanatory File…`](Replication%20Explanatory%20File%20for%20Journal-Associated%20Data.docx) | Journal replication form: data, code, software and experiment-design description |
 | [`prompts/`](prompts/) | Full prompt set: system prompt, behavioural options and an example context block for every scenario × language |
 
